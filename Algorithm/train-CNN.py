@@ -5,6 +5,8 @@ Created on Thu Mar 22 19:59:47 2018
 @author: xzf0724
 """
 
+import os
+
 import numpy as np
 import time
 np.random.seed(1337)
@@ -26,7 +28,8 @@ EMBEDDING_DIM = 200 # Dimension of word vector
 
 print('Indexing word vectors.')
 embeddings_index = {}
-f = open('D:/data/word2vecNocopy.200d.txt')
+dir_name = os.path.dirname(__file__)
+f = open(dir_name + '/word2vecNocopy.200d.txt')
 for line in f:
     values = line.split()
     word = values[0]
