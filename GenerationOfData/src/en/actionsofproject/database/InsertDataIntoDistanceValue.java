@@ -147,12 +147,12 @@ public class InsertDataIntoDistanceValue {
 //				new ASTReader(project, ASTReader.getSystemObject(), null);
 //			}
 			//else {
-				try {
+//				try {
 					new ASTReader(project, null);
-				} catch (CompilationErrorDetectedException e) {
+//				} catch (CompilationErrorDetectedException e) {
 					// TODO Auto-generated catch block
-					e.printStackTrace();
-				}
+//					e.printStackTrace();
+//				}
 			//}
 		
 		
