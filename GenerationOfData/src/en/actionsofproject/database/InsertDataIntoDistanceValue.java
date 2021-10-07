@@ -11,6 +11,7 @@ import java.util.Set;
 import org.eclipse.core.runtime.IProgressMonitor;
 import org.eclipse.jdt.core.IJavaProject;
 import org.eclipse.jface.operation.IRunnableWithProgress;
+import org.eclipse.jface.preference.IPreferenceStore;
 import org.eclipse.ui.IWorkbench;
 import org.eclipse.ui.PlatformUI;
 import org.eclipse.ui.progress.IProgressService;
@@ -19,7 +20,6 @@ import en.actionsofproject.database.ActionsAboutDB;
 import en.actionsofproject.database.ui.DistanceValue;
 import gr.uom.java.ast.ASTReader;
 import gr.uom.java.ast.ClassObject;
-import gr.uom.java.ast.CompilationErrorDetectedException;
 import gr.uom.java.ast.CompilationUnitCache;
 import gr.uom.java.ast.SystemObject;
 import gr.uom.java.distance.DistanceMatrix;
@@ -28,6 +28,8 @@ import gr.uom.java.distance.MyClass;
 import gr.uom.java.distance.MyMethod;
 import gr.uom.java.distance.MySystem;
 import gr.uom.java.distance.SystemEntityPlacement;
+import gr.uom.java.jdeodorant.preferences.PreferenceConstants;
+import gr.uom.java.jdeodorant.refactoring.Activator;
 
 public class InsertDataIntoDistanceValue {    
 		
@@ -148,6 +150,11 @@ public class InsertDataIntoDistanceValue {
 //			}
 			//else {
 //				try {
+					if (Activator.getDefault() == null) {
+						new Activator();
+						IPreferenceStore store = Activator.getDefault().getPreferenceStore();
+					    store.setDefault(PreferenceConstants.P_PROJECT_COMPILATION_UNIT_CACHE_SIZE, 100);
+					}
 					new ASTReader(project, null);
 //				} catch (CompilationErrorDetectedException e) {
 					// TODO Auto-generated catch block

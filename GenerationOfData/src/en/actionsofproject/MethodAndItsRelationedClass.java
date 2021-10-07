@@ -70,7 +70,7 @@ public class MethodAndItsRelationedClass {
 					 classNames = relatedClass.methodAndItsdestinations.get(method);
 					 Entity entity = new Entity(method);
 					 MethodDeclaration methodDeclaration = (MethodDeclaration) entity.getAssociatedNode();
-					 if(!classNames.isEmpty())
+					 if(classNames != null && !classNames.isEmpty())
 						try {
 							addRelations(method, methodDeclaration, classNames);
 						} catch (Exception e) {
@@ -108,6 +108,9 @@ public class MethodAndItsRelationedClass {
 	}
 
 	public String methodParameters(MethodDeclaration methodDeclaration){
+		if (methodDeclaration == null) {
+			return "0";
+		}
 		ITypeBinding[] parameters = methodDeclaration.resolveBinding().getParameterTypes();
 		List<String> parameterList = new ArrayList<String>();
 		if(parameters.length!=0)
