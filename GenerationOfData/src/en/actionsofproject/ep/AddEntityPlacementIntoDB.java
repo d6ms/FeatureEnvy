@@ -24,7 +24,7 @@ public class AddEntityPlacementIntoDB {
 		insertIntoEntityPlacement();
 	}
 	public void insertIntoEntityPlacement() throws Exception{
-		ActionsAboutDB actionsAboutDB = new ActionsAboutDB();
+		ActionsAboutDB actionsAboutDB = ActionsAboutDB.getInstance();
 		int maxTableRow = actionsAboutDB.getTableMaxRow(4);
 		Set<String> classNames = entityPlacementValue.keySet();
 		for(String className : classNames){

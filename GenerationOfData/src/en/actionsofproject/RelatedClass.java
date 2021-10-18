@@ -70,7 +70,7 @@ public class RelatedClass {
 	Map<IMethod, IVariableBinding> methodAndTarget = new HashMap();//method and it's one target
 	Map<IMethod, MethodDeclaration> methodAndItsMethodDeclaration =new HashMap();//
 	List<IMethod> allMethodsCanBeMoved = new ArrayList<IMethod>();
-	public List<MoveMethodNode> refactorNodes = new ArrayList<>();//ÓÐ¼¸¸ö¿ÉÒÔÒÆ¶¯µ½µÄÄ¿µÄµØÀà£¬¾ÍÓÐ¼¸¸ö½Úµã
+	public List<MoveMethodNode> refactorNodes = new ArrayList<>();//ï¿½Ð¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ¶ï¿½ï¿½ï¿½ï¿½ï¿½Ä¿ï¿½Äµï¿½ï¿½à£¬ï¿½ï¿½ï¿½Ð¼ï¿½ï¿½ï¿½ï¿½Úµï¿½
 	public List<IVariableBinding> IVarbindsCanMove = new ArrayList<>();
 	public static int refactorSteps = 1;
 	
@@ -236,7 +236,7 @@ public class RelatedClass {
 	}
 	protected void refactoringsExcute(List<IMethod> allMethods, Map<IMethod, IVariableBinding> methodAndTarget) {
 		 ActionsAboutUndo undoActions = new ActionsAboutUndo();
-		 ActionsAboutDB actionsAboutDB1 = new ActionsAboutDB();
+		 ActionsAboutDB actionsAboutDB1 = ActionsAboutDB.getInstance();
 		 int num = 0;
 		
 			try {
@@ -260,14 +260,14 @@ public class RelatedClass {
 					// TODO Auto-generated catch block
 					e1.printStackTrace();
 				}
-				 if(!undoActions.calculateCompilationErrorMarkers(iProject)){//±àÒë²»³öÏÖ´íÎó
+				 if(!undoActions.calculateCompilationErrorMarkers(iProject)){//ï¿½ï¿½ï¿½ë²»ï¿½ï¿½ï¿½Ö´ï¿½ï¿½ï¿½
 					 undoActions.undo();
 					 MethodDeclaration methodDeclaration = methodAndItsMethodDeclaration.get(allMethods.get(i));
 					 String methodItselfClass = methodDeclaration.resolveBinding().getDeclaringClass().getQualifiedName();
 //					 addClassInfo(num);
 					 String methodOfClass = methodAndTarget.get(allMethods.get(i)).getType().getQualifiedName();
 					 String methodName = allMethods.get(i).getElementName();
-					 ActionsAboutDB actionsAboutDB = new ActionsAboutDB();
+					 ActionsAboutDB actionsAboutDB = ActionsAboutDB.getInstance();
 					 
 					try {
 //						 System.out.println("start insert into methodinfo-----");
@@ -303,7 +303,7 @@ public class RelatedClass {
 	}
 	public void addClassInfo() throws Exception{
 		System.out.println("start insert into classinfo-------------");
-		ActionsAboutDB actionsAboutDB = new ActionsAboutDB();
+		ActionsAboutDB actionsAboutDB = ActionsAboutDB.getInstance();
 		int maxTableRow = actionsAboutDB.getTableMaxRow(3)+1;
 		for(int i = 0; i<types.size(); i++){
 			IType type= types.get(i);
@@ -349,7 +349,7 @@ public class RelatedClass {
 	public void addRelations(IMethod method, List<String> classNames,int num) throws Exception{
 		//System.out.println("inter addRelations--------------");
 
-		ActionsAboutDB actionsAboutDB = new ActionsAboutDB();
+		ActionsAboutDB actionsAboutDB = ActionsAboutDB.getInstance();
 		System.out.println("Method name -----------------"+method.getElementName());
 		//System.out.println("method of class---------"+method.getDeclaringType().getFullyQualifiedName());
 //		int methodId = actionsAboutDB.getRelationsMethodID(method.getElementName(), method.getDeclaringType().getFullyQualifiedName(),num);
@@ -363,7 +363,7 @@ public class RelatedClass {
 		
 		for(String className :classNames){
 			//System.out.println("ClassQualifiedName &&&&&&&&&&------" + className);
-			ActionsAboutDB actionsAboutDB1 = new ActionsAboutDB();
+			ActionsAboutDB actionsAboutDB1 = ActionsAboutDB.getInstance();
 			maxTableRow = actionsAboutDB1.getTableMaxRow(1);
 //			int classId = actionsAboutDB1.getRelationsClassID(className,num);
 			//System.out.println("classId*********************"+ classId);
@@ -380,7 +380,7 @@ public class RelatedClass {
 			if(!method0.equals(method)){
 				String methodOfClass = method.getDeclaringType().getFullyQualifiedName();
 				String methodName = method.getElementName();
-				ActionsAboutDB actionsAboutDB = new ActionsAboutDB();
+				ActionsAboutDB actionsAboutDB = ActionsAboutDB.getInstance();
 				try {
 					 int maxTableRow = actionsAboutDB.getTableMaxRow(2);
 //					 MethodInfo methodInfo = new MethodInfo(maxTableRow+1, methodName, methodOfClass, 0, num);

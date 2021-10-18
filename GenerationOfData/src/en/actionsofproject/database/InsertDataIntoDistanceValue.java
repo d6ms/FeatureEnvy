@@ -70,7 +70,7 @@ public class InsertDataIntoDistanceValue {
 					String[] methodNames = distanceMatrix.getEntityNames();
 					classList = distanceMatrix.getClassList();
 					entityList = distanceMatrix.getEntityList();
-					ActionsAboutDB actionsAboutDB = new ActionsAboutDB();
+					ActionsAboutDB actionsAboutDB = ActionsAboutDB.getInstance();
 					int maxTableRow =0;
 					try {
 						maxTableRow = actionsAboutDB.getTableMaxRowofDistance()+1;

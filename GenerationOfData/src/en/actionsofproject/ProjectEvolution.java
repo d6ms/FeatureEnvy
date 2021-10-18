@@ -112,7 +112,7 @@ public class ProjectEvolution {
 	}
 	public void insertClassinfoIntoDB() throws Exception{
 		
-		ActionsAboutDB actionsAboutDB = new ActionsAboutDB();
+		ActionsAboutDB actionsAboutDB = ActionsAboutDB.getInstance();
 		int maxTableRow = actionsAboutDB.getTableMaxRow(3)+1;
 		System.out.println("maxTableRow--------"+maxTableRow);
 		for(int i = 0; i<types.size(); i++){//insert classinfo into DB
@@ -270,7 +270,7 @@ public class ProjectEvolution {
 		parser.setSource(compilationUnit);
 		parser.setProject(compilationUnit.getJavaProject());
 		//Config.projectName=compilationUnit.getJavaProject().getElementName();
-	//	System.out.println("ÏîÄ¿Ãû³Æ£º"+compilationUnit.getJavaProject().getElementName());
+	//	System.out.println("ï¿½ï¿½Ä¿ï¿½ï¿½ï¿½Æ£ï¿½"+compilationUnit.getJavaProject().getElementName());
 		IPath path=compilationUnit.getPath();
 		parser.setUnitName(path.toString());
 		parser.setResolveBindings(true);

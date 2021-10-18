@@ -11,8 +11,10 @@ import en.actionsofproject.database.ui.Relations;
 
 public class ActionsAboutDB {
 	
-	Connection conn;
-	public ActionsAboutDB(){
+	private static final ActionsAboutDB INSTANCE = new ActionsAboutDB();
+	
+	private Connection conn;
+	private ActionsAboutDB(){
 		try {
 			this.conn = getConn();
 		} catch (Exception e) {
@@ -20,7 +22,12 @@ public class ActionsAboutDB {
 			e.printStackTrace();
 		}
 	}
-	public Connection getConn() throws Exception{
+	
+	public static ActionsAboutDB getInstance() {
+		return INSTANCE;
+	}
+	
+	private Connection getConn() throws Exception{
 		Class.forName("com.mysql.jdbc.Driver");
 		
         Connection conn = DriverManager.getConnection(
@@ -32,7 +39,6 @@ public class ActionsAboutDB {
 	}
 	public int getTableMaxRow(int i) throws Exception{
 		String sql = null;
-		Connection conn = getConn();
 		if(i == 1){
 			sql = "select max(KeyNum) from relations;";
 		}else{
@@ -60,12 +66,10 @@ public class ActionsAboutDB {
 	    			
 	    }
 	    pstmt.close();
-		conn.close();
 	    return maxRow;
 	}
 	public int getMaxTimes() throws Exception{
 		String sql =  "select max(NumOfTimes) from classinfo;";
-		Connection conn = getConn();
 		PreparedStatement pstmt = (PreparedStatement)conn.prepareStatement(sql);
 	    ResultSet rs = pstmt.executeQuery();
 	    int maxTimes = 0;
@@ -73,7 +77,6 @@ public class ActionsAboutDB {
 	    	maxTimes = rs.getInt("max(NumOfTimes)");
 	    }
 	    pstmt.close();
-		conn.close();
 	    return maxTimes;
 		
 	}
@@ -89,13 +92,9 @@ public class ActionsAboutDB {
 		PreparedStatement pstmt = (PreparedStatement)conn.prepareStatement(sql);
 	    ResultSet rs = pstmt.executeQuery();
 	    pstmt.close();
-		conn.close();
 	}
 	public int getRelationsClassID(String className) throws Exception {
 		int classId = 0;
-		if(conn.isClosed()){
-			conn = getConn();
-		}
 		String sql = "select ClassID from ClassInfo where ClassQualifiedName = ?;";
 		PreparedStatement pstmt;
 		pstmt = (PreparedStatement) conn.prepareStatement(sql);
@@ -105,14 +104,10 @@ public class ActionsAboutDB {
 	    	classId = rs.getInt("ClassID");
 	    }
 		pstmt.close();
-		conn.close();
 		return classId;
 	}
 	public int getRelationsMethodID(String methodName, String methodparameters, String className) throws Exception {
 		int methodId = 0;
-		if(conn.isClosed()){
-			conn = getConn();
-		}
 		String sql = "select methodID from MethodInfo where methodName = ? and methodParameters = ? and methodOfClass = ?;";
 		PreparedStatement pstmt;
 		pstmt = (PreparedStatement) conn.prepareStatement(sql);
@@ -124,16 +119,12 @@ public class ActionsAboutDB {
 	    	methodId = rs.getInt("MethodID");
 	    }
 		pstmt.close();
-		conn.close();
 		return methodId;
 	}
 	
 	public int insertClassInfo(ClassInfo classInfo) throws Exception{
 		int i = 0;
 		if(whetherClassIsExistOrNot(classInfo.getClassQualifiedName())==0){
-			if(conn.isClosed()){
-				conn = getConn();
-			}
 			String sql = "insert into ClassInfo (ClassID,ClassQualifiedName,ClassName) values(?,?,?);";
 			PreparedStatement pstmt;
 			pstmt = (PreparedStatement) conn.prepareStatement(sql);
@@ -142,16 +133,12 @@ public class ActionsAboutDB {
 			pstmt.setString(3, classInfo.getClassName());
 			i = pstmt.executeUpdate();
 			pstmt.close();
-			conn.close();
 		}
 		
 		return i; 
 	}
 	public int whetherClassIsExistOrNot(String classQualifiedName) throws Exception{
 		int i=0;
-		if(conn.isClosed()){
-			conn = getConn();
-		}
 		String sql ="select * from ClassInfo where classQualifiedName = ?;";
 		PreparedStatement pstmt;
 		pstmt = (PreparedStatement) conn.prepareStatement(sql);
@@ -160,7 +147,6 @@ public class ActionsAboutDB {
 		if(rs.next())
 			i = 1;
 		pstmt.close();
-		conn.close();
 		System.out.println("whetherClassIsExistOrNot-----------"+i);
 		return i;
 	}
@@ -180,9 +166,6 @@ public class ActionsAboutDB {
 	public int insertMethodInfo(MethodInfo methodInfo) throws Exception{
 		int i = 0;
 		if(whetherMethodIsExistOrNot(methodInfo.getMethodName(),methodInfo.getMethodKey(),methodInfo.getMethodOfClass())==0){
-			if(conn.isClosed()){
-				conn = getConn();
-			}
 			String sql = "insert into methodinfo (MethodID, MethodName, MethodParameters, MethodOfClass) values(?,?,?,?);";
 			PreparedStatement pstmt;
 			pstmt = (PreparedStatement) conn.prepareStatement(sql);
@@ -192,16 +175,12 @@ public class ActionsAboutDB {
 			pstmt.setString(4, methodInfo.getMethodOfClass());
 			i = pstmt.executeUpdate();
 			pstmt.close();
-			conn.close();
 		}
 //		System.out.println("methodinfo the num of insert----" + i);
 		return i;
 	}
 	public int whetherMethodIsExistOrNot(String methodName, String methodKey, String methodOfClass) throws Exception{
 		int i = 0;
-		if(conn.isClosed()){
-			conn = getConn();
-		}
 		String sql ="select * from MethodInfo where methodName = ? and methodParameters = ? and methodOfClass = ?;";
 		PreparedStatement pstmt;
 		pstmt = (PreparedStatement) conn.prepareStatement(sql);
@@ -212,7 +191,6 @@ public class ActionsAboutDB {
 		if(rs.next())
 			i = 1;
 		pstmt.close();
-		conn.close();
 		System.out.println("whether Method Is Exist Or Not----------"+i);
 		return i;
 	}
@@ -220,9 +198,6 @@ public class ActionsAboutDB {
 	public int insertRelations(Relations relations) throws Exception{
 		int i = 0;
 		if(whetherRelationsIsExistOrNot(relations) == 0){
-			if(conn.isClosed()){
-				conn = getConn();
-			}
 			String sql = "insert into relations (KeyNum, ClassID, MethodID,MethodInThisClassOrNot) values(?,?,?,?);";
 			PreparedStatement pstmt;
 			pstmt = (PreparedStatement) conn.prepareStatement(sql);
@@ -232,15 +207,11 @@ public class ActionsAboutDB {
 			pstmt.setInt(4, relations.getMethodInThisClassOrNot());
 			i = pstmt.executeUpdate();
 			pstmt.close();
-			conn.close();
 		}
 		return i;
 	}
 	public int whetherRelationsIsExistOrNot(Relations relations) throws Exception{
 		int i = 0;
-		if(conn.isClosed()){
-			conn = getConn();
-		}
 		String sql ="select * from relations where MethodID = ? and ClassID = ?;";
 		PreparedStatement pstmt;
 		pstmt = (PreparedStatement) conn.prepareStatement(sql);
@@ -250,7 +221,6 @@ public class ActionsAboutDB {
 		if(rs.next())
 			i = 1;
 		pstmt.close();
-		conn.close();
 		
 		return i;
 	}
@@ -258,9 +228,6 @@ public class ActionsAboutDB {
 		
 		int i = 0;
 		if(whetherClassExistOrNot(distanceValue.getMethodName(),distanceValue.getMethodKey(), distanceValue.getMethodOfClass(),distanceValue.getClassName()) == 0){
-			if(conn.isClosed()){
-				conn = getConn();
-			}
 			String sql = "insert into distanceValue1 (methodId,methodName,methodParameters, methodOfClass,className,distance) values(?,?,?,?,?,?);";
 			PreparedStatement pstmt;
 			pstmt = (PreparedStatement) conn.prepareStatement(sql);
@@ -272,16 +239,12 @@ public class ActionsAboutDB {
 			pstmt.setDouble(6, distanceValue.getDistance());
 			i = pstmt.executeUpdate();
 			pstmt.close();
-			conn.close();
 		}
 //		System.out.println("----------"+i);
 	
 		return i;	 
 	}
 	public int getTableMaxRowofDistance() throws Exception{
-		if(conn.isClosed()){
-			conn = getConn();
-		}
 		String sql = "select max(methodid) from distanceValue1;";
 			
 		PreparedStatement pstmt = (PreparedStatement)conn.prepareStatement(sql);
@@ -294,14 +257,10 @@ public class ActionsAboutDB {
 	    else
 	    	return 0;
 	    pstmt.close();
-		conn.close();
 	    return maxRow;
 	}
 	public int whetherClassExistOrNot(String methodName,String methodParameters, String methodOfClass, String className) throws SQLException, Exception{
 		int i = 0;
-		if(conn.isClosed()){
-			conn = getConn();
-		}
 		String sql = "select * from DistanceValue1 where methodName = ? and methodParameters = ? and methodofclass = ? and className = ?;";
 		PreparedStatement pstmt = (PreparedStatement)conn.prepareStatement(sql);
 		pstmt.setString(1, methodName);
@@ -314,7 +273,6 @@ public class ActionsAboutDB {
 	    }
 	    System.out.println("whetherClassExistOrNot-----"+i);
 	    pstmt.close();
-		conn.close();
 		return i;
 	}
 	public void commitMySQL(){

@@ -43,7 +43,7 @@ public class MethodAndItsRelationedClass {
 	}
 	public int addMethodInfo(IMethod method, MethodDeclaration methodDeclaration) throws Exception{
 		if(!method.isConstructor()){
-			ActionsAboutDB actionsAboutDB = new ActionsAboutDB();
+			ActionsAboutDB actionsAboutDB = ActionsAboutDB.getInstance();
 			int maxTableRow = actionsAboutDB.getTableMaxRow(2)+1;
 			String methodName = method.getElementName();
 			String methodOfClass = method.getDeclaringType().getFullyQualifiedName();
@@ -83,7 +83,7 @@ public class MethodAndItsRelationedClass {
 	}
 	public void addRelations(IMethod method, MethodDeclaration methodDeclaration, List<String> classNames) throws Exception{
 
-		ActionsAboutDB actionsAboutDB = new ActionsAboutDB();
+		ActionsAboutDB actionsAboutDB = ActionsAboutDB.getInstance();
 		String parameters = methodParameters(methodDeclaration);
 		int methodId = actionsAboutDB.getRelationsMethodID(method.getElementName(), parameters, method.getDeclaringType().getFullyQualifiedName());
 		int classItselfId = actionsAboutDB.getRelationsClassID(method.getDeclaringType().getFullyQualifiedName());
