@@ -21,9 +21,12 @@ import org.eclipse.jdt.core.IPackageFragmentRoot;
 import org.eclipse.jdt.core.IType;
 import org.eclipse.jdt.core.JavaModelException;
 import org.eclipse.jdt.core.dom.AST;
+import org.eclipse.jdt.core.dom.ASTNode;
 import org.eclipse.jdt.core.dom.ASTParser;
 import org.eclipse.jdt.core.dom.CompilationUnit;
 import org.eclipse.jdt.core.dom.MethodDeclaration;
+import org.eclipse.jdt.core.dom.PackageDeclaration;
+import org.eclipse.jdt.core.dom.TypeDeclaration;
 
 import en.actionsofproject.database.ActionsAboutDB;
 import en.actionsofproject.database.ui.ClassInfo;
@@ -123,8 +126,8 @@ public class ProjectEvolution {
 					String className = type.getElementName();
 					System.out.println("classQualifiedName-----------"+classQualifiedName);
 					try {
-						
-						ClassInfo classinfo = new ClassInfo(maxTableRow, classQualifiedName, className);
+						String packageName = type.getPackageFragment().getElementName();
+						ClassInfo classinfo = new ClassInfo(maxTableRow, classQualifiedName, className, packageName);
 						int x = actionsAboutDB.insertClassInfo(classinfo);
 						if(x==1)
 							maxTableRow++;
@@ -140,6 +143,7 @@ public class ProjectEvolution {
 			System.out.println("maxTableRow-------------"+maxTableRow);
 		}
 	}
+	
 	public void GetAllIMethodAndAllMethodDeclaration() throws Exception{
 		for(IMethod method : allMethods){
 			System.out.println("method of name---------///////////////////////"+method.getElementName());

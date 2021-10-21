@@ -125,12 +125,13 @@ public class ActionsAboutDB {
 	public int insertClassInfo(ClassInfo classInfo) throws Exception{
 		int i = 0;
 		if(whetherClassIsExistOrNot(classInfo.getClassQualifiedName())==0){
-			String sql = "insert into ClassInfo (ClassID,ClassQualifiedName,ClassName) values(?,?,?);";
+			String sql = "insert into ClassInfo (ClassID,ClassQualifiedName,ClassName, package_name) values(?,?,?,?);";
 			PreparedStatement pstmt;
 			pstmt = (PreparedStatement) conn.prepareStatement(sql);
 			pstmt.setInt(1, classInfo.getClassID());
 			pstmt.setString(2, classInfo.getClassQualifiedName());
 			pstmt.setString(3, classInfo.getClassName());
+			pstmt.setString(4, classInfo.getPackageName());
 			i = pstmt.executeUpdate();
 			pstmt.close();
 		}

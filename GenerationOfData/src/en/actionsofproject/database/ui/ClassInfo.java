@@ -4,11 +4,13 @@ public class ClassInfo {
 	int ClassID;
 	String ClassQualifiedName;
 	String ClassName;
+	String packageName;
 	
-	public ClassInfo(int ClassID, String ClassQualifiedName, String ClassName){
+	public ClassInfo(int ClassID, String ClassQualifiedName, String ClassName, String packageName){
 		this.ClassID = ClassID;
 		this.ClassQualifiedName = ClassQualifiedName;
 		this.ClassName = ClassName;
+		this.packageName = packageName;
 	}
 	public int getClassID() {
 		return ClassID;
@@ -16,6 +18,9 @@ public class ClassInfo {
 	
 	public String getClassName() {
 		return ClassName;
+	}
+	public String getPackageName() {
+		return packageName;
 	}
 	public void setClassName(String className) {
 		ClassName = className;

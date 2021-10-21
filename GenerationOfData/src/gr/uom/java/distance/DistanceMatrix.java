@@ -41,7 +41,6 @@ public class DistanceMatrix {
     private Double[][] distanceMatrix;
     private String[] entityNames;
     private String[] classNames;
-    private Map<String, String> methodToPackage;
     private Map<String, String> classToPackage;
     private SystemEntityPlacement systemEntityPlacement;
     private MySystem system;
@@ -57,8 +56,8 @@ public class DistanceMatrix {
     }
 
     public void generateDistances(IProgressMonitor monitor) {
-    	methodToPackage = new HashMap<>();
     	classToPackage = new HashMap<>();
+    	Map<String, Set<String>> packageEntityMap = new HashMap<>();
     	
     	Iterator<MyClass> classIt = system.getClassIterator();
         while(classIt.hasNext()) {
@@ -76,13 +75,16 @@ public class DistanceMatrix {
                 MyMethod method = methodIterator.next();
                 entityList.add(method);
                 entityMap.put(method.toString(),method.getEntitySet());
-                methodToPackage.put(method.toString(), method.getPackageName());
             }
             classList.add(myClass);
             classMap.put(myClass.getName(),myClass.getEntitySet());
-            for (String entity : myClass.getEntitySet()) {
-            	methodToPackage.put(entity, myClass.getPackageName());
+            
+            if (packageEntityMap.containsKey(myClass.getPackageName())) {
+            	packageEntityMap.get(myClass.getPackageName()).addAll(myClass.getEntitySet());
+            } else {
+            	packageEntityMap.put(myClass.getPackageName(), myClass.getEntitySet());
             }
+            
             classToPackage.put(myClass.getName(), myClass.getPackageName());
         }
 
@@ -111,17 +113,6 @@ public class DistanceMatrix {
             i++;
         }
         
-        Map<String,Set<String>> packageMap = new HashMap<>();
-        for(String className : classNames) {
-        	Set<String> packages = classMap.get(className).stream().map(this::fromMethodToPackage).collect(Collectors.toSet());
-        	String packageName = fromClassToPackage(className);
-        	if (packageMap.containsKey(packageName)) {
-        		packageMap.get(packageName).addAll(packages);
-        	} else {
-        		packageMap.put(packageName, packages);
-        	}
-        }
-        
         
         i = 0;
         for(Entity entity : entityList) {
@@ -136,16 +127,14 @@ public class DistanceMatrix {
                 String myClassPackage = fromClassToPackage(myClass.getName());
                 if(entityPackage.equals(myClassPackage)) {
                 	Set<String> tempClassSet = new HashSet<String>();
-                	tempClassSet.addAll(packageMap.get(fromClassToPackage(classNames[j])));
-                	tempClassSet.remove(fromMethodToPackage(entityNames[i]));
+                	tempClassSet.addAll(packageEntityMap.get(fromClassToPackage(classNames[j])));
+                	tempClassSet.remove(entityNames[i]);
 //                  Set<String> tempClassSet = new HashSet<String>();
 //                  tempClassSet.addAll(classMap.get(classNames[j]));
 //                  tempClassSet.remove(entityNames[i]);
                 	
-                    Set<String> entitySet = new HashSet<String>();
-                    for (String name : entityMap.get(entityNames[i])) {
-                    	entitySet.add(fromMethodToPackage(name));
-                    }
+                    Set<String> entitySet = entityMap.get(entityNames[i]);
+                    
                     Set<String> intersection = DistanceCalculator.intersection(entitySet,tempClassSet);
                     Set<String> union = DistanceCalculator.union(entitySet,tempClassSet);
                     if(union.isEmpty())
@@ -157,14 +146,14 @@ public class DistanceMatrix {
                     entityPlacement.setNumberOfInnerEntities(entityPlacement.getNumberOfInnerEntities() + 1);
                 }
                 else {
-//                    Set<String> entitySet = entityMap.get(entityNames[i]);
-                	Set<String> entitySet = new HashSet<>();
-                	for (String name : entityMap.get(entityNames[i])) {
-                    	entitySet.add(fromMethodToPackage(name));
-                    }
+                    Set<String> entitySet = entityMap.get(entityNames[i]);
+//                	Set<String> entitySet = new HashSet<>();
+//                	for (String name : entityMap.get(entityNames[i])) {
+//                    	entitySet.add(fromEntityToPackage(name));
+//                    }
 //                    Set<String> classSet = classMap.get(classNames[j]);
                 	Set<String> classSet = new HashSet<>();
-                	classSet.addAll(packageMap.get(fromClassToPackage(classNames[j])));
+                	classSet.addAll(packageEntityMap.get(fromClassToPackage(classNames[j])));
 
                     Set<String> intersection = DistanceCalculator.intersection(entitySet,classSet);
                     Set<String> union = DistanceCalculator.union(entitySet,classSet);
@@ -197,9 +186,6 @@ public class DistanceMatrix {
     	return classToPackage.get(className);
     }
     
-    private String fromMethodToPackage(String methodName) {
-    	return methodToPackage.get(methodName);
-    }
 
     private List<MoveMethodCandidateRefactoring> identifyConceptualBindings(MyMethod method, Set<String> targetClasses) {
     	List<MoveMethodCandidateRefactoring> candidateRefactoringList = new ArrayList<MoveMethodCandidateRefactoring>();
