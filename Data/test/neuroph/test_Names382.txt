@@ -1,0 +1,4 @@
+* * * prepare test * org neuroph util benchmark * * org neuroph nnet
+* * * prepare test * org neuroph util benchmark * org neuroph core data
+* * * run test * org neuroph util benchmark * * org neuroph nnet
+* * * run test * org neuroph util benchmark * org neuroph core data

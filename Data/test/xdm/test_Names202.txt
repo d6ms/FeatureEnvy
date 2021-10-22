@@ -1,0 +1,9 @@
+* * * set file * * xdman ui components * * xdman downloaders metadata
+* * * get info * * xdman ui components * * xdman downloaders metadata
+* * * set info * * xdman ui components * * xdman downloaders metadata
+* * * get timestamp * * xdman ui components * * xdman downloaders metadata
+* * * set timestamp * * xdman ui components * * xdman downloaders metadata
+* * * get metadata * * xdman ui components * * xdman downloaders metadata
+* * * to string * * xdman ui components * * xdman downloaders metadata
+* * * set metadata * * xdman ui components * * xdman downloaders metadata
+* * * get file * * xdman ui components * * xdman downloaders metadata

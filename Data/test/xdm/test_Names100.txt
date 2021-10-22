@@ -1,0 +1,6 @@
+* is file name changed * * xdman downloaders ftp * * xdman downloaders metadata
+* * get new file * * xdman downloaders ftp * * xdman downloaders metadata
+* * * chunk confirmed * * xdman downloaders ftp * * xdman downloaders metadata
+* * * get metadata * * xdman downloaders ftp * * xdman downloaders metadata
+* * * create channel * * xdman downloaders ftp * * xdman downloaders metadata
+* * * get type * * xdman downloaders ftp * * xdman downloaders metadata

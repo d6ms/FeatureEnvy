@@ -1,0 +1,1 @@
+* * get formatted status * * * xdman util * * * * xdman

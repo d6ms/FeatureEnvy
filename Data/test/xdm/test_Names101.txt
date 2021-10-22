@@ -1,0 +1,7 @@
+* * * is finished * * xdman downloaders ftp * * xdman network ftp
+* * * is redirected * * xdman downloaders ftp * * xdman network ftp
+* * get redirect url * * xdman downloaders ftp * * xdman network ftp
+* * * connect impl * * xdman downloaders ftp * * xdman network ftp
+* get input stream impl * * xdman downloaders ftp * * xdman network ftp
+* * get length impl * * xdman downloaders ftp * * xdman network ftp
+* * * close impl * * xdman downloaders ftp * * xdman network ftp

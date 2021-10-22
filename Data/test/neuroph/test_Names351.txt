@@ -1,0 +1,1 @@
+* calculate hidden neuron error * org neuroph nnet learning * * org neuroph core

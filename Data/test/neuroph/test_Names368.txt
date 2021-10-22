@@ -1,0 +1,15 @@
+* * * full connect * * org neuroph util * * org neuroph core
+* * * full connect * * org neuroph util * * org neuroph core
+* * * full connect * * org neuroph util * * org neuroph core
+* * * create connection * * org neuroph util * * org neuroph core
+* * * full connect * * org neuroph util * * org neuroph core
+* * * create connection * * org neuroph util * * org neuroph core
+* * * full connect * * org neuroph util * * org neuroph core
+* * * create connection * * org neuroph util * * org neuroph core
+* * * create connection * * org neuroph util * * org neuroph core
+* * * forward connect * * org neuroph util * * org neuroph core
+* * * create connection * * org neuroph util * * org neuroph core
+* * * forward connect * * org neuroph util * * org neuroph core
+* * * create connection * * org neuroph util * * org neuroph core
+* * * full connect * * org neuroph util * * org neuroph core
+* * * create connection * * org neuroph util * * org neuroph core

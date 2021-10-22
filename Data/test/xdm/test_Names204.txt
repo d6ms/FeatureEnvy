@@ -1,0 +1,14 @@
+* * * download failed * * xdman ui components * * xdman downloaders http
+* * * download stopped * * xdman ui components * * xdman downloaders http
+* * * * stop * * xdman ui components * * xdman downloaders http
+* * * download confirmed * * xdman ui components * * xdman downloaders http
+* * init u i * * xdman ui components * * xdman downloaders http
+* * * download updated * * xdman ui components * * xdman downloaders http
+* * create button 2 * * xdman ui components * * xdman downloaders http
+* * get output folder * * xdman ui components * * xdman downloaders http
+* * * * cancel * * xdman ui components * * xdman downloaders http
+* * get output file * * xdman ui components * * xdman downloaders http
+* * delete tmp files * * xdman ui components * * xdman downloaders http
+* * * * start * * xdman ui components * * xdman downloaders http
+* * * download finished * * xdman ui components * * xdman downloaders http
+* * extract f fmpeg * * xdman ui components * * xdman downloaders http

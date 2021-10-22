@@ -1,0 +1,12 @@
+show ok msg and close * * xdman ui components * * xdman downloaders metadata
+* * * set details * * xdman ui components * * xdman downloaders metadata
+* * * show panel * * xdman ui components * * xdman downloaders metadata
+* * init u i * * xdman ui components * * xdman downloaders metadata
+* show url text box * * xdman ui components * * xdman downloaders metadata
+* * * * close * * xdman ui components * * xdman downloaders metadata
+* * * get page * * xdman ui components * * xdman downloaders metadata
+* * * open link * * xdman ui components * * xdman downloaders metadata
+* * create button 1 * * xdman ui components * * xdman downloaders metadata
+* * * get id * * xdman ui components * * xdman downloaders metadata
+* * is valid link * * xdman ui components * * xdman downloaders metadata
+* * * confirm url * * xdman ui components * * xdman downloaders metadata

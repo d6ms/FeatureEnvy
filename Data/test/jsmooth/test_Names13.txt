@@ -1,0 +1,16 @@
+* * * get suffix net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
+* * load window settings net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * * get suffix net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * * * main net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
+* * * set title net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
+* * * setup menus net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
+* * * * main net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * * set title net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * * setup menus net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * save window settings net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
+* * setup tool bar net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
+* * save window settings net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * setup tool bar net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * * * local net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
+* * * * local net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * load window settings net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton

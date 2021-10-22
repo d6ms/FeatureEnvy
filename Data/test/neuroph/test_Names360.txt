@@ -1,0 +1,1 @@
+* * update neuron weights * org neuroph nnet learning * * org neuroph core

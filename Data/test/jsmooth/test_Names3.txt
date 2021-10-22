@@ -1,0 +1,3 @@
+* * * get runnable * net charabia jsmoothgen application * net charabia jsmoothgen skeleton
+* * * compile async * net charabia jsmoothgen application * net charabia jsmoothgen skeleton
+* * * * compile * net charabia jsmoothgen application * net charabia jsmoothgen skeleton

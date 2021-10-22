@@ -1,0 +1,9 @@
+* * * determine error * org neuroph nnet learning * * org neuroph core
+* * do learning epoch * org neuroph nnet learning * org neuroph core data
+* * do learning epoch * org neuroph nnet learning * * org neuroph core
+add to squared error sum * org neuroph nnet learning * * org neuroph core
+* update total network error * org neuroph nnet learning * * org neuroph core
+* * * get network * org neuroph nnet learning * * org neuroph core
+* * update network weights * org neuroph nnet learning * * org neuroph core
+* * * * randomize * org neuroph nnet learning * * org neuroph core
+* * * determine error * org neuroph nnet learning * org neuroph core data

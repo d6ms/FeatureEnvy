@@ -1,0 +1,11 @@
+* * get map dimensions org neuroph nnet comp layer * org neuroph nnet comp
+* * create feature maps org neuroph nnet comp layer * * org neuroph util
+* * create feature maps org neuroph nnet comp layer * org neuroph nnet comp
+* * * connect maps org neuroph nnet comp layer * org neuroph nnet comp
+* * get feature map org neuroph nnet comp layer * org neuroph nnet comp
+* get number of maps org neuroph nnet comp layer * org neuroph nnet comp
+* * get neuron at org neuroph nnet comp layer * org neuroph nnet comp
+* * get neurons count org neuroph nnet comp layer * org neuroph nnet comp
+* * * * calculate org neuroph nnet comp layer * org neuroph nnet comp
+* * * get kernel org neuroph nnet comp layer * org neuroph nnet comp
+* * add feature map org neuroph nnet comp layer * org neuroph nnet comp

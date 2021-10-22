@@ -1,0 +1,4 @@
+* * * * calculate org neuroph nnet comp layer org neuroph nnet comp neuron
+* * * get winner org neuroph nnet comp layer org neuroph nnet comp neuron
+* * get max iterations org neuroph nnet comp layer org neuroph nnet comp neuron
+* * set max iterations org neuroph nnet comp layer org neuroph nnet comp neuron

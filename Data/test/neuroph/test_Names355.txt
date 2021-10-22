@@ -1,0 +1,2 @@
+* * update neuron weights * org neuroph nnet learning * * org neuroph core
+* * resillient weight update * org neuroph nnet learning * * org neuroph core
