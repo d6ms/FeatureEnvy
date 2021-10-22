@@ -2,7 +2,7 @@ import mysql.connector as mydb
 from collections import namedtuple
 
 METHOD_LENGTH = 5
-CLASS_LENGTH = 5
+PACKAGE_LENGTH = 5
 
 conn = mydb.connect(
     host='127.0.0.1',
@@ -19,13 +19,10 @@ with open('query.sql', mode='r') as f:
 
 DataRow = namedtuple('DataRow', [
     'methodName', 
-    'methodParameters', 
-    'sourceClassQualifiedName', 
-    'sourceClassName',
-    'targetClassQualifiedName', 
-    'targetClassName', 
-    'sourceClassDistance', 
-    'targetClassDistance'
+    'sourcePackage',
+    'targetPackage',
+    'sourceDistance', 
+    'targetDistance'
 ])
 
 def split_method_name(methodName):
@@ -53,29 +50,12 @@ def split_method_name(methodName):
         splitted = ['*'] * (METHOD_LENGTH - len(splitted)) + splitted
     return splitted
 
-def split_class_name(className):
-    splitted = []
-
-    if '_' in className:
-        for part in className.split('_'):
-            splitted.extend(split_class_name(part))
-    else:
-        buf = ''
-        for i, c in enumerate(className):
-            if i == 0:
-                buf += c.lower()
-                continue
-            if c.lower() != c or c.isnumeric():
-                splitted.append(buf)
-                buf = c.lower()
-            else:
-                buf += c.lower()
-        if buf:
-            splitted.append(buf)
-        
-    splitted = splitted[:CLASS_LENGTH]
-    if len(splitted) < CLASS_LENGTH:
-        splitted = ['*'] * (CLASS_LENGTH - len(splitted)) + splitted
+def split_package_name(packageName):
+    splitted = packageName.split('.')
+    splitted = [name.lower() for name in splitted]
+    splitted = splitted[:PACKAGE_LENGTH]
+    if len(splitted) < PACKAGE_LENGTH:
+        splitted = ['*'] * (PACKAGE_LENGTH - len(splitted)) + splitted
     return splitted
 
 def main():
@@ -89,16 +69,16 @@ def main():
         for row in rows:
             row = DataRow(*row)
             methodName = split_method_name(row.methodName)
-            sourceClassName = split_class_name(row.sourceClassName)
-            targetClassName = split_class_name(row.targetClassName)
+            sourcePackage = split_package_name(row.sourcePackage)
+            targetPackage = split_package_name(row.targetPackage)
 
-            names0 = ' '.join(methodName + sourceClassName + targetClassName)
-            names1 = ' '.join(methodName + targetClassName + sourceClassName)
+            names0 = ' '.join(methodName + sourcePackage + targetPackage)
+            names1 = ' '.join(methodName + targetPackage + sourcePackage)
             f_names.write(names0 + '\n')
             f_names.write(names1 + '\n')
 
-            dist0 = f'{row.sourceClassDistance} {row.targetClassDistance} 0'
-            dist1 = f'{row.targetClassDistance} {row.sourceClassDistance} 1'
+            dist0 = f'{row.sourceDistance} {row.targetDistance} 0'
+            dist1 = f'{row.targetDistance} {row.sourceDistance} 1'
             f_distances.write(dist0 + '\n')
             f_distances.write(dist1 + '\n')
     finally:
