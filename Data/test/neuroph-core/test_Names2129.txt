@@ -1,2 +1,2 @@
-* * add input connection * * org neuroph core * org neuroph core input
 * * add input connection * * org neuroph core * org neuroph core transfer
+* * add input connection * * org neuroph core * org neuroph core input

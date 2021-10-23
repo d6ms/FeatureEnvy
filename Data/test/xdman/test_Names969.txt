@@ -1,2 +1,2 @@
-* * * create channel * * xdman downloaders hds * * xdman downloaders metadata
 * * * create channel * * xdman downloaders hds * * * xdman mediaconversion
+* * * create channel * * xdman downloaders hds * * xdman downloaders metadata

@@ -1,2 +1,2 @@
-* * * set input * * org neuroph core * org neuroph core transfer
 * * * set input * * org neuroph core * org neuroph core input
+* * * set input * * org neuroph core * org neuroph core transfer

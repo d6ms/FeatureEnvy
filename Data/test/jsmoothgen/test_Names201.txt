@@ -1,1 +1,1 @@
-* * * set properties net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
+* * * set properties charabia jsmoothgen application gui editors * net charabia jsmoothgen skeleton

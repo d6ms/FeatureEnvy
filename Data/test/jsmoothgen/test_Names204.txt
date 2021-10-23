@@ -1,1 +1,1 @@
-* * * skeleton changed net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
+* * * skeleton changed charabia jsmoothgen application gui editors * net charabia jsmoothgen skeleton

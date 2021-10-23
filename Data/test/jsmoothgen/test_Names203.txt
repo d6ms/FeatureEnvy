@@ -1,1 +1,1 @@
-* * * update model net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
+* * * update model charabia jsmoothgen application gui editors * net charabia jsmoothgen skeleton

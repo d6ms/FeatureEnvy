@@ -1,2 +1,2 @@
-* * * * assemble * * xdman downloaders hds * * xdman downloaders metadata
 * * * * assemble * * xdman downloaders hds * * * xdman mediaconversion
+* * * * assemble * * xdman downloaders hds * * xdman downloaders metadata

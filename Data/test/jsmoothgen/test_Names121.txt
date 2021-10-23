@@ -1,2 +1,2 @@
 * * * setup menus net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
-* * * setup menus net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * * setup menus net charabia jsmoothgen application gui charabia jsmoothgen application gui util

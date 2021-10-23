@@ -1,1 +1,1 @@
-* * get preferred size net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
+* * get preferred size charabia jsmoothgen application gui editors * net charabia jsmoothgen skeleton

@@ -1,2 +1,2 @@
-* * set training set * org neuroph core learning * org neuroph core data
 * * set training set * org neuroph core learning * * org neuroph core
+* * set training set * org neuroph core learning * org neuroph core data

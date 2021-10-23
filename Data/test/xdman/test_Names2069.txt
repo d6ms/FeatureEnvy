@@ -1,3 +1,3 @@
-* * hide prg wnd * * * xdman util * * xdman downloaders http
 * * hide prg wnd * * * xdman util * * xdman ui components
+* * hide prg wnd * * * xdman util * * xdman downloaders http
 * * hide prg wnd * * * xdman util * * xdman ui components

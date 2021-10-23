@@ -1,2 +1,2 @@
-* * get input connections * * org neuroph core * org neuroph core input
 * * get input connections * * org neuroph core * org neuroph core transfer
+* * get input connections * * org neuroph core * org neuroph core input

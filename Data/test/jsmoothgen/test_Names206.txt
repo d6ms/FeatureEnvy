@@ -1,1 +1,1 @@
-* * * get description net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
+* * * get description charabia jsmoothgen application gui editors * net charabia jsmoothgen skeleton
