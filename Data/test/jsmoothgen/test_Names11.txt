@@ -1,12 +1,1 @@
 * * * * compile * net charabia jsmoothgen application * net charabia jsmoothgen skeleton
-* * * * compile * net charabia jsmoothgen application * * net charabia jsmoothgen
-* * * * compile * net charabia jsmoothgen application net charabia jsmoothgen application cmdline
-* * * * compile * net charabia jsmoothgen application net charabia jsmoothgen application gui
-* * * * compile * net charabia jsmoothgen application net charabia jsmoothgen application gui
-* * * * compile * net charabia jsmoothgen application net charabia jsmoothgen application gui
-* * * * compile * net charabia jsmoothgen application net charabia jsmoothgen application swtgui
-* * * * compile * net charabia jsmoothgen application net charabia jsmoothgen application swtgui
-* * * * compile * net charabia jsmoothgen application * net charabia jsmoothgen pe
-* * * * compile * net charabia jsmoothgen application net charabia jsmoothgen pe res
-* * * * compile * net charabia jsmoothgen application * net charabia util codec
-* * * * compile * net charabia jsmoothgen application * net charabia util io

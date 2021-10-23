@@ -1,13 +1,3 @@
 * * * create controls net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * * create controls net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * * create controls net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
-* * * create controls net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
-* * * create controls net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
-* * * create controls net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * create controls net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * create controls net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * create controls net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
-* * * create controls net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
-* * * create controls net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
-* * * create controls net charabia jsmoothgen application swtgui * net charabia util codec
-* * * create controls net charabia jsmoothgen application swtgui * net charabia util io

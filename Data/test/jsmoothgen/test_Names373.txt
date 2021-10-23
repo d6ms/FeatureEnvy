@@ -1,13 +1,3 @@
 * get initial skeleton name net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * get initial skeleton name net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * get initial skeleton name net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
-* get initial skeleton name net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
-* get initial skeleton name net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
-* get initial skeleton name net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* get initial skeleton name net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* get initial skeleton name net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* get initial skeleton name net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
-* get initial skeleton name net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
-* get initial skeleton name net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
-* get initial skeleton name net charabia jsmoothgen application swtgui * net charabia util codec
-* get initial skeleton name net charabia jsmoothgen application swtgui * net charabia util io

@@ -1,12 +1,1 @@
 * * set new state net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * set new state net charabia jsmoothgen application gui * * net charabia jsmoothgen
-* * set new state net charabia jsmoothgen application gui net charabia jsmoothgen application cmdline
-* * set new state net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * set new state net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * set new state net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * set new state net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * set new state net charabia jsmoothgen application gui * net charabia jsmoothgen pe
-* * set new state net charabia jsmoothgen application gui net charabia jsmoothgen pe res
-* * set new state net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
-* * set new state net charabia jsmoothgen application gui * net charabia util codec
-* * set new state net charabia jsmoothgen application gui * net charabia util io

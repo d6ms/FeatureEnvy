@@ -1,13 +1,3 @@
 * get all skeleton names net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
-* get all skeleton names net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
 * get all skeleton names net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
-* get all skeleton names net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
-* get all skeleton names net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
-* get all skeleton names net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* get all skeleton names net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* get all skeleton names net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* get all skeleton names net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
-* get all skeleton names net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
-* get all skeleton names net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
-* get all skeleton names net charabia jsmoothgen application swtgui * net charabia util codec
-* get all skeleton names net charabia jsmoothgen application swtgui * net charabia util io
+* get all skeleton names net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton

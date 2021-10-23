@@ -1,13 +1,3 @@
-* * create switcher control net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
-* * create switcher control net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * create switcher control net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
-* * create switcher control net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
-* * create switcher control net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
-* * create switcher control net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * create switcher control net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * create switcher control net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * create switcher control net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
-* * create switcher control net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
-* * create switcher control net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
-* * create switcher control net charabia jsmoothgen application swtgui * net charabia util codec
-* * create switcher control net charabia jsmoothgen application swtgui * net charabia util io
+* * create switcher control net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
+* * create switcher control net charabia jsmoothgen application swtgui * net charabia jsmoothgen application

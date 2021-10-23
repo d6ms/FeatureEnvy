@@ -1,13 +1,3 @@
+* * * * exit net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * * * exit net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
 * * * * exit net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
-* * * * exit net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
-* * * * exit net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
-* * * * exit net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
-* * * * exit net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * * exit net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * * exit net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * * exit net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
-* * * * exit net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
-* * * * exit net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
-* * * * exit net charabia jsmoothgen application swtgui * net charabia util codec
-* * * * exit net charabia jsmoothgen application swtgui * net charabia util io

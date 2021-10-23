@@ -1,12 +1,1 @@
 * * update skeleton data net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * update skeleton data net charabia jsmoothgen application gui * * net charabia jsmoothgen
-* * update skeleton data net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * update skeleton data net charabia jsmoothgen application gui net charabia jsmoothgen application cmdline
-* * update skeleton data net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * update skeleton data net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * update skeleton data net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * update skeleton data net charabia jsmoothgen application gui * net charabia jsmoothgen pe
-* * update skeleton data net charabia jsmoothgen application gui net charabia jsmoothgen pe res
-* * update skeleton data net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
-* * update skeleton data net charabia jsmoothgen application gui * net charabia util codec
-* * update skeleton data net charabia jsmoothgen application gui * net charabia util io

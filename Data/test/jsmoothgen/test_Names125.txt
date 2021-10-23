@@ -1,12 +1,2 @@
 * * * set title net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
 * * * set title net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * * set title net charabia jsmoothgen application gui * * net charabia jsmoothgen
-* * * set title net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * * set title net charabia jsmoothgen application gui net charabia jsmoothgen application cmdline
-* * * set title net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * * set title net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * * set title net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * * set title net charabia jsmoothgen application gui * net charabia jsmoothgen pe
-* * * set title net charabia jsmoothgen application gui net charabia jsmoothgen pe res
-* * * set title net charabia jsmoothgen application gui * net charabia util codec
-* * * set title net charabia jsmoothgen application gui * net charabia util io

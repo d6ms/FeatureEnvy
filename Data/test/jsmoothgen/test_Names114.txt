@@ -1,12 +1,1 @@
 * * * * runexe net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * * * runexe net charabia jsmoothgen application gui * * net charabia jsmoothgen
-* * * * runexe net charabia jsmoothgen application gui net charabia jsmoothgen application cmdline
-* * * * runexe net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * * * runexe net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * * * runexe net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * * * runexe net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * * * runexe net charabia jsmoothgen application gui * net charabia jsmoothgen pe
-* * * * runexe net charabia jsmoothgen application gui net charabia jsmoothgen pe res
-* * * * runexe net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
-* * * * runexe net charabia jsmoothgen application gui * net charabia util codec
-* * * * runexe net charabia jsmoothgen application gui * net charabia util io

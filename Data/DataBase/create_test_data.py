@@ -96,7 +96,6 @@ def main():
         method_ids.append(method_id)
         f_name = open(f'{output_dir}/test_Names{method_id}.txt', mode='w')
         f_dist = open(f'{output_dir}/test_Distances{method_id}.txt', mode='w')
-        seen = set()
         for row in rows:
             methodName = split_method_name(row.methodName)
             sourcePackage = split_package_name(row.sourcePackage)
@@ -105,18 +104,6 @@ def main():
             dist = f'{row.sourceDistance} {row.targetDistance} 0'
             f_name.write(name + '\n')
             f_dist.write(dist + '\n')
-            seen.add(row.targetPackage)
-        seen.add(row.sourcePackage)
-        
-        for package in packages:
-            if package in seen:
-                continue
-            targetPackage = split_package_name(package)
-            name = ' '.join(methodName + sourcePackage + targetPackage)
-            dist = f'{row.sourceDistance} 1.0 0'
-            f_name.write(name + '\n')
-            f_dist.write(dist + '\n')
-
         f_name.close()
         f_dist.close()
 

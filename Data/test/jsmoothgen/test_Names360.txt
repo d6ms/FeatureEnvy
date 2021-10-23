@@ -1,13 +1,3 @@
 * * create main menu net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * create main menu net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * create main menu net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
-* * create main menu net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
-* * create main menu net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
-* * create main menu net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * create main menu net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * create main menu net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * create main menu net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
-* * create main menu net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
-* * create main menu net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
-* * create main menu net charabia jsmoothgen application swtgui * net charabia util codec
-* * create main menu net charabia jsmoothgen application swtgui * net charabia util io

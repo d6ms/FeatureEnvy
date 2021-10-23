@@ -1,12 +1,1 @@
 * * * get result net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * * get result net charabia jsmoothgen application gui * * net charabia jsmoothgen
-* * * get result net charabia jsmoothgen application gui net charabia jsmoothgen application cmdline
-* * * get result net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * * get result net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * * get result net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * * get result net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * * get result net charabia jsmoothgen application gui * net charabia jsmoothgen pe
-* * * get result net charabia jsmoothgen application gui net charabia jsmoothgen pe res
-* * * get result net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
-* * * get result net charabia jsmoothgen application gui * net charabia util codec
-* * * get result net charabia jsmoothgen application gui * net charabia util io

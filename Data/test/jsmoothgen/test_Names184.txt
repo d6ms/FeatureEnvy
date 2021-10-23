@@ -1,12 +1,1 @@
 * * * skeleton changed net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * * skeleton changed net charabia jsmoothgen application gui * * net charabia jsmoothgen
-* * * skeleton changed net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * * skeleton changed net charabia jsmoothgen application gui net charabia jsmoothgen application cmdline
-* * * skeleton changed net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * * skeleton changed net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * * skeleton changed net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * * skeleton changed net charabia jsmoothgen application gui * net charabia jsmoothgen pe
-* * * skeleton changed net charabia jsmoothgen application gui net charabia jsmoothgen pe res
-* * * skeleton changed net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
-* * * skeleton changed net charabia jsmoothgen application gui * net charabia util codec
-* * * skeleton changed net charabia jsmoothgen application gui * net charabia util io

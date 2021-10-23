@@ -1,13 +1,3 @@
 * * set skeleton properties net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * set skeleton properties net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * set skeleton properties net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
-* * set skeleton properties net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
-* * set skeleton properties net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
-* * set skeleton properties net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * set skeleton properties net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * set skeleton properties net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * set skeleton properties net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
-* * set skeleton properties net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
-* * set skeleton properties net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
-* * set skeleton properties net charabia jsmoothgen application swtgui * net charabia util codec
-* * set skeleton properties net charabia jsmoothgen application swtgui * net charabia util io

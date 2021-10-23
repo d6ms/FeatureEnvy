@@ -1,12 +1,1 @@
 * * * get runnable * net charabia jsmoothgen application * net charabia jsmoothgen skeleton
-* * * get runnable * net charabia jsmoothgen application * * net charabia jsmoothgen
-* * * get runnable * net charabia jsmoothgen application net charabia jsmoothgen application cmdline
-* * * get runnable * net charabia jsmoothgen application net charabia jsmoothgen application gui
-* * * get runnable * net charabia jsmoothgen application net charabia jsmoothgen application gui
-* * * get runnable * net charabia jsmoothgen application net charabia jsmoothgen application gui
-* * * get runnable * net charabia jsmoothgen application net charabia jsmoothgen application swtgui
-* * * get runnable * net charabia jsmoothgen application net charabia jsmoothgen application swtgui
-* * * get runnable * net charabia jsmoothgen application * net charabia jsmoothgen pe
-* * * get runnable * net charabia jsmoothgen application net charabia jsmoothgen pe res
-* * * get runnable * net charabia jsmoothgen application * net charabia util codec
-* * * get runnable * net charabia jsmoothgen application * net charabia util io

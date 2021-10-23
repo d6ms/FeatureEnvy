@@ -1,12 +1,1 @@
 * * fire model changed net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * fire model changed net charabia jsmoothgen application gui * * net charabia jsmoothgen
-* * fire model changed net charabia jsmoothgen application gui net charabia jsmoothgen application cmdline
-* * fire model changed net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * fire model changed net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * fire model changed net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * fire model changed net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * fire model changed net charabia jsmoothgen application gui * net charabia jsmoothgen pe
-* * fire model changed net charabia jsmoothgen application gui net charabia jsmoothgen pe res
-* * fire model changed net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
-* * fire model changed net charabia jsmoothgen application gui * net charabia util codec
-* * fire model changed net charabia jsmoothgen application gui * net charabia util io

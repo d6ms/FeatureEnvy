@@ -1,12 +1,1 @@
 * * set icon location net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * set icon location net charabia jsmoothgen application gui * * net charabia jsmoothgen
-* * set icon location net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * set icon location net charabia jsmoothgen application gui net charabia jsmoothgen application cmdline
-* * set icon location net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * set icon location net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * set icon location net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * set icon location net charabia jsmoothgen application gui * net charabia jsmoothgen pe
-* * set icon location net charabia jsmoothgen application gui net charabia jsmoothgen pe res
-* * set icon location net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
-* * set icon location net charabia jsmoothgen application gui * net charabia util codec
-* * set icon location net charabia jsmoothgen application gui * net charabia util io
