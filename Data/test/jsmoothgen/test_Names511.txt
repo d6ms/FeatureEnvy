@@ -3,10 +3,10 @@
 * * load paletted image * net charabia util codec * net charabia jsmoothgen application
 * * load paletted image * net charabia util codec net charabia jsmoothgen application cmdline
 * * load paletted image * net charabia util codec net charabia jsmoothgen application gui
-* * load paletted image * net charabia util codec charabia jsmoothgen application gui editors
-* * load paletted image * net charabia util codec charabia jsmoothgen application gui util
+* * load paletted image * net charabia util codec net charabia jsmoothgen application gui
+* * load paletted image * net charabia util codec net charabia jsmoothgen application gui
 * * load paletted image * net charabia util codec net charabia jsmoothgen application swtgui
-* * load paletted image * net charabia util codec charabia jsmoothgen application swtgui resources
+* * load paletted image * net charabia util codec net charabia jsmoothgen application swtgui
 * * load paletted image * net charabia util codec * net charabia jsmoothgen pe
 * * load paletted image * net charabia util codec net charabia jsmoothgen pe res
 * * load paletted image * net charabia util codec * net charabia jsmoothgen skeleton

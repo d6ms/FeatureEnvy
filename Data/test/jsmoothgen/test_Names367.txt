@@ -1,12 +1,12 @@
 * * * initialize bounds net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
-* * * initialize bounds net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * * initialize bounds net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
+* * * initialize bounds net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * * initialize bounds net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
 * * * initialize bounds net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
 * * * initialize bounds net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * initialize bounds net charabia jsmoothgen application swtgui charabia jsmoothgen application gui editors
-* * * initialize bounds net charabia jsmoothgen application swtgui charabia jsmoothgen application gui util
-* * * initialize bounds net charabia jsmoothgen application swtgui charabia jsmoothgen application swtgui resources
+* * * initialize bounds net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* * * initialize bounds net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* * * initialize bounds net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
 * * * initialize bounds net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
 * * * initialize bounds net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
 * * * initialize bounds net charabia jsmoothgen application swtgui * net charabia util codec

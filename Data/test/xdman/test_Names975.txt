@@ -1,5 +1,5 @@
-* * * * resume * * xdman downloaders hds * * xdman downloaders metadata
 * * * * resume * * xdman downloaders hds * * * xdman mediaconversion
+* * * * resume * * xdman downloaders hds * * xdman downloaders metadata
 * * * * resume * * xdman downloaders hds * * * * xdman
 * * * * resume * * xdman downloaders hds * * * xdman downloaders
 * * * * resume * * xdman downloaders hds * * xdman downloaders dash

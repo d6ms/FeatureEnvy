@@ -4,9 +4,9 @@
 * * get initial location net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
 * * get initial location net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
 * * get initial location net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * get initial location net charabia jsmoothgen application swtgui charabia jsmoothgen application gui editors
-* * get initial location net charabia jsmoothgen application swtgui charabia jsmoothgen application gui util
-* * get initial location net charabia jsmoothgen application swtgui charabia jsmoothgen application swtgui resources
+* * get initial location net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* * get initial location net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* * get initial location net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
 * * get initial location net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
 * * get initial location net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
 * * get initial location net charabia jsmoothgen application swtgui * net charabia util codec

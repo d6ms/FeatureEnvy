@@ -4,9 +4,9 @@
 * * has project file net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
 * * has project file net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
 * * has project file net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * has project file net charabia jsmoothgen application swtgui charabia jsmoothgen application gui editors
-* * has project file net charabia jsmoothgen application swtgui charabia jsmoothgen application gui util
-* * has project file net charabia jsmoothgen application swtgui charabia jsmoothgen application swtgui resources
+* * has project file net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* * has project file net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* * has project file net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
 * * has project file net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
 * * has project file net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
 * * has project file net charabia jsmoothgen application swtgui * net charabia util codec

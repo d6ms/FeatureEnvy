@@ -53,9 +53,8 @@ def split_method_name(methodName):
 def split_package_name(packageName):
     splitted = packageName.split('.')
     splitted = [name.lower() for name in splitted]
-    if len(splitted) >= PACKAGE_LENGTH:
-        splitted = splitted[-PACKAGE_LENGTH:]
-    else:
+    splitted = splitted[:PACKAGE_LENGTH]
+    if len(splitted) < PACKAGE_LENGTH:
         splitted = ['*'] * (PACKAGE_LENGTH - len(splitted)) + splitted
     return splitted
 

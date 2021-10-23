@@ -71,13 +71,14 @@ def split_method_name(methodName):
 def split_package_name(packageName):
     splitted = packageName.split('.')
     splitted = [name.lower() for name in splitted]
-    if len(splitted) >= PACKAGE_LENGTH:
-        splitted = splitted[-PACKAGE_LENGTH:]
-    else:
+    splitted = splitted[:PACKAGE_LENGTH]
+    if len(splitted) < PACKAGE_LENGTH:
         splitted = ['*'] * (PACKAGE_LENGTH - len(splitted)) + splitted
     return splitted
 
 def main():
+    cur = conn.cursor()
+
     cur = conn.cursor()
     cur.execute(f'''
     select distinct(package_name)
@@ -87,7 +88,6 @@ def main():
     rows = cur.fetchall()
     packages = [row[0] for row in rows]
 
-    cur = conn.cursor()
     cur.execute(query)
     rows = cur.fetchall()
     rows = [DataRow(*row) for row in rows]

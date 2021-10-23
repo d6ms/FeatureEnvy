@@ -1,12 +1,12 @@
 * * * console message net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
-* * * console message net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * * console message net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
+* * * console message net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * * console message net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
 * * * console message net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
 * * * console message net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * console message net charabia jsmoothgen application swtgui charabia jsmoothgen application gui editors
-* * * console message net charabia jsmoothgen application swtgui charabia jsmoothgen application gui util
-* * * console message net charabia jsmoothgen application swtgui charabia jsmoothgen application swtgui resources
+* * * console message net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* * * console message net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* * * console message net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
 * * * console message net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
 * * * console message net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
 * * * console message net charabia jsmoothgen application swtgui * net charabia util codec

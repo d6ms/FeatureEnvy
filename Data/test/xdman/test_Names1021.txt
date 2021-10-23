@@ -1,5 +1,5 @@
-* * * * assemble * * xdman downloaders hls * * xdman downloaders metadata
 * * * * assemble * * xdman downloaders hls * * * xdman mediaconversion
+* * * * assemble * * xdman downloaders hls * * xdman downloaders metadata
 * * * * assemble * * xdman downloaders hls * * * * xdman
 * * * * assemble * * xdman downloaders hls * * * xdman downloaders
 * * * * assemble * * xdman downloaders hls * * xdman downloaders dash

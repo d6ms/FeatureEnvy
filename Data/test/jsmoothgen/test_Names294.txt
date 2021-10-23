@@ -3,9 +3,9 @@
 * * create property control net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * create property control net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
 * * create property control net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * create property control net charabia jsmoothgen application swtgui charabia jsmoothgen application gui editors
-* * create property control net charabia jsmoothgen application swtgui charabia jsmoothgen application gui util
-* * create property control net charabia jsmoothgen application swtgui charabia jsmoothgen application swtgui resources
+* * create property control net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* * create property control net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* * create property control net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
 * * create property control net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
 * * create property control net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
 * * create property control net charabia jsmoothgen application swtgui * net charabia util codec

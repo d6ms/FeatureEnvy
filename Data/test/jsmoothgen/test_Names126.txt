@@ -1,11 +1,11 @@
-* * save window settings net charabia jsmoothgen application gui charabia jsmoothgen application gui util
 * * save window settings net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
+* * save window settings net charabia jsmoothgen application gui net charabia jsmoothgen application gui
 * * save window settings net charabia jsmoothgen application gui * * net charabia jsmoothgen
 * * save window settings net charabia jsmoothgen application gui * net charabia jsmoothgen application
 * * save window settings net charabia jsmoothgen application gui net charabia jsmoothgen application cmdline
-* * save window settings net charabia jsmoothgen application gui charabia jsmoothgen application gui editors
+* * save window settings net charabia jsmoothgen application gui net charabia jsmoothgen application gui
 * * save window settings net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * save window settings net charabia jsmoothgen application gui charabia jsmoothgen application swtgui resources
+* * save window settings net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
 * * save window settings net charabia jsmoothgen application gui * net charabia jsmoothgen pe
 * * save window settings net charabia jsmoothgen application gui net charabia jsmoothgen pe res
 * * save window settings net charabia jsmoothgen application gui * net charabia util codec

@@ -1,12 +1,12 @@
-* get initital skeleton properties net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
-* get initital skeleton properties net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * get initital skeleton properties net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
+* get initital skeleton properties net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
+* get initital skeleton properties net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * get initital skeleton properties net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
 * get initital skeleton properties net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
 * get initital skeleton properties net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* get initital skeleton properties net charabia jsmoothgen application swtgui charabia jsmoothgen application gui editors
-* get initital skeleton properties net charabia jsmoothgen application swtgui charabia jsmoothgen application gui util
-* get initital skeleton properties net charabia jsmoothgen application swtgui charabia jsmoothgen application swtgui resources
+* get initital skeleton properties net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* get initital skeleton properties net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* get initital skeleton properties net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
 * get initital skeleton properties net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
 * get initital skeleton properties net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
 * get initital skeleton properties net charabia jsmoothgen application swtgui * net charabia util codec
