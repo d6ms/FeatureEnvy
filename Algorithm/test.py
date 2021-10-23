@@ -7,39 +7,37 @@ Created on Wed Apr  4 11:32:28 2018
 import numpy as np
 import time
 import os
+import sys
 np.random.seed(1337)
 
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 from keras.models import model_from_json  
 
+project = sys.argv[1]
+if not project:
+    raise Error('specify target project')
+
 MAX_SEQUENCE_LENGTH = 15 
 
-TESTPATH = 'data/test-projectName/'
-MODELPATH = 'model/'
-FILENAME = 'data/test-projectName/test_ClssId.txt'
-TARGETPATH = 'data/test-projectName/targetClasses.txt'
+TESTPATH = f'../Data/test/{project}/'
+MODELPATH = './'
+FILENAME = f'../Data/test/{project}/test_MethodId.txt'
 values = []
-predsTargetClassNames = []
+
 print ("start time:"+time.strftime("%Y/%m/%d  %H:%M:%S"))
 start = time.clock()
-f = open(TARGETPATH, 'r', encoding = 'utf-8')
-for line in f:
-    predsTargetClassName = line.split()
-    predsTargetClassNames.append(predsTargetClassName)
+
     
 f = open(FILENAME, 'r', encoding = 'utf-8')
 for line in f:
     value = line.split()
     values.append(value)
-TP = 0 
-FN = 0 
-FP = 0 
-TN = 0 
+
 NUM_CORRECT = 0
-TOTAL = 0
-model = model_from_json(open(MODELPATH + 'my_model_n#Fold.json').read())  
-model.load_weights(MODELPATH + 'my_model_weights_n#Fold.h5')
+TOTAL = len(values)
+model = model_from_json(open(MODELPATH + 'my_model.json').read())  
+model.load_weights(MODELPATH + 'my_model_weights.h5')
 ii = 0
 for sentence in values:
     ii=ii+1
@@ -86,55 +84,10 @@ for sentence in values:
         
         preds = model.predict_classes(x_val)
         preds_double = model.predict(x_val)
-        NUM_ZERO = 0
-        NUM_ONE = 0
-        MAX = 0
-        for i in range(len(preds)):
-            if(preds[i][0]==0):
-                NUM_ZERO += 1
-            else:
-                NUM_ONE += 1
-        if(len(preds)!=0 and label == '1'):
-            TOTAL+=1
-        if(label == '1' and NUM_ONE == 0):
-            FN += 1
-        if(label == '1' and NUM_ONE != 0):
-            TP+=1;
-            correctTargets = []
-            for i in range(len(preds_double)):
-                if(preds_double[i][0]>=MAX):
-                    MAX = preds_double[i][0]
-            for i in range(len(preds_double)):
-                if(preds_double[i][0] == MAX):
-                    correctTargets.append(targetClassNames[i])
-            for i in range(len(correctTargets)):
-                if(correctTargets[i]==predsTargetClassNames[TOTAL-1]):
-                    NUM_CORRECT += 1
-                    break
-        if(label == '0' and NUM_ONE == 0):
-            TN += 1
-        if(label == '0' and NUM_ONE !=0):
-            FP += 1
 
-print('TP--------', TP)
-print('TN--------', TN)
-print('FP--------', FP)
-print('FN--------', FN)
-print('NUM_ZERO---', NUM_ZERO)
-print('NUM_ONE---', NUM_ONE)
-print('NUM_CORRECT----',NUM_CORRECT)
-print('TargetAccuracy---',NUM_CORRECT/TP)
-if(TP+FP!=0):
-    print('Test Precision',TP/(TP+FP))
-else:
-    print('Test Precision',0)
-if(TP+FN!=0):
-    print('Test Recall',TP/(TP+FN))
-else:
-    print('Test Recall',0)
-end = time.clock()
+        if all(pred == 0 for pred in preds):
+            NUM_CORRECT += 1
 
-print('Running time: %s Seconds'%(end-start))   
+
         
-
-print ("end time:"+time.strftime("%Y/%m/%d  %H:%M:%S"))
+print('accuracy--------', NUM_CORRECT / TOTAL)

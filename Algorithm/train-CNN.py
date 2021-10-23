@@ -26,9 +26,11 @@ texts = [] # ClassNameAndMethodName
 MAX_SEQUENCE_LENGTH = 15 
 EMBEDDING_DIM = 200 # Dimension of word vector
 
+FOLD = 1
+
 print('Indexing word vectors.')
 embeddings_index = {}
-dir_name = os.path.dirname(__file__)
+dir_name = os.path.abspath(os.path.dirname(__file__))
 f = open(dir_name + '/word2vecNocopy.200d.txt')
 for line in f:
     values = line.split()
@@ -40,7 +42,7 @@ f.close()
 print('Found %s word vectors.' % len(embeddings_index))
 
 
-with open('D:/data/train_Distances.txt','r') as file_to_read:
+with open(dir_name + '/../Data/DataBase/train_Distances.txt','r') as file_to_read:
     for line in file_to_read.readlines():
         values = line.split()
         distance = values[:2]
@@ -49,7 +51,7 @@ with open('D:/data/train_Distances.txt','r') as file_to_read:
         labels.append(label)
 
         
-with open('D:/data/train_Names.txt','r') as file_to_read:
+with open(dir_name + '/../Data/DataBase/train_Names.txt','r') as file_to_read:
     for line in file_to_read.readlines():
         texts.append(line)
 
@@ -106,7 +108,7 @@ merged = Merge([model_left, model_right], mode='concat')
 model = Sequential()
 model.add(merged) # add merge
 model.add(Dense(128, activation='tanh'))
-model.add(Dense(2, activation='sigmod'))
+model.add(Dense(2, activation='sigmoid'))
 model.compile(loss='binary_crossentropy',
               optimizer='Adadelta',
               metrics=['accuracy'])

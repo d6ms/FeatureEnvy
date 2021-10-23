@@ -43,7 +43,7 @@ def printResult():
     print(model['_'])
 
 if __name__ == "__main__":
-#    text8Train()
+    text8Train()
 #    sentences = getData()
     moreTrain()
 #    printResult()
