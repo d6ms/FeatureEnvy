@@ -4,9 +4,9 @@
 * * * open project net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
 * * * open project net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
 * * * open project net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * open project net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * open project net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * open project net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
+* * * open project net charabia jsmoothgen application swtgui charabia jsmoothgen application gui editors
+* * * open project net charabia jsmoothgen application swtgui charabia jsmoothgen application gui util
+* * * open project net charabia jsmoothgen application swtgui charabia jsmoothgen application swtgui resources
 * * * open project net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
 * * * open project net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
 * * * open project net charabia jsmoothgen application swtgui * net charabia util codec

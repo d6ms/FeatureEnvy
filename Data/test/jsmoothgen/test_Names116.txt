@@ -1,10 +1,10 @@
 * * set project file net charabia jsmoothgen application gui * net charabia jsmoothgen application
 * * set project file net charabia jsmoothgen application gui * * net charabia jsmoothgen
 * * set project file net charabia jsmoothgen application gui net charabia jsmoothgen application cmdline
-* * set project file net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * set project file net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * set project file net charabia jsmoothgen application gui charabia jsmoothgen application gui editors
+* * set project file net charabia jsmoothgen application gui charabia jsmoothgen application gui util
 * * set project file net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * set project file net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
+* * set project file net charabia jsmoothgen application gui charabia jsmoothgen application swtgui resources
 * * set project file net charabia jsmoothgen application gui * net charabia jsmoothgen pe
 * * set project file net charabia jsmoothgen application gui net charabia jsmoothgen pe res
 * * set project file net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton

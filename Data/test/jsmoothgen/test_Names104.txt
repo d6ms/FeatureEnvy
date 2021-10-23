@@ -1,10 +1,10 @@
 * * fire update model net charabia jsmoothgen application gui * net charabia jsmoothgen application
 * * fire update model net charabia jsmoothgen application gui * * net charabia jsmoothgen
 * * fire update model net charabia jsmoothgen application gui net charabia jsmoothgen application cmdline
-* * fire update model net charabia jsmoothgen application gui net charabia jsmoothgen application gui
-* * fire update model net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * fire update model net charabia jsmoothgen application gui charabia jsmoothgen application gui editors
+* * fire update model net charabia jsmoothgen application gui charabia jsmoothgen application gui util
 * * fire update model net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * fire update model net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
+* * fire update model net charabia jsmoothgen application gui charabia jsmoothgen application swtgui resources
 * * fire update model net charabia jsmoothgen application gui * net charabia jsmoothgen pe
 * * fire update model net charabia jsmoothgen application gui net charabia jsmoothgen pe res
 * * fire update model net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton

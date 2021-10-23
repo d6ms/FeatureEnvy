@@ -1,12 +1,12 @@
-* * * create pages net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
-* * * create pages net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * * create pages net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
+* * * create pages net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
+* * * create pages net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * * create pages net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
 * * * create pages net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
 * * * create pages net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * create pages net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * create pages net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * create pages net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
+* * * create pages net charabia jsmoothgen application swtgui charabia jsmoothgen application gui editors
+* * * create pages net charabia jsmoothgen application swtgui charabia jsmoothgen application gui util
+* * * create pages net charabia jsmoothgen application swtgui charabia jsmoothgen application swtgui resources
 * * * create pages net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
 * * * create pages net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
 * * * create pages net charabia jsmoothgen application swtgui * net charabia util codec

@@ -1,12 +1,12 @@
 * * * * run net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
-* * * * run net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * * * run net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
+* * * * run net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * * * run net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
 * * * * run net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
 * * * * run net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * * run net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * * run net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * * run net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
+* * * * run net charabia jsmoothgen application swtgui charabia jsmoothgen application gui editors
+* * * * run net charabia jsmoothgen application swtgui charabia jsmoothgen application gui util
+* * * * run net charabia jsmoothgen application swtgui charabia jsmoothgen application swtgui resources
 * * * * run net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
 * * * * run net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
 * * * * run net charabia jsmoothgen application swtgui * net charabia util codec

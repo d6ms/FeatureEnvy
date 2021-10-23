@@ -4,9 +4,9 @@
 * * * console section net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
 * * * console section net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
 * * * console section net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * console section net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * console section net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * console section net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
+* * * console section net charabia jsmoothgen application swtgui charabia jsmoothgen application gui editors
+* * * console section net charabia jsmoothgen application swtgui charabia jsmoothgen application gui util
+* * * console section net charabia jsmoothgen application swtgui charabia jsmoothgen application swtgui resources
 * * * console section net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
 * * * console section net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
 * * * console section net charabia jsmoothgen application swtgui * net charabia util codec

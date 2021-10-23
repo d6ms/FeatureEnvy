@@ -1,12 +1,12 @@
 * * * clear console net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
-* * * clear console net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * * clear console net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
+* * * clear console net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * * clear console net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
 * * * clear console net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
 * * * clear console net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * clear console net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * clear console net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * clear console net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
+* * * clear console net charabia jsmoothgen application swtgui charabia jsmoothgen application gui editors
+* * * clear console net charabia jsmoothgen application swtgui charabia jsmoothgen application gui util
+* * * clear console net charabia jsmoothgen application swtgui charabia jsmoothgen application swtgui resources
 * * * clear console net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
 * * * clear console net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
 * * * clear console net charabia jsmoothgen application swtgui * net charabia util codec
