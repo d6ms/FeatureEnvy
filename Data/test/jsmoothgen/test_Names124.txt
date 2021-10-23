@@ -1,12 +1,13 @@
-* * * get suffix net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
-* * * get suffix net charabia jsmoothgen application gui charabia jsmoothgen application gui util
-* * * get suffix net charabia jsmoothgen application gui * * net charabia jsmoothgen
-* * * get suffix net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * * get suffix net charabia jsmoothgen application gui net charabia jsmoothgen application cmdline
-* * * get suffix net charabia jsmoothgen application gui charabia jsmoothgen application gui editors
-* * * get suffix net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * * get suffix net charabia jsmoothgen application gui charabia jsmoothgen application swtgui resources
-* * * get suffix net charabia jsmoothgen application gui * net charabia jsmoothgen pe
-* * * get suffix net charabia jsmoothgen application gui net charabia jsmoothgen pe res
-* * * get suffix net charabia jsmoothgen application gui * net charabia util codec
-* * * get suffix net charabia jsmoothgen application gui * net charabia util io
+net charabia jsmoothgen application gui
+* net charabia jsmoothgen skeleton
+charabia jsmoothgen application gui util
+* * net charabia jsmoothgen
+* net charabia jsmoothgen application
+net charabia jsmoothgen application cmdline
+charabia jsmoothgen application gui editors
+net charabia jsmoothgen application swtgui
+charabia jsmoothgen application swtgui resources
+* net charabia jsmoothgen pe
+net charabia jsmoothgen pe res
+* net charabia util codec
+* net charabia util io

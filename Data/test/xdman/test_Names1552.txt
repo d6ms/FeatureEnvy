@@ -1,21 +1,22 @@
-show ok msg and close * * xdman ui components * * xdman downloaders metadata
-show ok msg and close * * xdman ui components * * * * xdman
-show ok msg and close * * xdman ui components * * * xdman downloaders
-show ok msg and close * * xdman ui components * * xdman downloaders dash
-show ok msg and close * * xdman ui components * * xdman downloaders ftp
-show ok msg and close * * xdman ui components * * xdman downloaders hds
-show ok msg and close * * xdman ui components * * xdman downloaders hls
-show ok msg and close * * xdman ui components * * xdman downloaders http
-show ok msg and close * * xdman ui components * xdman downloaders metadata manifests
-show ok msg and close * * xdman ui components * * * xdman mediaconversion
-show ok msg and close * * xdman ui components * * * xdman monitoring
-show ok msg and close * * xdman ui components * * * xdman network
-show ok msg and close * * xdman ui components * * xdman network ftp
-show ok msg and close * * xdman ui components * * xdman network http
-show ok msg and close * * xdman ui components * xdman network http proxy
-show ok msg and close * * xdman ui components * * * xdman preview
-show ok msg and close * * xdman ui components * * xdman ui laf
-show ok msg and close * * xdman ui components * * xdman ui res
-show ok msg and close * * xdman ui components * * * xdman util
-show ok msg and close * * xdman ui components * * * xdman videoparser
-show ok msg and close * * xdman ui components * * * xdman win32
+* * xdman ui components
+* * xdman downloaders metadata
+* * * * xdman
+* * * xdman downloaders
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

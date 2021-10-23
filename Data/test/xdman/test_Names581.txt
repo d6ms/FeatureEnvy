@@ -1,21 +1,22 @@
-* * * get credential * * * * xdman * * xdman ui components
-* * * get credential * * * * xdman * * * xdman downloaders
-* * * get credential * * * * xdman * * xdman downloaders dash
-* * * get credential * * * * xdman * * xdman downloaders ftp
-* * * get credential * * * * xdman * * xdman downloaders hds
-* * * get credential * * * * xdman * * xdman downloaders hls
-* * * get credential * * * * xdman * * xdman downloaders http
-* * * get credential * * * * xdman * * xdman downloaders metadata
-* * * get credential * * * * xdman * xdman downloaders metadata manifests
-* * * get credential * * * * xdman * * * xdman mediaconversion
-* * * get credential * * * * xdman * * * xdman monitoring
-* * * get credential * * * * xdman * * * xdman network
-* * * get credential * * * * xdman * * xdman network ftp
-* * * get credential * * * * xdman * * xdman network http
-* * * get credential * * * * xdman * xdman network http proxy
-* * * get credential * * * * xdman * * * xdman preview
-* * * get credential * * * * xdman * * xdman ui laf
-* * * get credential * * * * xdman * * xdman ui res
-* * * get credential * * * * xdman * * * xdman util
-* * * get credential * * * * xdman * * * xdman videoparser
-* * * get credential * * * * xdman * * * xdman win32
+* * * * xdman
+* * xdman ui components
+* * * xdman downloaders
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

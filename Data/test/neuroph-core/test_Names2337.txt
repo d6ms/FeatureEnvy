@@ -1,22 +1,23 @@
-* do one learning iteration * org neuroph core learning * org neuroph core data
-* do one learning iteration * org neuroph core learning * * org neuroph core
-* do one learning iteration * org neuroph core learning * org neuroph core events
-* do one learning iteration * org neuroph core learning * org neuroph core exceptions
-* do one learning iteration * org neuroph core learning * org neuroph core input
-* do one learning iteration * org neuroph core learning org neuroph core learning error
-* do one learning iteration * org neuroph core learning org neuroph core learning stop
-* do one learning iteration * org neuroph core learning * org neuroph core transfer
-* do one learning iteration * org neuroph core learning * * org neuroph nnet
-* do one learning iteration * org neuroph core learning * org neuroph nnet comp
-* do one learning iteration * org neuroph core learning org neuroph nnet comp layer
-* do one learning iteration * org neuroph core learning org neuroph nnet comp neuron
-* do one learning iteration * org neuroph core learning * org neuroph nnet learning
-* do one learning iteration * org neuroph core learning org neuroph nnet learning kmeans
-* do one learning iteration * org neuroph core learning org neuroph nnet learning knn
-* do one learning iteration * org neuroph core learning * * org neuroph util
-* do one learning iteration * org neuroph core learning * org neuroph util benchmark
-* do one learning iteration * org neuroph core learning org neuroph util data norm
-* do one learning iteration * org neuroph core learning org neuroph util data sample
-* do one learning iteration * org neuroph core learning * org neuroph util io
-* do one learning iteration * org neuroph core learning * org neuroph util plugins
-* do one learning iteration * org neuroph core learning * org neuroph util random
+* org neuroph core learning
+* org neuroph core data
+* * org neuroph core
+* org neuroph core events
+* org neuroph core exceptions
+* org neuroph core input
+org neuroph core learning error
+org neuroph core learning stop
+* org neuroph core transfer
+* * org neuroph nnet
+* org neuroph nnet comp
+org neuroph nnet comp layer
+org neuroph nnet comp neuron
+* org neuroph nnet learning
+org neuroph nnet learning kmeans
+org neuroph nnet learning knn
+* * org neuroph util
+* org neuroph util benchmark
+org neuroph util data norm
+org neuroph util data sample
+* org neuroph util io
+* org neuroph util plugins
+* org neuroph util random

@@ -1,12 +1,13 @@
-* * * set properties charabia jsmoothgen application gui editors * net charabia jsmoothgen skeleton
-* * * set properties charabia jsmoothgen application gui editors * * net charabia jsmoothgen
-* * * set properties charabia jsmoothgen application gui editors * net charabia jsmoothgen application
-* * * set properties charabia jsmoothgen application gui editors net charabia jsmoothgen application cmdline
-* * * set properties charabia jsmoothgen application gui editors net charabia jsmoothgen application gui
-* * * set properties charabia jsmoothgen application gui editors charabia jsmoothgen application gui util
-* * * set properties charabia jsmoothgen application gui editors net charabia jsmoothgen application swtgui
-* * * set properties charabia jsmoothgen application gui editors charabia jsmoothgen application swtgui resources
-* * * set properties charabia jsmoothgen application gui editors * net charabia jsmoothgen pe
-* * * set properties charabia jsmoothgen application gui editors net charabia jsmoothgen pe res
-* * * set properties charabia jsmoothgen application gui editors * net charabia util codec
-* * * set properties charabia jsmoothgen application gui editors * net charabia util io
+charabia jsmoothgen application gui editors
+* net charabia jsmoothgen skeleton
+* * net charabia jsmoothgen
+* net charabia jsmoothgen application
+net charabia jsmoothgen application cmdline
+net charabia jsmoothgen application gui
+charabia jsmoothgen application gui util
+net charabia jsmoothgen application swtgui
+charabia jsmoothgen application swtgui resources
+* net charabia jsmoothgen pe
+net charabia jsmoothgen pe res
+* net charabia util codec
+* net charabia util io

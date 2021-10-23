@@ -1,22 +1,23 @@
-* * resillient weight update * org neuroph nnet learning * * org neuroph core
-* * resillient weight update * org neuroph nnet learning * org neuroph core data
-* * resillient weight update * org neuroph nnet learning * org neuroph core events
-* * resillient weight update * org neuroph nnet learning * org neuroph core exceptions
-* * resillient weight update * org neuroph nnet learning * org neuroph core input
-* * resillient weight update * org neuroph nnet learning * org neuroph core learning
-* * resillient weight update * org neuroph nnet learning org neuroph core learning error
-* * resillient weight update * org neuroph nnet learning org neuroph core learning stop
-* * resillient weight update * org neuroph nnet learning * org neuroph core transfer
-* * resillient weight update * org neuroph nnet learning * * org neuroph nnet
-* * resillient weight update * org neuroph nnet learning * org neuroph nnet comp
-* * resillient weight update * org neuroph nnet learning org neuroph nnet comp layer
-* * resillient weight update * org neuroph nnet learning org neuroph nnet comp neuron
-* * resillient weight update * org neuroph nnet learning org neuroph nnet learning kmeans
-* * resillient weight update * org neuroph nnet learning org neuroph nnet learning knn
-* * resillient weight update * org neuroph nnet learning * * org neuroph util
-* * resillient weight update * org neuroph nnet learning * org neuroph util benchmark
-* * resillient weight update * org neuroph nnet learning org neuroph util data norm
-* * resillient weight update * org neuroph nnet learning org neuroph util data sample
-* * resillient weight update * org neuroph nnet learning * org neuroph util io
-* * resillient weight update * org neuroph nnet learning * org neuroph util plugins
-* * resillient weight update * org neuroph nnet learning * org neuroph util random
+* org neuroph nnet learning
+* * org neuroph core
+* org neuroph core data
+* org neuroph core events
+* org neuroph core exceptions
+* org neuroph core input
+* org neuroph core learning
+org neuroph core learning error
+org neuroph core learning stop
+* org neuroph core transfer
+* * org neuroph nnet
+* org neuroph nnet comp
+org neuroph nnet comp layer
+org neuroph nnet comp neuron
+org neuroph nnet learning kmeans
+org neuroph nnet learning knn
+* * org neuroph util
+* org neuroph util benchmark
+org neuroph util data norm
+org neuroph util data sample
+* org neuroph util io
+* org neuroph util plugins
+* org neuroph util random

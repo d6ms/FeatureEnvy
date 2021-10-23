@@ -1,12 +1,13 @@
-* * * update model charabia jsmoothgen application gui editors charabia jsmoothgen application gui util
-* * * update model charabia jsmoothgen application gui editors * * net charabia jsmoothgen
-* * * update model charabia jsmoothgen application gui editors * net charabia jsmoothgen application
-* * * update model charabia jsmoothgen application gui editors net charabia jsmoothgen application cmdline
-* * * update model charabia jsmoothgen application gui editors net charabia jsmoothgen application gui
-* * * update model charabia jsmoothgen application gui editors net charabia jsmoothgen application swtgui
-* * * update model charabia jsmoothgen application gui editors charabia jsmoothgen application swtgui resources
-* * * update model charabia jsmoothgen application gui editors * net charabia jsmoothgen pe
-* * * update model charabia jsmoothgen application gui editors net charabia jsmoothgen pe res
-* * * update model charabia jsmoothgen application gui editors * net charabia jsmoothgen skeleton
-* * * update model charabia jsmoothgen application gui editors * net charabia util codec
-* * * update model charabia jsmoothgen application gui editors * net charabia util io
+charabia jsmoothgen application gui editors
+charabia jsmoothgen application gui util
+* * net charabia jsmoothgen
+* net charabia jsmoothgen application
+net charabia jsmoothgen application cmdline
+net charabia jsmoothgen application gui
+net charabia jsmoothgen application swtgui
+charabia jsmoothgen application swtgui resources
+* net charabia jsmoothgen pe
+net charabia jsmoothgen pe res
+* net charabia jsmoothgen skeleton
+* net charabia util codec
+* net charabia util io

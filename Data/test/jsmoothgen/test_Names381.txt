@@ -1,13 +1,14 @@
-* * * compile project net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
-* * * compile project net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
-* * * compile project net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
-* * * compile project net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
-* * * compile project net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
-* * * compile project net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * * compile project net charabia jsmoothgen application swtgui charabia jsmoothgen application gui editors
-* * * compile project net charabia jsmoothgen application swtgui charabia jsmoothgen application gui util
-* * * compile project net charabia jsmoothgen application swtgui charabia jsmoothgen application swtgui resources
-* * * compile project net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
-* * * compile project net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
-* * * compile project net charabia jsmoothgen application swtgui * net charabia util codec
-* * * compile project net charabia jsmoothgen application swtgui * net charabia util io
+net charabia jsmoothgen application swtgui
+* net charabia jsmoothgen application
+* net charabia jsmoothgen application
+* net charabia jsmoothgen skeleton
+* * net charabia jsmoothgen
+net charabia jsmoothgen application cmdline
+net charabia jsmoothgen application gui
+charabia jsmoothgen application gui editors
+charabia jsmoothgen application gui util
+charabia jsmoothgen application swtgui resources
+* net charabia jsmoothgen pe
+net charabia jsmoothgen pe res
+* net charabia util codec
+* net charabia util io

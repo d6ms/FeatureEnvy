@@ -1,22 +1,23 @@
-* * * get error * * org neuroph core * org neuroph core transfer
-* * * get error * * org neuroph core * org neuroph core input
-* * * get error * * org neuroph core * org neuroph core data
-* * * get error * * org neuroph core * org neuroph core events
-* * * get error * * org neuroph core * org neuroph core exceptions
-* * * get error * * org neuroph core * org neuroph core learning
-* * * get error * * org neuroph core org neuroph core learning error
-* * * get error * * org neuroph core org neuroph core learning stop
-* * * get error * * org neuroph core * * org neuroph nnet
-* * * get error * * org neuroph core * org neuroph nnet comp
-* * * get error * * org neuroph core org neuroph nnet comp layer
-* * * get error * * org neuroph core org neuroph nnet comp neuron
-* * * get error * * org neuroph core * org neuroph nnet learning
-* * * get error * * org neuroph core org neuroph nnet learning kmeans
-* * * get error * * org neuroph core org neuroph nnet learning knn
-* * * get error * * org neuroph core * * org neuroph util
-* * * get error * * org neuroph core * org neuroph util benchmark
-* * * get error * * org neuroph core org neuroph util data norm
-* * * get error * * org neuroph core org neuroph util data sample
-* * * get error * * org neuroph core * org neuroph util io
-* * * get error * * org neuroph core * org neuroph util plugins
-* * * get error * * org neuroph core * org neuroph util random
+* * org neuroph core
+* org neuroph core input
+* org neuroph core transfer
+* org neuroph core data
+* org neuroph core events
+* org neuroph core exceptions
+* org neuroph core learning
+org neuroph core learning error
+org neuroph core learning stop
+* * org neuroph nnet
+* org neuroph nnet comp
+org neuroph nnet comp layer
+org neuroph nnet comp neuron
+* org neuroph nnet learning
+org neuroph nnet learning kmeans
+org neuroph nnet learning knn
+* * org neuroph util
+* org neuroph util benchmark
+org neuroph util data norm
+org neuroph util data sample
+* org neuroph util io
+* org neuroph util plugins
+* org neuroph util random

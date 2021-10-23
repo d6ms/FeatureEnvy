@@ -1,21 +1,22 @@
-* * get formatted status * * * xdman util * * * * xdman
-* * get formatted status * * * xdman util * * * xdman downloaders
-* * get formatted status * * * xdman util * * xdman downloaders dash
-* * get formatted status * * * xdman util * * xdman downloaders ftp
-* * get formatted status * * * xdman util * * xdman downloaders hds
-* * get formatted status * * * xdman util * * xdman downloaders hls
-* * get formatted status * * * xdman util * * xdman downloaders http
-* * get formatted status * * * xdman util * * xdman downloaders metadata
-* * get formatted status * * * xdman util * xdman downloaders metadata manifests
-* * get formatted status * * * xdman util * * * xdman mediaconversion
-* * get formatted status * * * xdman util * * * xdman monitoring
-* * get formatted status * * * xdman util * * * xdman network
-* * get formatted status * * * xdman util * * xdman network ftp
-* * get formatted status * * * xdman util * * xdman network http
-* * get formatted status * * * xdman util * xdman network http proxy
-* * get formatted status * * * xdman util * * * xdman preview
-* * get formatted status * * * xdman util * * xdman ui components
-* * get formatted status * * * xdman util * * xdman ui laf
-* * get formatted status * * * xdman util * * xdman ui res
-* * get formatted status * * * xdman util * * * xdman videoparser
-* * get formatted status * * * xdman util * * * xdman win32
+* * * xdman util
+* * * * xdman
+* * * xdman downloaders
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui components
+* * xdman ui laf
+* * xdman ui res
+* * * xdman videoparser
+* * * xdman win32

@@ -1,22 +1,23 @@
-* * get scaled value * * xdman ui components * * * xdman mediaconversion
-* * get scaled value * * xdman ui components * * * xdman mediaconversion
-* * get scaled value * * xdman ui components * * * * xdman
-* * get scaled value * * xdman ui components * * * xdman downloaders
-* * get scaled value * * xdman ui components * * xdman downloaders dash
-* * get scaled value * * xdman ui components * * xdman downloaders ftp
-* * get scaled value * * xdman ui components * * xdman downloaders hds
-* * get scaled value * * xdman ui components * * xdman downloaders hls
-* * get scaled value * * xdman ui components * * xdman downloaders http
-* * get scaled value * * xdman ui components * * xdman downloaders metadata
-* * get scaled value * * xdman ui components * xdman downloaders metadata manifests
-* * get scaled value * * xdman ui components * * * xdman monitoring
-* * get scaled value * * xdman ui components * * * xdman network
-* * get scaled value * * xdman ui components * * xdman network ftp
-* * get scaled value * * xdman ui components * * xdman network http
-* * get scaled value * * xdman ui components * xdman network http proxy
-* * get scaled value * * xdman ui components * * * xdman preview
-* * get scaled value * * xdman ui components * * xdman ui laf
-* * get scaled value * * xdman ui components * * xdman ui res
-* * get scaled value * * xdman ui components * * * xdman util
-* * get scaled value * * xdman ui components * * * xdman videoparser
-* * get scaled value * * xdman ui components * * * xdman win32
+* * xdman ui components
+* * * xdman mediaconversion
+* * * xdman mediaconversion
+* * * * xdman
+* * * xdman downloaders
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

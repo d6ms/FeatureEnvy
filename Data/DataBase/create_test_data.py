@@ -91,31 +91,31 @@ def main():
     cur.execute(query)
     rows = cur.fetchall()
     rows = [DataRow(*row) for row in rows]
-    method_ids = []
+    method_ids, method_names = [], []
     for method_id, rows in groupby(rows, key=lambda row: row.methodId):
         method_ids.append(method_id)
         f_name = open(f'{output_dir}/test_Names{method_id}.txt', mode='w')
         f_dist = open(f'{output_dir}/test_Distances{method_id}.txt', mode='w')
         seen = set()
-        for row in rows:
-            methodName = split_method_name(row.methodName)
-            sourcePackage = split_package_name(row.sourcePackage)
-            targetPackage = split_package_name(row.targetPackage)
-            name = ' '.join(methodName + sourcePackage + targetPackage)
-            dist = f'{row.sourceDistance} {row.targetDistance} 0'
+        for i, row in enumerate(rows):
+            if i == 0:
+                name = ' '.join(split_package_name(row.sourcePackage))
+                f_name.write(name + '\n')
+                f_dist.write(str(row.sourceDistance) + '\n')
+            name = ' '.join(split_package_name(row.targetPackage))
             f_name.write(name + '\n')
-            f_dist.write(dist + '\n')
+            f_dist.write(str(row.targetDistance) + '\n')
             seen.add(row.targetPackage)
         seen.add(row.sourcePackage)
+        name = ' '.join(split_method_name(row.methodName))
+        method_names.append(name)
         
         for package in packages:
             if package in seen:
                 continue
-            targetPackage = split_package_name(package)
-            name = ' '.join(methodName + sourcePackage + targetPackage)
-            dist = f'{row.sourceDistance} 1.0 0'
+            name = ' '.join(split_package_name(package))
             f_name.write(name + '\n')
-            f_dist.write(dist + '\n')
+            f_dist.write('1.0\n')
 
         f_name.close()
         f_dist.close()
@@ -123,6 +123,10 @@ def main():
     with open(f'{output_dir}/test_MethodId.txt', mode='w') as f:
         for method_id in method_ids:
             f.write(str(method_id) + ' 0\n')
+    
+    with open(f'{output_dir}/test_MethodNames.txt', mode='w') as f:
+        for method_name in method_names:
+            f.write(method_name + '\n')
        
 
 main()

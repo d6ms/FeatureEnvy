@@ -1,21 +1,22 @@
-* * open preview player * * * * xdman * * xdman ui components
-* * open preview player * * * * xdman * * * xdman downloaders
-* * open preview player * * * * xdman * * xdman downloaders dash
-* * open preview player * * * * xdman * * xdman downloaders ftp
-* * open preview player * * * * xdman * * xdman downloaders hds
-* * open preview player * * * * xdman * * xdman downloaders hls
-* * open preview player * * * * xdman * * xdman downloaders http
-* * open preview player * * * * xdman * * xdman downloaders metadata
-* * open preview player * * * * xdman * xdman downloaders metadata manifests
-* * open preview player * * * * xdman * * * xdman mediaconversion
-* * open preview player * * * * xdman * * * xdman monitoring
-* * open preview player * * * * xdman * * * xdman network
-* * open preview player * * * * xdman * * xdman network ftp
-* * open preview player * * * * xdman * * xdman network http
-* * open preview player * * * * xdman * xdman network http proxy
-* * open preview player * * * * xdman * * * xdman preview
-* * open preview player * * * * xdman * * xdman ui laf
-* * open preview player * * * * xdman * * xdman ui res
-* * open preview player * * * * xdman * * * xdman util
-* * open preview player * * * * xdman * * * xdman videoparser
-* * open preview player * * * * xdman * * * xdman win32
+* * * * xdman
+* * xdman ui components
+* * * xdman downloaders
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

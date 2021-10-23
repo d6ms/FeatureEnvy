@@ -1,21 +1,22 @@
-* * * get channel * * * xdman downloaders * * * * xdman
-* * * get channel * * * xdman downloaders * * xdman downloaders dash
-* * * get channel * * * xdman downloaders * * xdman downloaders ftp
-* * * get channel * * * xdman downloaders * * xdman downloaders hds
-* * * get channel * * * xdman downloaders * * xdman downloaders hls
-* * * get channel * * * xdman downloaders * * xdman downloaders http
-* * * get channel * * * xdman downloaders * * xdman downloaders metadata
-* * * get channel * * * xdman downloaders * xdman downloaders metadata manifests
-* * * get channel * * * xdman downloaders * * * xdman mediaconversion
-* * * get channel * * * xdman downloaders * * * xdman monitoring
-* * * get channel * * * xdman downloaders * * * xdman network
-* * * get channel * * * xdman downloaders * * xdman network ftp
-* * * get channel * * * xdman downloaders * * xdman network http
-* * * get channel * * * xdman downloaders * xdman network http proxy
-* * * get channel * * * xdman downloaders * * * xdman preview
-* * * get channel * * * xdman downloaders * * xdman ui components
-* * * get channel * * * xdman downloaders * * xdman ui laf
-* * * get channel * * * xdman downloaders * * xdman ui res
-* * * get channel * * * xdman downloaders * * * xdman util
-* * * get channel * * * xdman downloaders * * * xdman videoparser
-* * * get channel * * * xdman downloaders * * * xdman win32
+* * * xdman downloaders
+* * * * xdman
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui components
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

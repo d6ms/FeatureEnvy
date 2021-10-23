@@ -1,12 +1,13 @@
-* * * * failed charabia jsmoothgen application gui util * net charabia jsmoothgen application
-* * * * failed charabia jsmoothgen application gui util * * net charabia jsmoothgen
-* * * * failed charabia jsmoothgen application gui util net charabia jsmoothgen application cmdline
-* * * * failed charabia jsmoothgen application gui util net charabia jsmoothgen application gui
-* * * * failed charabia jsmoothgen application gui util charabia jsmoothgen application gui editors
-* * * * failed charabia jsmoothgen application gui util net charabia jsmoothgen application swtgui
-* * * * failed charabia jsmoothgen application gui util charabia jsmoothgen application swtgui resources
-* * * * failed charabia jsmoothgen application gui util * net charabia jsmoothgen pe
-* * * * failed charabia jsmoothgen application gui util net charabia jsmoothgen pe res
-* * * * failed charabia jsmoothgen application gui util * net charabia jsmoothgen skeleton
-* * * * failed charabia jsmoothgen application gui util * net charabia util codec
-* * * * failed charabia jsmoothgen application gui util * net charabia util io
+charabia jsmoothgen application gui util
+* net charabia jsmoothgen application
+* * net charabia jsmoothgen
+net charabia jsmoothgen application cmdline
+net charabia jsmoothgen application gui
+charabia jsmoothgen application gui editors
+net charabia jsmoothgen application swtgui
+charabia jsmoothgen application swtgui resources
+* net charabia jsmoothgen pe
+net charabia jsmoothgen pe res
+* net charabia jsmoothgen skeleton
+* net charabia util codec
+* net charabia util io

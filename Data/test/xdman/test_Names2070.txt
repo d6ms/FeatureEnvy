@@ -1,22 +1,23 @@
-* * delete tmp files * * * xdman util * * xdman downloaders http
-* * delete tmp files * * * xdman util * * xdman ui components
-* * delete tmp files * * * xdman util * * xdman ui components
-* * delete tmp files * * * xdman util * * * * xdman
-* * delete tmp files * * * xdman util * * * xdman downloaders
-* * delete tmp files * * * xdman util * * xdman downloaders dash
-* * delete tmp files * * * xdman util * * xdman downloaders ftp
-* * delete tmp files * * * xdman util * * xdman downloaders hds
-* * delete tmp files * * * xdman util * * xdman downloaders hls
-* * delete tmp files * * * xdman util * * xdman downloaders metadata
-* * delete tmp files * * * xdman util * xdman downloaders metadata manifests
-* * delete tmp files * * * xdman util * * * xdman mediaconversion
-* * delete tmp files * * * xdman util * * * xdman monitoring
-* * delete tmp files * * * xdman util * * * xdman network
-* * delete tmp files * * * xdman util * * xdman network ftp
-* * delete tmp files * * * xdman util * * xdman network http
-* * delete tmp files * * * xdman util * xdman network http proxy
-* * delete tmp files * * * xdman util * * * xdman preview
-* * delete tmp files * * * xdman util * * xdman ui laf
-* * delete tmp files * * * xdman util * * xdman ui res
-* * delete tmp files * * * xdman util * * * xdman videoparser
-* * delete tmp files * * * xdman util * * * xdman win32
+* * * xdman util
+* * xdman ui components
+* * xdman ui components
+* * xdman downloaders http
+* * * * xdman
+* * * xdman downloaders
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui laf
+* * xdman ui res
+* * * xdman videoparser
+* * * xdman win32

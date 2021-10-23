@@ -1,21 +1,22 @@
-* * * close impl * * xdman downloaders ftp * * xdman network ftp
-* * * close impl * * xdman downloaders ftp * * * * xdman
-* * * close impl * * xdman downloaders ftp * * * xdman downloaders
-* * * close impl * * xdman downloaders ftp * * xdman downloaders dash
-* * * close impl * * xdman downloaders ftp * * xdman downloaders hds
-* * * close impl * * xdman downloaders ftp * * xdman downloaders hls
-* * * close impl * * xdman downloaders ftp * * xdman downloaders http
-* * * close impl * * xdman downloaders ftp * * xdman downloaders metadata
-* * * close impl * * xdman downloaders ftp * xdman downloaders metadata manifests
-* * * close impl * * xdman downloaders ftp * * * xdman mediaconversion
-* * * close impl * * xdman downloaders ftp * * * xdman monitoring
-* * * close impl * * xdman downloaders ftp * * * xdman network
-* * * close impl * * xdman downloaders ftp * * xdman network http
-* * * close impl * * xdman downloaders ftp * xdman network http proxy
-* * * close impl * * xdman downloaders ftp * * * xdman preview
-* * * close impl * * xdman downloaders ftp * * xdman ui components
-* * * close impl * * xdman downloaders ftp * * xdman ui laf
-* * * close impl * * xdman downloaders ftp * * xdman ui res
-* * * close impl * * xdman downloaders ftp * * * xdman util
-* * * close impl * * xdman downloaders ftp * * * xdman videoparser
-* * * close impl * * xdman downloaders ftp * * * xdman win32
+* * xdman downloaders ftp
+* * xdman network ftp
+* * * * xdman
+* * * xdman downloaders
+* * xdman downloaders dash
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui components
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

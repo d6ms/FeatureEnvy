@@ -1,22 +1,23 @@
-* * * on stop * org neuroph core learning * org neuroph core data
-* * * on stop * org neuroph core learning * * org neuroph core
-* * * on stop * org neuroph core learning * org neuroph core events
-* * * on stop * org neuroph core learning * org neuroph core exceptions
-* * * on stop * org neuroph core learning * org neuroph core input
-* * * on stop * org neuroph core learning org neuroph core learning error
-* * * on stop * org neuroph core learning org neuroph core learning stop
-* * * on stop * org neuroph core learning * org neuroph core transfer
-* * * on stop * org neuroph core learning * * org neuroph nnet
-* * * on stop * org neuroph core learning * org neuroph nnet comp
-* * * on stop * org neuroph core learning org neuroph nnet comp layer
-* * * on stop * org neuroph core learning org neuroph nnet comp neuron
-* * * on stop * org neuroph core learning * org neuroph nnet learning
-* * * on stop * org neuroph core learning org neuroph nnet learning kmeans
-* * * on stop * org neuroph core learning org neuroph nnet learning knn
-* * * on stop * org neuroph core learning * * org neuroph util
-* * * on stop * org neuroph core learning * org neuroph util benchmark
-* * * on stop * org neuroph core learning org neuroph util data norm
-* * * on stop * org neuroph core learning org neuroph util data sample
-* * * on stop * org neuroph core learning * org neuroph util io
-* * * on stop * org neuroph core learning * org neuroph util plugins
-* * * on stop * org neuroph core learning * org neuroph util random
+* org neuroph core learning
+* * org neuroph core
+* org neuroph core data
+* org neuroph core events
+* org neuroph core exceptions
+* org neuroph core input
+org neuroph core learning error
+org neuroph core learning stop
+* org neuroph core transfer
+* * org neuroph nnet
+* org neuroph nnet comp
+org neuroph nnet comp layer
+org neuroph nnet comp neuron
+* org neuroph nnet learning
+org neuroph nnet learning kmeans
+org neuroph nnet learning knn
+* * org neuroph util
+* org neuroph util benchmark
+org neuroph util data norm
+org neuroph util data sample
+* org neuroph util io
+* org neuroph util plugins
+* org neuroph util random

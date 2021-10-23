@@ -1,21 +1,22 @@
-* * get download list * * * * xdman * * xdman ui components
-* * get download list * * * * xdman * * * xdman downloaders
-* * get download list * * * * xdman * * xdman downloaders dash
-* * get download list * * * * xdman * * xdman downloaders ftp
-* * get download list * * * * xdman * * xdman downloaders hds
-* * get download list * * * * xdman * * xdman downloaders hls
-* * get download list * * * * xdman * * xdman downloaders http
-* * get download list * * * * xdman * * xdman downloaders metadata
-* * get download list * * * * xdman * xdman downloaders metadata manifests
-* * get download list * * * * xdman * * * xdman mediaconversion
-* * get download list * * * * xdman * * * xdman monitoring
-* * get download list * * * * xdman * * * xdman network
-* * get download list * * * * xdman * * xdman network ftp
-* * get download list * * * * xdman * * xdman network http
-* * get download list * * * * xdman * xdman network http proxy
-* * get download list * * * * xdman * * * xdman preview
-* * get download list * * * * xdman * * xdman ui laf
-* * get download list * * * * xdman * * xdman ui res
-* * get download list * * * * xdman * * * xdman util
-* * get download list * * * * xdman * * * xdman videoparser
-* * get download list * * * * xdman * * * xdman win32
+* * * * xdman
+* * xdman ui components
+* * * xdman downloaders
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

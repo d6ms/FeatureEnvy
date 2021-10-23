@@ -1,21 +1,22 @@
-* * * prompt credential * * * xdman downloaders * * * xdman mediaconversion
-* * * prompt credential * * * xdman downloaders * * * * xdman
-* * * prompt credential * * * xdman downloaders * * xdman downloaders dash
-* * * prompt credential * * * xdman downloaders * * xdman downloaders ftp
-* * * prompt credential * * * xdman downloaders * * xdman downloaders hds
-* * * prompt credential * * * xdman downloaders * * xdman downloaders hls
-* * * prompt credential * * * xdman downloaders * * xdman downloaders http
-* * * prompt credential * * * xdman downloaders * * xdman downloaders metadata
-* * * prompt credential * * * xdman downloaders * xdman downloaders metadata manifests
-* * * prompt credential * * * xdman downloaders * * * xdman monitoring
-* * * prompt credential * * * xdman downloaders * * * xdman network
-* * * prompt credential * * * xdman downloaders * * xdman network ftp
-* * * prompt credential * * * xdman downloaders * * xdman network http
-* * * prompt credential * * * xdman downloaders * xdman network http proxy
-* * * prompt credential * * * xdman downloaders * * * xdman preview
-* * * prompt credential * * * xdman downloaders * * xdman ui components
-* * * prompt credential * * * xdman downloaders * * xdman ui laf
-* * * prompt credential * * * xdman downloaders * * xdman ui res
-* * * prompt credential * * * xdman downloaders * * * xdman util
-* * * prompt credential * * * xdman downloaders * * * xdman videoparser
-* * * prompt credential * * * xdman downloaders * * * xdman win32
+* * * xdman downloaders
+* * * xdman mediaconversion
+* * * * xdman
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui components
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

@@ -1,21 +1,22 @@
-* * install u i * * xdman ui laf * * xdman ui components
-* * install u i * * xdman ui laf * * * * xdman
-* * install u i * * xdman ui laf * * * xdman downloaders
-* * install u i * * xdman ui laf * * xdman downloaders dash
-* * install u i * * xdman ui laf * * xdman downloaders ftp
-* * install u i * * xdman ui laf * * xdman downloaders hds
-* * install u i * * xdman ui laf * * xdman downloaders hls
-* * install u i * * xdman ui laf * * xdman downloaders http
-* * install u i * * xdman ui laf * * xdman downloaders metadata
-* * install u i * * xdman ui laf * xdman downloaders metadata manifests
-* * install u i * * xdman ui laf * * * xdman mediaconversion
-* * install u i * * xdman ui laf * * * xdman monitoring
-* * install u i * * xdman ui laf * * * xdman network
-* * install u i * * xdman ui laf * * xdman network ftp
-* * install u i * * xdman ui laf * * xdman network http
-* * install u i * * xdman ui laf * xdman network http proxy
-* * install u i * * xdman ui laf * * * xdman preview
-* * install u i * * xdman ui laf * * xdman ui res
-* * install u i * * xdman ui laf * * * xdman util
-* * install u i * * xdman ui laf * * * xdman videoparser
-* * install u i * * xdman ui laf * * * xdman win32
+* * xdman ui laf
+* * xdman ui components
+* * * * xdman
+* * * xdman downloaders
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

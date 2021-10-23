@@ -1,22 +1,23 @@
-* * set neural network * org neuroph core learning * * org neuroph core
-* * set neural network * org neuroph core learning * org neuroph core data
-* * set neural network * org neuroph core learning * org neuroph core events
-* * set neural network * org neuroph core learning * org neuroph core exceptions
-* * set neural network * org neuroph core learning * org neuroph core input
-* * set neural network * org neuroph core learning org neuroph core learning error
-* * set neural network * org neuroph core learning org neuroph core learning stop
-* * set neural network * org neuroph core learning * org neuroph core transfer
-* * set neural network * org neuroph core learning * * org neuroph nnet
-* * set neural network * org neuroph core learning * org neuroph nnet comp
-* * set neural network * org neuroph core learning org neuroph nnet comp layer
-* * set neural network * org neuroph core learning org neuroph nnet comp neuron
-* * set neural network * org neuroph core learning * org neuroph nnet learning
-* * set neural network * org neuroph core learning org neuroph nnet learning kmeans
-* * set neural network * org neuroph core learning org neuroph nnet learning knn
-* * set neural network * org neuroph core learning * * org neuroph util
-* * set neural network * org neuroph core learning * org neuroph util benchmark
-* * set neural network * org neuroph core learning org neuroph util data norm
-* * set neural network * org neuroph core learning org neuroph util data sample
-* * set neural network * org neuroph core learning * org neuroph util io
-* * set neural network * org neuroph core learning * org neuroph util plugins
-* * set neural network * org neuroph core learning * org neuroph util random
+* org neuroph core learning
+* org neuroph core data
+* * org neuroph core
+* org neuroph core events
+* org neuroph core exceptions
+* org neuroph core input
+org neuroph core learning error
+org neuroph core learning stop
+* org neuroph core transfer
+* * org neuroph nnet
+* org neuroph nnet comp
+org neuroph nnet comp layer
+org neuroph nnet comp neuron
+* org neuroph nnet learning
+org neuroph nnet learning kmeans
+org neuroph nnet learning knn
+* * org neuroph util
+* org neuroph util benchmark
+org neuroph util data norm
+org neuroph util data sample
+* org neuroph util io
+* org neuroph util plugins
+* org neuroph util random

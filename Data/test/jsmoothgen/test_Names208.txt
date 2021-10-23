@@ -1,12 +1,13 @@
-* * cancelbutton action performed charabia jsmoothgen application gui util * net charabia jsmoothgen application
-* * cancelbutton action performed charabia jsmoothgen application gui util * * net charabia jsmoothgen
-* * cancelbutton action performed charabia jsmoothgen application gui util net charabia jsmoothgen application cmdline
-* * cancelbutton action performed charabia jsmoothgen application gui util net charabia jsmoothgen application gui
-* * cancelbutton action performed charabia jsmoothgen application gui util charabia jsmoothgen application gui editors
-* * cancelbutton action performed charabia jsmoothgen application gui util net charabia jsmoothgen application swtgui
-* * cancelbutton action performed charabia jsmoothgen application gui util charabia jsmoothgen application swtgui resources
-* * cancelbutton action performed charabia jsmoothgen application gui util * net charabia jsmoothgen pe
-* * cancelbutton action performed charabia jsmoothgen application gui util net charabia jsmoothgen pe res
-* * cancelbutton action performed charabia jsmoothgen application gui util * net charabia jsmoothgen skeleton
-* * cancelbutton action performed charabia jsmoothgen application gui util * net charabia util codec
-* * cancelbutton action performed charabia jsmoothgen application gui util * net charabia util io
+charabia jsmoothgen application gui util
+* net charabia jsmoothgen application
+* * net charabia jsmoothgen
+net charabia jsmoothgen application cmdline
+net charabia jsmoothgen application gui
+charabia jsmoothgen application gui editors
+net charabia jsmoothgen application swtgui
+charabia jsmoothgen application swtgui resources
+* net charabia jsmoothgen pe
+net charabia jsmoothgen pe res
+* net charabia jsmoothgen skeleton
+* net charabia util codec
+* net charabia util io

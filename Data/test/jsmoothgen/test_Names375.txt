@@ -1,13 +1,14 @@
-* * save project as net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
-* * save project as net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
-* * save project as net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
-* * save project as net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
-* * save project as net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
-* * save project as net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
-* * save project as net charabia jsmoothgen application swtgui charabia jsmoothgen application gui editors
-* * save project as net charabia jsmoothgen application swtgui charabia jsmoothgen application gui util
-* * save project as net charabia jsmoothgen application swtgui charabia jsmoothgen application swtgui resources
-* * save project as net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
-* * save project as net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
-* * save project as net charabia jsmoothgen application swtgui * net charabia util codec
-* * save project as net charabia jsmoothgen application swtgui * net charabia util io
+net charabia jsmoothgen application swtgui
+* net charabia jsmoothgen application
+* net charabia jsmoothgen application
+* net charabia jsmoothgen skeleton
+* * net charabia jsmoothgen
+net charabia jsmoothgen application cmdline
+net charabia jsmoothgen application gui
+charabia jsmoothgen application gui editors
+charabia jsmoothgen application gui util
+charabia jsmoothgen application swtgui resources
+* net charabia jsmoothgen pe
+net charabia jsmoothgen pe res
+* net charabia util codec
+* net charabia util io

@@ -1,21 +1,22 @@
-* * * confirm url * * xdman ui components * * xdman downloaders metadata
-* * * confirm url * * xdman ui components * * * * xdman
-* * * confirm url * * xdman ui components * * * xdman downloaders
-* * * confirm url * * xdman ui components * * xdman downloaders dash
-* * * confirm url * * xdman ui components * * xdman downloaders ftp
-* * * confirm url * * xdman ui components * * xdman downloaders hds
-* * * confirm url * * xdman ui components * * xdman downloaders hls
-* * * confirm url * * xdman ui components * * xdman downloaders http
-* * * confirm url * * xdman ui components * xdman downloaders metadata manifests
-* * * confirm url * * xdman ui components * * * xdman mediaconversion
-* * * confirm url * * xdman ui components * * * xdman monitoring
-* * * confirm url * * xdman ui components * * * xdman network
-* * * confirm url * * xdman ui components * * xdman network ftp
-* * * confirm url * * xdman ui components * * xdman network http
-* * * confirm url * * xdman ui components * xdman network http proxy
-* * * confirm url * * xdman ui components * * * xdman preview
-* * * confirm url * * xdman ui components * * xdman ui laf
-* * * confirm url * * xdman ui components * * xdman ui res
-* * * confirm url * * xdman ui components * * * xdman util
-* * * confirm url * * xdman ui components * * * xdman videoparser
-* * * confirm url * * xdman ui components * * * xdman win32
+* * xdman ui components
+* * xdman downloaders metadata
+* * * * xdman
+* * * xdman downloaders
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

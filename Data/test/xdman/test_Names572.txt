@@ -1,21 +1,22 @@
-* * * init shutdown * * * * xdman * * xdman ui components
-* * * init shutdown * * * * xdman * * * xdman downloaders
-* * * init shutdown * * * * xdman * * xdman downloaders dash
-* * * init shutdown * * * * xdman * * xdman downloaders ftp
-* * * init shutdown * * * * xdman * * xdman downloaders hds
-* * * init shutdown * * * * xdman * * xdman downloaders hls
-* * * init shutdown * * * * xdman * * xdman downloaders http
-* * * init shutdown * * * * xdman * * xdman downloaders metadata
-* * * init shutdown * * * * xdman * xdman downloaders metadata manifests
-* * * init shutdown * * * * xdman * * * xdman mediaconversion
-* * * init shutdown * * * * xdman * * * xdman monitoring
-* * * init shutdown * * * * xdman * * * xdman network
-* * * init shutdown * * * * xdman * * xdman network ftp
-* * * init shutdown * * * * xdman * * xdman network http
-* * * init shutdown * * * * xdman * xdman network http proxy
-* * * init shutdown * * * * xdman * * * xdman preview
-* * * init shutdown * * * * xdman * * xdman ui laf
-* * * init shutdown * * * * xdman * * xdman ui res
-* * * init shutdown * * * * xdman * * * xdman util
-* * * init shutdown * * * * xdman * * * xdman videoparser
-* * * init shutdown * * * * xdman * * * xdman win32
+* * * * xdman
+* * xdman ui components
+* * * xdman downloaders
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

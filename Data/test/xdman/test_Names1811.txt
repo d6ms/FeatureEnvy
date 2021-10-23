@@ -1,21 +1,22 @@
-* * is approve option * * xdman ui components * * * xdman mediaconversion
-* * is approve option * * xdman ui components * * * * xdman
-* * is approve option * * xdman ui components * * * xdman downloaders
-* * is approve option * * xdman ui components * * xdman downloaders dash
-* * is approve option * * xdman ui components * * xdman downloaders ftp
-* * is approve option * * xdman ui components * * xdman downloaders hds
-* * is approve option * * xdman ui components * * xdman downloaders hls
-* * is approve option * * xdman ui components * * xdman downloaders http
-* * is approve option * * xdman ui components * * xdman downloaders metadata
-* * is approve option * * xdman ui components * xdman downloaders metadata manifests
-* * is approve option * * xdman ui components * * * xdman monitoring
-* * is approve option * * xdman ui components * * * xdman network
-* * is approve option * * xdman ui components * * xdman network ftp
-* * is approve option * * xdman ui components * * xdman network http
-* * is approve option * * xdman ui components * xdman network http proxy
-* * is approve option * * xdman ui components * * * xdman preview
-* * is approve option * * xdman ui components * * xdman ui laf
-* * is approve option * * xdman ui components * * xdman ui res
-* * is approve option * * xdman ui components * * * xdman util
-* * is approve option * * xdman ui components * * * xdman videoparser
-* * is approve option * * xdman ui components * * * xdman win32
+* * xdman ui components
+* * * xdman mediaconversion
+* * * * xdman
+* * * xdman downloaders
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

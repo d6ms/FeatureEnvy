@@ -1,21 +1,22 @@
-* * * set id * * * xdman downloaders * * * * xdman
-* * * set id * * * xdman downloaders * * xdman downloaders dash
-* * * set id * * * xdman downloaders * * xdman downloaders ftp
-* * * set id * * * xdman downloaders * * xdman downloaders hds
-* * * set id * * * xdman downloaders * * xdman downloaders hls
-* * * set id * * * xdman downloaders * * xdman downloaders http
-* * * set id * * * xdman downloaders * * xdman downloaders metadata
-* * * set id * * * xdman downloaders * xdman downloaders metadata manifests
-* * * set id * * * xdman downloaders * * * xdman mediaconversion
-* * * set id * * * xdman downloaders * * * xdman monitoring
-* * * set id * * * xdman downloaders * * * xdman network
-* * * set id * * * xdman downloaders * * xdman network ftp
-* * * set id * * * xdman downloaders * * xdman network http
-* * * set id * * * xdman downloaders * xdman network http proxy
-* * * set id * * * xdman downloaders * * * xdman preview
-* * * set id * * * xdman downloaders * * xdman ui components
-* * * set id * * * xdman downloaders * * xdman ui laf
-* * * set id * * * xdman downloaders * * xdman ui res
-* * * set id * * * xdman downloaders * * * xdman util
-* * * set id * * * xdman downloaders * * * xdman videoparser
-* * * set id * * * xdman downloaders * * * xdman win32
+* * * xdman downloaders
+* * * * xdman
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui components
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

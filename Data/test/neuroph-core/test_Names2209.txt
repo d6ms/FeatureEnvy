@@ -1,22 +1,23 @@
-* * * add plugin * * org neuroph core * org neuroph util plugins
-* * * add plugin * * org neuroph core * org neuroph core data
-* * * add plugin * * org neuroph core * org neuroph core events
-* * * add plugin * * org neuroph core * org neuroph core exceptions
-* * * add plugin * * org neuroph core * org neuroph core input
-* * * add plugin * * org neuroph core * org neuroph core learning
-* * * add plugin * * org neuroph core org neuroph core learning error
-* * * add plugin * * org neuroph core org neuroph core learning stop
-* * * add plugin * * org neuroph core * org neuroph core transfer
-* * * add plugin * * org neuroph core * * org neuroph nnet
-* * * add plugin * * org neuroph core * org neuroph nnet comp
-* * * add plugin * * org neuroph core org neuroph nnet comp layer
-* * * add plugin * * org neuroph core org neuroph nnet comp neuron
-* * * add plugin * * org neuroph core * org neuroph nnet learning
-* * * add plugin * * org neuroph core org neuroph nnet learning kmeans
-* * * add plugin * * org neuroph core org neuroph nnet learning knn
-* * * add plugin * * org neuroph core * * org neuroph util
-* * * add plugin * * org neuroph core * org neuroph util benchmark
-* * * add plugin * * org neuroph core org neuroph util data norm
-* * * add plugin * * org neuroph core org neuroph util data sample
-* * * add plugin * * org neuroph core * org neuroph util io
-* * * add plugin * * org neuroph core * org neuroph util random
+* * org neuroph core
+* org neuroph util plugins
+* org neuroph core data
+* org neuroph core events
+* org neuroph core exceptions
+* org neuroph core input
+* org neuroph core learning
+org neuroph core learning error
+org neuroph core learning stop
+* org neuroph core transfer
+* * org neuroph nnet
+* org neuroph nnet comp
+org neuroph nnet comp layer
+org neuroph nnet comp neuron
+* org neuroph nnet learning
+org neuroph nnet learning kmeans
+org neuroph nnet learning knn
+* * org neuroph util
+* org neuroph util benchmark
+org neuroph util data norm
+org neuroph util data sample
+* org neuroph util io
+* org neuroph util random

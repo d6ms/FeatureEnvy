@@ -1,21 +1,22 @@
-* * * set values * * xdman ui components * * * xdman downloaders
-* * * set values * * xdman ui components * * * * xdman
-* * * set values * * xdman ui components * * xdman downloaders dash
-* * * set values * * xdman ui components * * xdman downloaders ftp
-* * * set values * * xdman ui components * * xdman downloaders hds
-* * * set values * * xdman ui components * * xdman downloaders hls
-* * * set values * * xdman ui components * * xdman downloaders http
-* * * set values * * xdman ui components * * xdman downloaders metadata
-* * * set values * * xdman ui components * xdman downloaders metadata manifests
-* * * set values * * xdman ui components * * * xdman mediaconversion
-* * * set values * * xdman ui components * * * xdman monitoring
-* * * set values * * xdman ui components * * * xdman network
-* * * set values * * xdman ui components * * xdman network ftp
-* * * set values * * xdman ui components * * xdman network http
-* * * set values * * xdman ui components * xdman network http proxy
-* * * set values * * xdman ui components * * * xdman preview
-* * * set values * * xdman ui components * * xdman ui laf
-* * * set values * * xdman ui components * * xdman ui res
-* * * set values * * xdman ui components * * * xdman util
-* * * set values * * xdman ui components * * * xdman videoparser
-* * * set values * * xdman ui components * * * xdman win32
+* * xdman ui components
+* * * xdman downloaders
+* * * * xdman
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

@@ -1,12 +1,13 @@
-* * * get compiler net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * * get compiler net charabia jsmoothgen application gui * * net charabia jsmoothgen
-* * * get compiler net charabia jsmoothgen application gui net charabia jsmoothgen application cmdline
-* * * get compiler net charabia jsmoothgen application gui charabia jsmoothgen application gui editors
-* * * get compiler net charabia jsmoothgen application gui charabia jsmoothgen application gui util
-* * * get compiler net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
-* * * get compiler net charabia jsmoothgen application gui charabia jsmoothgen application swtgui resources
-* * * get compiler net charabia jsmoothgen application gui * net charabia jsmoothgen pe
-* * * get compiler net charabia jsmoothgen application gui net charabia jsmoothgen pe res
-* * * get compiler net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
-* * * get compiler net charabia jsmoothgen application gui * net charabia util codec
-* * * get compiler net charabia jsmoothgen application gui * net charabia util io
+net charabia jsmoothgen application gui
+* net charabia jsmoothgen application
+* * net charabia jsmoothgen
+net charabia jsmoothgen application cmdline
+charabia jsmoothgen application gui editors
+charabia jsmoothgen application gui util
+net charabia jsmoothgen application swtgui
+charabia jsmoothgen application swtgui resources
+* net charabia jsmoothgen pe
+net charabia jsmoothgen pe res
+* net charabia jsmoothgen skeleton
+* net charabia util codec
+* net charabia util io

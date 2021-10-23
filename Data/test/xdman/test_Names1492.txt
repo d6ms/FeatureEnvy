@@ -1,22 +1,23 @@
-* on video list ready * * xdman ui components * * * xdman videoparser
-* on video list ready * * xdman ui components * * * xdman videoparser
-* on video list ready * * xdman ui components * * * * xdman
-* on video list ready * * xdman ui components * * * xdman downloaders
-* on video list ready * * xdman ui components * * xdman downloaders dash
-* on video list ready * * xdman ui components * * xdman downloaders ftp
-* on video list ready * * xdman ui components * * xdman downloaders hds
-* on video list ready * * xdman ui components * * xdman downloaders hls
-* on video list ready * * xdman ui components * * xdman downloaders http
-* on video list ready * * xdman ui components * * xdman downloaders metadata
-* on video list ready * * xdman ui components * xdman downloaders metadata manifests
-* on video list ready * * xdman ui components * * * xdman mediaconversion
-* on video list ready * * xdman ui components * * * xdman monitoring
-* on video list ready * * xdman ui components * * * xdman network
-* on video list ready * * xdman ui components * * xdman network ftp
-* on video list ready * * xdman ui components * * xdman network http
-* on video list ready * * xdman ui components * xdman network http proxy
-* on video list ready * * xdman ui components * * * xdman preview
-* on video list ready * * xdman ui components * * xdman ui laf
-* on video list ready * * xdman ui components * * xdman ui res
-* on video list ready * * xdman ui components * * * xdman util
-* on video list ready * * xdman ui components * * * xdman win32
+* * xdman ui components
+* * * xdman videoparser
+* * * xdman videoparser
+* * * * xdman
+* * * xdman downloaders
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman win32

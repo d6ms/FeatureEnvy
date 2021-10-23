@@ -1,21 +1,22 @@
-* read int 3 2 * * xdman downloaders hds * * xdman downloaders metadata
-* read int 3 2 * * xdman downloaders hds * * * xdman mediaconversion
-* read int 3 2 * * xdman downloaders hds * * * * xdman
-* read int 3 2 * * xdman downloaders hds * * * xdman downloaders
-* read int 3 2 * * xdman downloaders hds * * xdman downloaders dash
-* read int 3 2 * * xdman downloaders hds * * xdman downloaders ftp
-* read int 3 2 * * xdman downloaders hds * * xdman downloaders hls
-* read int 3 2 * * xdman downloaders hds * * xdman downloaders http
-* read int 3 2 * * xdman downloaders hds * xdman downloaders metadata manifests
-* read int 3 2 * * xdman downloaders hds * * * xdman monitoring
-* read int 3 2 * * xdman downloaders hds * * * xdman network
-* read int 3 2 * * xdman downloaders hds * * xdman network ftp
-* read int 3 2 * * xdman downloaders hds * * xdman network http
-* read int 3 2 * * xdman downloaders hds * xdman network http proxy
-* read int 3 2 * * xdman downloaders hds * * * xdman preview
-* read int 3 2 * * xdman downloaders hds * * xdman ui components
-* read int 3 2 * * xdman downloaders hds * * xdman ui laf
-* read int 3 2 * * xdman downloaders hds * * xdman ui res
-* read int 3 2 * * xdman downloaders hds * * * xdman util
-* read int 3 2 * * xdman downloaders hds * * * xdman videoparser
-* read int 3 2 * * xdman downloaders hds * * * xdman win32
+* * xdman downloaders hds
+* * xdman downloaders metadata
+* * * xdman mediaconversion
+* * * * xdman
+* * * xdman downloaders
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hls
+* * xdman downloaders http
+* xdman downloaders metadata manifests
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui components
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

@@ -1,21 +1,22 @@
-* * * reset stream * * * xdman downloaders * * * * xdman
-* * * reset stream * * * xdman downloaders * * xdman downloaders dash
-* * * reset stream * * * xdman downloaders * * xdman downloaders ftp
-* * * reset stream * * * xdman downloaders * * xdman downloaders hds
-* * * reset stream * * * xdman downloaders * * xdman downloaders hls
-* * * reset stream * * * xdman downloaders * * xdman downloaders http
-* * * reset stream * * * xdman downloaders * * xdman downloaders metadata
-* * * reset stream * * * xdman downloaders * xdman downloaders metadata manifests
-* * * reset stream * * * xdman downloaders * * * xdman mediaconversion
-* * * reset stream * * * xdman downloaders * * * xdman monitoring
-* * * reset stream * * * xdman downloaders * * * xdman network
-* * * reset stream * * * xdman downloaders * * xdman network ftp
-* * * reset stream * * * xdman downloaders * * xdman network http
-* * * reset stream * * * xdman downloaders * xdman network http proxy
-* * * reset stream * * * xdman downloaders * * * xdman preview
-* * * reset stream * * * xdman downloaders * * xdman ui components
-* * * reset stream * * * xdman downloaders * * xdman ui laf
-* * * reset stream * * * xdman downloaders * * xdman ui res
-* * * reset stream * * * xdman downloaders * * * xdman util
-* * * reset stream * * * xdman downloaders * * * xdman videoparser
-* * * reset stream * * * xdman downloaders * * * xdman win32
+* * * xdman downloaders
+* * * * xdman
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui components
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

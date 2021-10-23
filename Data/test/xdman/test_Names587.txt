@@ -1,21 +1,22 @@
-* * notify component update * * * * xdman * * xdman ui components
-* * notify component update * * * * xdman * * * xdman downloaders
-* * notify component update * * * * xdman * * xdman downloaders dash
-* * notify component update * * * * xdman * * xdman downloaders ftp
-* * notify component update * * * * xdman * * xdman downloaders hds
-* * notify component update * * * * xdman * * xdman downloaders hls
-* * notify component update * * * * xdman * * xdman downloaders http
-* * notify component update * * * * xdman * * xdman downloaders metadata
-* * notify component update * * * * xdman * xdman downloaders metadata manifests
-* * notify component update * * * * xdman * * * xdman mediaconversion
-* * notify component update * * * * xdman * * * xdman monitoring
-* * notify component update * * * * xdman * * * xdman network
-* * notify component update * * * * xdman * * xdman network ftp
-* * notify component update * * * * xdman * * xdman network http
-* * notify component update * * * * xdman * xdman network http proxy
-* * notify component update * * * * xdman * * * xdman preview
-* * notify component update * * * * xdman * * xdman ui laf
-* * notify component update * * * * xdman * * xdman ui res
-* * notify component update * * * * xdman * * * xdman util
-* * notify component update * * * * xdman * * * xdman videoparser
-* * notify component update * * * * xdman * * * xdman win32
+* * * * xdman
+* * xdman ui components
+* * * xdman downloaders
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui laf
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32

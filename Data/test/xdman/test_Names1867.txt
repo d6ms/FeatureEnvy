@@ -1,21 +1,22 @@
-* * create u i * * xdman ui laf * * xdman ui components
-* * create u i * * xdman ui laf * * * * xdman
-* * create u i * * xdman ui laf * * * xdman downloaders
-* * create u i * * xdman ui laf * * xdman downloaders dash
-* * create u i * * xdman ui laf * * xdman downloaders ftp
-* * create u i * * xdman ui laf * * xdman downloaders hds
-* * create u i * * xdman ui laf * * xdman downloaders hls
-* * create u i * * xdman ui laf * * xdman downloaders http
-* * create u i * * xdman ui laf * * xdman downloaders metadata
-* * create u i * * xdman ui laf * xdman downloaders metadata manifests
-* * create u i * * xdman ui laf * * * xdman mediaconversion
-* * create u i * * xdman ui laf * * * xdman monitoring
-* * create u i * * xdman ui laf * * * xdman network
-* * create u i * * xdman ui laf * * xdman network ftp
-* * create u i * * xdman ui laf * * xdman network http
-* * create u i * * xdman ui laf * xdman network http proxy
-* * create u i * * xdman ui laf * * * xdman preview
-* * create u i * * xdman ui laf * * xdman ui res
-* * create u i * * xdman ui laf * * * xdman util
-* * create u i * * xdman ui laf * * * xdman videoparser
-* * create u i * * xdman ui laf * * * xdman win32
+* * xdman ui laf
+* * xdman ui components
+* * * * xdman
+* * * xdman downloaders
+* * xdman downloaders dash
+* * xdman downloaders ftp
+* * xdman downloaders hds
+* * xdman downloaders hls
+* * xdman downloaders http
+* * xdman downloaders metadata
+* xdman downloaders metadata manifests
+* * * xdman mediaconversion
+* * * xdman monitoring
+* * * xdman network
+* * xdman network ftp
+* * xdman network http
+* xdman network http proxy
+* * * xdman preview
+* * xdman ui res
+* * * xdman util
+* * * xdman videoparser
+* * * xdman win32
