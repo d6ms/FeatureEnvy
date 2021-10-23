@@ -1,0 +1,2 @@
+* * * set error * * org neuroph core * org neuroph core input
+* * * set error * * org neuroph core * org neuroph core transfer

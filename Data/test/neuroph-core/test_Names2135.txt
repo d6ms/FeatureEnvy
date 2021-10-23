@@ -1,0 +1,2 @@
+* * remove output connection * * org neuroph core * org neuroph core input
+* * remove output connection * * org neuroph core * org neuroph core transfer

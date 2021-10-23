@@ -1,3 +1,0 @@
-* * create u i * * xdman ui laf * * xdman ui components
-* * uninstall u i * * xdman ui laf * * xdman ui components
-* * install u i * * xdman ui laf * * xdman ui components

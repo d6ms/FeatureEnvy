@@ -1,0 +1,3 @@
+* * fire learning event * org neuroph core learning * org neuroph core events
+* * fire learning event * org neuroph core learning * * org neuroph core
+* * fire learning event * org neuroph core learning * org neuroph core data

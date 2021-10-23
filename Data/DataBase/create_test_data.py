@@ -2,6 +2,7 @@ import os
 import sys
 import mysql.connector as mydb
 from collections import namedtuple
+from itertools import groupby
 
 METHOD_LENGTH = 5
 PACKAGE_LENGTH = 5
@@ -23,19 +24,18 @@ if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
 query = f'''
-select cs.ClassId, l.methodName, cs.package_name as src_package, cd.package_name as dst_package, l.src_distance, l.dst_distance
+select l.MethodId, l.methodName, cs.package_name as src_package, cd.package_name as dst_package, l.src_distance, l.dst_distance
 from rel2 l
 inner join classinfo cs on l.src_class = cs.ClassQualifiedName 
 inner join classinfo cd on l.dst_class = cd.ClassQualifiedName 
-where cs.package_name != cd.package_name
+where cs.package_name != cd.package_name 
 and cs.project_name = '{project}'
-order by cs.ClassId 
-;
+order by l.MethodId ;
 '''
 
 
 DataRow = namedtuple('DataRow', [
-    'classId',
+    'methodId',
     'methodName', 
     'sourcePackage',
     'targetPackage',
@@ -78,39 +78,38 @@ def split_package_name(packageName):
 
 def main():
     cur = conn.cursor()
+
+    cur = conn.cursor()
+    cur.execute(f'''
+    select distinct(package_name)
+    from classinfo 
+    where project_name = '{project}';
+    ''')
+    rows = cur.fetchall()
+    packages = [row[0] for row in rows]
+
     cur.execute(query)
     rows = cur.fetchall()
+    rows = [DataRow(*row) for row in rows]
+    method_ids = []
+    for method_id, rows in groupby(rows, key=lambda row: row.methodId):
+        method_ids.append(method_id)
+        f_name = open(f'{output_dir}/test_Names{method_id}.txt', mode='w')
+        f_dist = open(f'{output_dir}/test_Distances{method_id}.txt', mode='w')
+        for row in rows:
+            methodName = split_method_name(row.methodName)
+            sourcePackage = split_package_name(row.sourcePackage)
+            targetPackage = split_package_name(row.targetPackage)
+            name = ' '.join(methodName + sourcePackage + targetPackage)
+            dist = f'{row.sourceDistance} {row.targetDistance} 0'
+            f_name.write(name + '\n')
+            f_dist.write(dist + '\n')
+        f_name.close()
+        f_dist.close()
 
-    class_ids, names, distances = [], [], []
-    for row in rows:
-        row = DataRow(*row)
-        if class_ids and class_ids[-1] != row.classId:
-            with open(f'{output_dir}/test_Names{class_ids[-1]}.txt', mode='w') as f:
-                for name in names:
-                    f.write(name + '\n')
-            with open(f'{output_dir}/test_Distances{class_ids[-1]}.txt', mode='w') as f:
-                for distance in distances:
-                    f.write(distance + '\n')
-            names, distances = [], []
-        
-        if not class_ids or class_ids[-1] != row.classId:
-            class_ids.append(row.classId)
-    
-        distances.append(f'{row.sourceDistance} {row.targetDistance} 0')
-
-        methodName = split_method_name(row.methodName)
-        sourcePackage = split_package_name(row.sourcePackage)
-        targetPackage = split_package_name(row.targetPackage)
-        names.append(' '.join(methodName + sourcePackage + targetPackage))
-    
-    with open(f'{output_dir}/test_Names{class_ids[-1]}.txt', mode='w') as f:
-        for name in names:
-            f.write(name + '\n')
-    with open(f'{output_dir}/test_Distances{class_ids[-1]}.txt', mode='w') as f:
-        for distance in distances:
-            f.write(distance + '\n')
-    with open(f'{output_dir}/test_ClassId.txt', mode='w') as f:
-        for class_id in class_ids:
-            f.write(str(class_id) + '\n')
+    with open(f'{output_dir}/test_MethodId.txt', mode='w') as f:
+        for method_id in method_ids:
+            f.write(str(method_id) + ' 0\n')
+       
 
 main()

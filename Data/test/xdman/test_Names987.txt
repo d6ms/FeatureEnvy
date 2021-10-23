@@ -1,0 +1,2 @@
+* read int 6 4 * * xdman downloaders hds * * xdman downloaders metadata
+* read int 6 4 * * xdman downloaders hds * * * xdman mediaconversion

@@ -1,0 +1,1 @@
+* * add input connection org neuroph nnet comp neuron * * org neuroph core

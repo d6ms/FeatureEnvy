@@ -1,0 +1,2 @@
+* * * * stop * * xdman downloaders hls * * xdman downloaders metadata
+* * * * stop * * xdman downloaders hls * * * xdman mediaconversion

@@ -1,6 +1,0 @@
-* * * create channel * * xdman downloaders http * * xdman downloaders metadata
-* * * get type * * xdman downloaders http * * xdman downloaders metadata
-* is file name changed * * xdman downloaders http * * xdman downloaders metadata
-* * get new file * * xdman downloaders http * * xdman downloaders metadata
-* * * chunk confirmed * * xdman downloaders http * * xdman downloaders metadata
-* * * get metadata * * xdman downloaders http * * xdman downloaders metadata

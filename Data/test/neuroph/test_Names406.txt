@@ -1,3 +1,0 @@
-* * * * randomize * org neuroph util random * * org neuroph core
-* * * * randomize * org neuroph util random * * org neuroph core
-* * * * randomize * org neuroph util random * * org neuroph core

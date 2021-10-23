@@ -1,9 +1,0 @@
-* * get data set org neuroph nnet learning kmeans * org neuroph core data
-* * set data set org neuroph nnet learning kmeans * org neuroph core data
-* set number of clusters org neuroph nnet learning kmeans * org neuroph core data
-* * * get clusters org neuroph nnet learning kmeans * org neuroph core data
-* * * get log org neuroph nnet learning kmeans * org neuroph core data
-* * * init clusters org neuroph nnet learning kmeans * org neuroph core data
-* * get nearest cluster org neuroph nnet learning kmeans * org neuroph core data
-* * * do clustering org neuroph nnet learning kmeans * org neuroph core data
-* * * recalculate centroids org neuroph nnet learning kmeans * org neuroph core data

@@ -1,0 +1,1 @@
+* * notify component install * * * * xdman * * xdman ui components

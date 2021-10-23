@@ -1,0 +1,2 @@
+* * has input connections * * org neuroph core * org neuroph core input
+* * has input connections * * org neuroph core * org neuroph core transfer

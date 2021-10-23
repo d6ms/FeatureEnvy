@@ -1,3 +1,0 @@
-* * * get name * org neuroph util plugins * * org neuroph core
-* * get parent network * org neuroph util plugins * * org neuroph core
-* * set parent network * org neuroph util plugins * * org neuroph core

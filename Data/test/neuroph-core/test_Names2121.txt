@@ -1,0 +1,2 @@
+* * * * reset * * org neuroph core * org neuroph core input
+* * * * reset * * org neuroph core * org neuroph core transfer

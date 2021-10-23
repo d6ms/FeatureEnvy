@@ -1,0 +1,2 @@
+* * do learning epoch * org neuroph nnet learning * org neuroph core data
+* * do learning epoch * org neuroph nnet learning * * org neuroph core

@@ -1,0 +1,3 @@
+* * delete tmp files * * * xdman util * * xdman downloaders http
+* * delete tmp files * * * xdman util * * xdman ui components
+* * delete tmp files * * * xdman util * * xdman ui components

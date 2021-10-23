@@ -1,0 +1,2 @@
+* has input connection from * * org neuroph core * org neuroph core input
+* has input connection from * * org neuroph core * org neuroph core transfer

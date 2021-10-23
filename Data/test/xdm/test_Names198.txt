@@ -1,2 +1,0 @@
-* * * set values * * xdman ui components * * * xdman downloaders
-* * * paint component * * xdman ui components * * * xdman downloaders

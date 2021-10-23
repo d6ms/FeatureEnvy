@@ -1,0 +1,2 @@
+* * get connection from * * org neuroph core * org neuroph core input
+* * get connection from * * org neuroph core * org neuroph core transfer

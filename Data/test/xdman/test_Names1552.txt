@@ -1,0 +1,1 @@
+show ok msg and close * * xdman ui components * * xdman downloaders metadata

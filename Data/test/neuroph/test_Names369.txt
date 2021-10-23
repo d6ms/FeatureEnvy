@@ -1,3 +1,0 @@
-* * * array 2network * * org neuroph util * * org neuroph core
-* * determine array size * * org neuroph util * * org neuroph core
-* * * network 2array * * org neuroph util * * org neuroph core

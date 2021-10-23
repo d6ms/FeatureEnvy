@@ -1,0 +1,2 @@
+* * * assemble async * * xdman downloaders hls * * xdman downloaders metadata
+* * * assemble async * * xdman downloaders hls * * * xdman mediaconversion

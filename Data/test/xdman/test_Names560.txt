@@ -1,0 +1,1 @@
+* * hide prg wnd * * * * xdman * * xdman ui components

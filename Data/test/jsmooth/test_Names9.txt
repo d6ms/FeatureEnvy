@@ -1,9 +1,0 @@
-* * get base dir net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * * data changed net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * * update model net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * * get label net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * * get description net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * get absolute path net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * * * attach net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * * * detach net charabia jsmoothgen application gui * net charabia jsmoothgen application
-* * * get model net charabia jsmoothgen application gui * net charabia jsmoothgen application

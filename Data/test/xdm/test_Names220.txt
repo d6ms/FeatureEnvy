@@ -1,8 +1,0 @@
-* * get cmb val * * xdman ui components * * * xdman mediaconversion
-* * * action performed * * xdman ui components * * * xdman mediaconversion
-* * is approve option * * xdman ui components * * * xdman mediaconversion
-* * * update format * * xdman ui components * * * xdman mediaconversion
-* * init u i * * xdman ui components * * * xdman mediaconversion
-* * add to model * * xdman ui components * * * xdman mediaconversion
-* * create button 2 * * xdman ui components * * * xdman mediaconversion
-* * * get format * * xdman ui components * * * xdman mediaconversion

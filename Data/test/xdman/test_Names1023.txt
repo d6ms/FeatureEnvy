@@ -1,0 +1,2 @@
+* * * has key * * xdman downloaders hls * * xdman downloaders metadata
+* * * has key * * xdman downloaders hls * * * xdman mediaconversion

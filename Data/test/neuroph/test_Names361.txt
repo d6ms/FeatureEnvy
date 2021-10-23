@@ -1,2 +1,0 @@
-* * do learning epoch * org neuroph nnet learning * org neuroph core data
-* * update neuron weights * org neuroph nnet learning * * org neuroph core

@@ -1,0 +1,2 @@
+* on video list ready * * xdman ui components * * * xdman videoparser
+* on video list ready * * xdman ui components * * * xdman videoparser

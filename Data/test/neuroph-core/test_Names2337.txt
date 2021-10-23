@@ -1,0 +1,1 @@
+* do one learning iteration * org neuroph core learning * org neuroph core data

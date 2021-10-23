@@ -1,3 +1,0 @@
-* * get content length * * * xdman util * * xdman network http
-* * get input stream * * * xdman util * * xdman network http
-* * skip remaining stream * * * xdman util * * xdman network http

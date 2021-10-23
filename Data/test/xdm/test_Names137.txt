@@ -1,9 +1,0 @@
-* * * set headers * * * xdman monitoring * * xdman network http
-* * * get body * * * xdman monitoring * * xdman network http
-* * * set body * * * xdman monitoring * * xdman network http
-* * * * write * * * xdman monitoring * * xdman network http
-* * * get code * * * xdman monitoring * * xdman network http
-* * * set code * * * xdman monitoring * * xdman network http
-* * * get message * * * xdman monitoring * * xdman network http
-* * * set message * * * xdman monitoring * * xdman network http
-* * * get headers * * * xdman monitoring * * xdman network http

@@ -1,0 +1,2 @@
+* * * find extension * * xdman downloaders hls * * xdman downloaders metadata
+* * * find extension * * xdman downloaders hls * * * xdman mediaconversion

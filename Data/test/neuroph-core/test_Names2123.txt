@@ -1,0 +1,2 @@
+* * get net input * * org neuroph core * org neuroph core input
+* * get net input * * org neuroph core * org neuroph core transfer

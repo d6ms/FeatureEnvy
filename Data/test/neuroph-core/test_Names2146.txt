@@ -1,0 +1,2 @@
+* * set parent layer * * org neuroph core * org neuroph core input
+* * set parent layer * * org neuroph core * org neuroph core transfer

@@ -1,4 +1,0 @@
-* * set neural network * org neuroph nnet learning * * org neuroph core
-* * * * learn * org neuroph nnet learning * org neuroph core data
-* * * learn pattern * org neuroph nnet learning * org neuroph core data
-* * adjust cell weights * org neuroph nnet learning * * org neuroph core

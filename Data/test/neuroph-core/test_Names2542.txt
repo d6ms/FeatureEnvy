@@ -1,0 +1,1 @@
+* update total network error * org neuroph nnet learning * * org neuroph core

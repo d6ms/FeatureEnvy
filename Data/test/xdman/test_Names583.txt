@@ -1,0 +1,1 @@
+* * * exec antivir * * * * xdman * * xdman ui components

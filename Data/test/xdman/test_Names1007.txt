@@ -1,0 +1,2 @@
+* * * should cleanup * * xdman downloaders hls * * xdman downloaders metadata
+* * * should cleanup * * xdman downloaders hls * * * xdman mediaconversion

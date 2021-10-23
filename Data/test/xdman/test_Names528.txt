@@ -1,0 +1,1 @@
+* * show main window * * * * xdman * * xdman ui components

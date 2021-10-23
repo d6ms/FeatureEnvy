@@ -1,2 +1,0 @@
-* * connect feature maps * org neuroph nnet comp org neuroph nnet comp layer
-* full conect map layers * org neuroph nnet comp org neuroph nnet comp layer

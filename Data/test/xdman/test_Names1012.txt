@@ -1,0 +1,2 @@
+* * * * resume * * xdman downloaders hls * * xdman downloaders metadata
+* * * * resume * * xdman downloaders hls * * * xdman mediaconversion

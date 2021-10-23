@@ -1,0 +1,2 @@
+* * * get weights * * org neuroph core * org neuroph core input
+* * * get weights * * org neuroph core * org neuroph core transfer

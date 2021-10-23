@@ -1,0 +1,2 @@
+* * * initialize weights * * org neuroph core * org neuroph core input
+* * * initialize weights * * org neuroph core * org neuroph core transfer
