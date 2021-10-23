@@ -1,1 +1,12 @@
 * * get locale text net charabia jsmoothgen application gui * net charabia jsmoothgen application
+* * get locale text net charabia jsmoothgen application gui * * net charabia jsmoothgen
+* * get locale text net charabia jsmoothgen application gui net charabia jsmoothgen application cmdline
+* * get locale text net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * get locale text net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * get locale text net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
+* * get locale text net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
+* * get locale text net charabia jsmoothgen application gui * net charabia jsmoothgen pe
+* * get locale text net charabia jsmoothgen application gui net charabia jsmoothgen pe res
+* * get locale text net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
+* * get locale text net charabia jsmoothgen application gui * net charabia util codec
+* * get locale text net charabia jsmoothgen application gui * net charabia util io

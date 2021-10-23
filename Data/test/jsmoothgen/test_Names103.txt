@@ -1,1 +1,12 @@
 * * * setup panel net charabia jsmoothgen application gui * net charabia jsmoothgen application
+* * * setup panel net charabia jsmoothgen application gui * * net charabia jsmoothgen
+* * * setup panel net charabia jsmoothgen application gui net charabia jsmoothgen application cmdline
+* * * setup panel net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * * setup panel net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * * setup panel net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
+* * * setup panel net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
+* * * setup panel net charabia jsmoothgen application gui * net charabia jsmoothgen pe
+* * * setup panel net charabia jsmoothgen application gui net charabia jsmoothgen pe res
+* * * setup panel net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
+* * * setup panel net charabia jsmoothgen application gui * net charabia util codec
+* * * setup panel net charabia jsmoothgen application gui * net charabia util io

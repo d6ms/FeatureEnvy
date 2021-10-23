@@ -1,3 +1,13 @@
 * * * new project net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * * new project net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
 * * * new project net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
+* * * new project net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
+* * * new project net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
+* * * new project net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* * * new project net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* * * new project net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* * * new project net charabia jsmoothgen application swtgui net charabia jsmoothgen application swtgui
+* * * new project net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
+* * * new project net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
+* * * new project net charabia jsmoothgen application swtgui * net charabia util codec
+* * * new project net charabia jsmoothgen application swtgui * net charabia util io

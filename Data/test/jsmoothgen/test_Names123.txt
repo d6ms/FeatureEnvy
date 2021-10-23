@@ -1,2 +1,12 @@
 * * * * local net charabia jsmoothgen application gui * net charabia jsmoothgen skeleton
 * * * * local net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * * * local net charabia jsmoothgen application gui * * net charabia jsmoothgen
+* * * * local net charabia jsmoothgen application gui * net charabia jsmoothgen application
+* * * * local net charabia jsmoothgen application gui net charabia jsmoothgen application cmdline
+* * * * local net charabia jsmoothgen application gui net charabia jsmoothgen application gui
+* * * * local net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
+* * * * local net charabia jsmoothgen application gui net charabia jsmoothgen application swtgui
+* * * * local net charabia jsmoothgen application gui * net charabia jsmoothgen pe
+* * * * local net charabia jsmoothgen application gui net charabia jsmoothgen pe res
+* * * * local net charabia jsmoothgen application gui * net charabia util codec
+* * * * local net charabia jsmoothgen application gui * net charabia util io

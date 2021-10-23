@@ -1,1 +1,12 @@
 * * replace default icon * net charabia jsmoothgen pe net charabia jsmoothgen pe res
+* * replace default icon * net charabia jsmoothgen pe * * net charabia jsmoothgen
+* * replace default icon * net charabia jsmoothgen pe * net charabia jsmoothgen application
+* * replace default icon * net charabia jsmoothgen pe net charabia jsmoothgen application cmdline
+* * replace default icon * net charabia jsmoothgen pe net charabia jsmoothgen application gui
+* * replace default icon * net charabia jsmoothgen pe net charabia jsmoothgen application gui
+* * replace default icon * net charabia jsmoothgen pe net charabia jsmoothgen application gui
+* * replace default icon * net charabia jsmoothgen pe net charabia jsmoothgen application swtgui
+* * replace default icon * net charabia jsmoothgen pe net charabia jsmoothgen application swtgui
+* * replace default icon * net charabia jsmoothgen pe * net charabia jsmoothgen skeleton
+* * replace default icon * net charabia jsmoothgen pe * net charabia util codec
+* * replace default icon * net charabia jsmoothgen pe * net charabia util io
