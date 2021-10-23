@@ -1,23 +1,22 @@
-* * xdman downloaders http
-* * xdman network http
-* * xdman network http
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* is java client required * * xdman downloaders http * * xdman network http
+* is java client required * * xdman downloaders http * * xdman network http
+* is java client required * * xdman downloaders http * * * * xdman
+* is java client required * * xdman downloaders http * * * xdman downloaders
+* is java client required * * xdman downloaders http * * xdman downloaders dash
+* is java client required * * xdman downloaders http * * xdman downloaders ftp
+* is java client required * * xdman downloaders http * * xdman downloaders hds
+* is java client required * * xdman downloaders http * * xdman downloaders hls
+* is java client required * * xdman downloaders http * * xdman downloaders metadata
+* is java client required * * xdman downloaders http * xdman downloaders metadata manifests
+* is java client required * * xdman downloaders http * * * xdman mediaconversion
+* is java client required * * xdman downloaders http * * * xdman monitoring
+* is java client required * * xdman downloaders http * * * xdman network
+* is java client required * * xdman downloaders http * * xdman network ftp
+* is java client required * * xdman downloaders http * xdman network http proxy
+* is java client required * * xdman downloaders http * * * xdman preview
+* is java client required * * xdman downloaders http * * xdman ui components
+* is java client required * * xdman downloaders http * * xdman ui laf
+* is java client required * * xdman downloaders http * * xdman ui res
+* is java client required * * xdman downloaders http * * * xdman util
+* is java client required * * xdman downloaders http * * * xdman videoparser
+* is java client required * * xdman downloaders http * * * xdman win32

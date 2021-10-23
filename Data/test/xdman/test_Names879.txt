@@ -1,22 +1,21 @@
-* * * xdman downloaders
-* * * xdman mediaconversion
-* * * * xdman
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* get last modified date * * * xdman downloaders * * * xdman mediaconversion
+* get last modified date * * * xdman downloaders * * * * xdman
+* get last modified date * * * xdman downloaders * * xdman downloaders dash
+* get last modified date * * * xdman downloaders * * xdman downloaders ftp
+* get last modified date * * * xdman downloaders * * xdman downloaders hds
+* get last modified date * * * xdman downloaders * * xdman downloaders hls
+* get last modified date * * * xdman downloaders * * xdman downloaders http
+* get last modified date * * * xdman downloaders * * xdman downloaders metadata
+* get last modified date * * * xdman downloaders * xdman downloaders metadata manifests
+* get last modified date * * * xdman downloaders * * * xdman monitoring
+* get last modified date * * * xdman downloaders * * * xdman network
+* get last modified date * * * xdman downloaders * * xdman network ftp
+* get last modified date * * * xdman downloaders * * xdman network http
+* get last modified date * * * xdman downloaders * xdman network http proxy
+* get last modified date * * * xdman downloaders * * * xdman preview
+* get last modified date * * * xdman downloaders * * xdman ui components
+* get last modified date * * * xdman downloaders * * xdman ui laf
+* get last modified date * * * xdman downloaders * * xdman ui res
+* get last modified date * * * xdman downloaders * * * xdman util
+* get last modified date * * * xdman downloaders * * * xdman videoparser
+* get last modified date * * * xdman downloaders * * * xdman win32

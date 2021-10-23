@@ -1,22 +1,21 @@
-* * * * xdman
-* * xdman ui components
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * process pending requests * * * * xdman * * xdman ui components
+* * process pending requests * * * * xdman * * * xdman downloaders
+* * process pending requests * * * * xdman * * xdman downloaders dash
+* * process pending requests * * * * xdman * * xdman downloaders ftp
+* * process pending requests * * * * xdman * * xdman downloaders hds
+* * process pending requests * * * * xdman * * xdman downloaders hls
+* * process pending requests * * * * xdman * * xdman downloaders http
+* * process pending requests * * * * xdman * * xdman downloaders metadata
+* * process pending requests * * * * xdman * xdman downloaders metadata manifests
+* * process pending requests * * * * xdman * * * xdman mediaconversion
+* * process pending requests * * * * xdman * * * xdman monitoring
+* * process pending requests * * * * xdman * * * xdman network
+* * process pending requests * * * * xdman * * xdman network ftp
+* * process pending requests * * * * xdman * * xdman network http
+* * process pending requests * * * * xdman * xdman network http proxy
+* * process pending requests * * * * xdman * * * xdman preview
+* * process pending requests * * * * xdman * * xdman ui laf
+* * process pending requests * * * * xdman * * xdman ui res
+* * process pending requests * * * * xdman * * * xdman util
+* * process pending requests * * * * xdman * * * xdman videoparser
+* * process pending requests * * * * xdman * * * xdman win32

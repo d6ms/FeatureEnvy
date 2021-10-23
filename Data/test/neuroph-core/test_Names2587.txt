@@ -1,23 +1,22 @@
-org neuroph nnet learning kmeans
-* org neuroph core data
-* * org neuroph core
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-* org neuroph core learning
-org neuroph core learning error
-org neuroph core learning stop
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-* org neuroph nnet learning
-org neuroph nnet learning knn
-* * org neuroph util
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+* * * recalculate centroids org neuroph nnet learning kmeans * org neuroph core data
+* * * recalculate centroids org neuroph nnet learning kmeans * * org neuroph core
+* * * recalculate centroids org neuroph nnet learning kmeans * org neuroph core events
+* * * recalculate centroids org neuroph nnet learning kmeans * org neuroph core exceptions
+* * * recalculate centroids org neuroph nnet learning kmeans * org neuroph core input
+* * * recalculate centroids org neuroph nnet learning kmeans * org neuroph core learning
+* * * recalculate centroids org neuroph nnet learning kmeans org neuroph core learning error
+* * * recalculate centroids org neuroph nnet learning kmeans org neuroph core learning stop
+* * * recalculate centroids org neuroph nnet learning kmeans * org neuroph core transfer
+* * * recalculate centroids org neuroph nnet learning kmeans * * org neuroph nnet
+* * * recalculate centroids org neuroph nnet learning kmeans * org neuroph nnet comp
+* * * recalculate centroids org neuroph nnet learning kmeans org neuroph nnet comp layer
+* * * recalculate centroids org neuroph nnet learning kmeans org neuroph nnet comp neuron
+* * * recalculate centroids org neuroph nnet learning kmeans * org neuroph nnet learning
+* * * recalculate centroids org neuroph nnet learning kmeans org neuroph nnet learning knn
+* * * recalculate centroids org neuroph nnet learning kmeans * * org neuroph util
+* * * recalculate centroids org neuroph nnet learning kmeans * org neuroph util benchmark
+* * * recalculate centroids org neuroph nnet learning kmeans org neuroph util data norm
+* * * recalculate centroids org neuroph nnet learning kmeans org neuroph util data sample
+* * * recalculate centroids org neuroph nnet learning kmeans * org neuroph util io
+* * * recalculate centroids org neuroph nnet learning kmeans * org neuroph util plugins
+* * * recalculate centroids org neuroph nnet learning kmeans * org neuroph util random

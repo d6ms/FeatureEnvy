@@ -1,23 +1,22 @@
-* * xdman ui components
-* * * xdman videoparser
-* * * xdman videoparser
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman win32
+* * * thumbnails loaded * * xdman ui components * * * xdman videoparser
+* * * thumbnails loaded * * xdman ui components * * * xdman videoparser
+* * * thumbnails loaded * * xdman ui components * * * * xdman
+* * * thumbnails loaded * * xdman ui components * * * xdman downloaders
+* * * thumbnails loaded * * xdman ui components * * xdman downloaders dash
+* * * thumbnails loaded * * xdman ui components * * xdman downloaders ftp
+* * * thumbnails loaded * * xdman ui components * * xdman downloaders hds
+* * * thumbnails loaded * * xdman ui components * * xdman downloaders hls
+* * * thumbnails loaded * * xdman ui components * * xdman downloaders http
+* * * thumbnails loaded * * xdman ui components * * xdman downloaders metadata
+* * * thumbnails loaded * * xdman ui components * xdman downloaders metadata manifests
+* * * thumbnails loaded * * xdman ui components * * * xdman mediaconversion
+* * * thumbnails loaded * * xdman ui components * * * xdman monitoring
+* * * thumbnails loaded * * xdman ui components * * * xdman network
+* * * thumbnails loaded * * xdman ui components * * xdman network ftp
+* * * thumbnails loaded * * xdman ui components * * xdman network http
+* * * thumbnails loaded * * xdman ui components * xdman network http proxy
+* * * thumbnails loaded * * xdman ui components * * * xdman preview
+* * * thumbnails loaded * * xdman ui components * * xdman ui laf
+* * * thumbnails loaded * * xdman ui components * * xdman ui res
+* * * thumbnails loaded * * xdman ui components * * * xdman util
+* * * thumbnails loaded * * xdman ui components * * * xdman win32

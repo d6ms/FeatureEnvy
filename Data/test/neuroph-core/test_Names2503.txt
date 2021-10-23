@@ -1,23 +1,22 @@
-* org neuroph nnet learning
-org neuroph nnet learning kmeans
-* * org neuroph core
-* org neuroph core data
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-* org neuroph core learning
-org neuroph core learning error
-org neuroph core learning stop
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-org neuroph nnet learning knn
-* * org neuroph util
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+* * * calculate sigma * org neuroph nnet learning org neuroph nnet learning kmeans
+* * * calculate sigma * org neuroph nnet learning * * org neuroph core
+* * * calculate sigma * org neuroph nnet learning * org neuroph core data
+* * * calculate sigma * org neuroph nnet learning * org neuroph core events
+* * * calculate sigma * org neuroph nnet learning * org neuroph core exceptions
+* * * calculate sigma * org neuroph nnet learning * org neuroph core input
+* * * calculate sigma * org neuroph nnet learning * org neuroph core learning
+* * * calculate sigma * org neuroph nnet learning org neuroph core learning error
+* * * calculate sigma * org neuroph nnet learning org neuroph core learning stop
+* * * calculate sigma * org neuroph nnet learning * org neuroph core transfer
+* * * calculate sigma * org neuroph nnet learning * * org neuroph nnet
+* * * calculate sigma * org neuroph nnet learning * org neuroph nnet comp
+* * * calculate sigma * org neuroph nnet learning org neuroph nnet comp layer
+* * * calculate sigma * org neuroph nnet learning org neuroph nnet comp neuron
+* * * calculate sigma * org neuroph nnet learning org neuroph nnet learning knn
+* * * calculate sigma * org neuroph nnet learning * * org neuroph util
+* * * calculate sigma * org neuroph nnet learning * org neuroph util benchmark
+* * * calculate sigma * org neuroph nnet learning org neuroph util data norm
+* * * calculate sigma * org neuroph nnet learning org neuroph util data sample
+* * * calculate sigma * org neuroph nnet learning * org neuroph util io
+* * * calculate sigma * org neuroph nnet learning * org neuroph util plugins
+* * * calculate sigma * org neuroph nnet learning * org neuroph util random

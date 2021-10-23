@@ -1,22 +1,21 @@
-* * * xdman downloaders
-* * * xdman mediaconversion
-* * * * xdman
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* is file name changed * * * xdman downloaders * * * xdman mediaconversion
+* is file name changed * * * xdman downloaders * * * * xdman
+* is file name changed * * * xdman downloaders * * xdman downloaders dash
+* is file name changed * * * xdman downloaders * * xdman downloaders ftp
+* is file name changed * * * xdman downloaders * * xdman downloaders hds
+* is file name changed * * * xdman downloaders * * xdman downloaders hls
+* is file name changed * * * xdman downloaders * * xdman downloaders http
+* is file name changed * * * xdman downloaders * * xdman downloaders metadata
+* is file name changed * * * xdman downloaders * xdman downloaders metadata manifests
+* is file name changed * * * xdman downloaders * * * xdman monitoring
+* is file name changed * * * xdman downloaders * * * xdman network
+* is file name changed * * * xdman downloaders * * xdman network ftp
+* is file name changed * * * xdman downloaders * * xdman network http
+* is file name changed * * * xdman downloaders * xdman network http proxy
+* is file name changed * * * xdman downloaders * * * xdman preview
+* is file name changed * * * xdman downloaders * * xdman ui components
+* is file name changed * * * xdman downloaders * * xdman ui laf
+* is file name changed * * * xdman downloaders * * xdman ui res
+* is file name changed * * * xdman downloaders * * * xdman util
+* is file name changed * * * xdman downloaders * * * xdman videoparser
+* is file name changed * * * xdman downloaders * * * xdman win32

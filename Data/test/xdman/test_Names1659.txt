@@ -1,23 +1,22 @@
-* * xdman ui components
-* * * xdman mediaconversion
-* * * xdman mediaconversion
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * convert files * * xdman ui components * * * xdman mediaconversion
+* * * convert files * * xdman ui components * * * xdman mediaconversion
+* * * convert files * * xdman ui components * * * * xdman
+* * * convert files * * xdman ui components * * * xdman downloaders
+* * * convert files * * xdman ui components * * xdman downloaders dash
+* * * convert files * * xdman ui components * * xdman downloaders ftp
+* * * convert files * * xdman ui components * * xdman downloaders hds
+* * * convert files * * xdman ui components * * xdman downloaders hls
+* * * convert files * * xdman ui components * * xdman downloaders http
+* * * convert files * * xdman ui components * * xdman downloaders metadata
+* * * convert files * * xdman ui components * xdman downloaders metadata manifests
+* * * convert files * * xdman ui components * * * xdman monitoring
+* * * convert files * * xdman ui components * * * xdman network
+* * * convert files * * xdman ui components * * xdman network ftp
+* * * convert files * * xdman ui components * * xdman network http
+* * * convert files * * xdman ui components * xdman network http proxy
+* * * convert files * * xdman ui components * * * xdman preview
+* * * convert files * * xdman ui components * * xdman ui laf
+* * * convert files * * xdman ui components * * xdman ui res
+* * * convert files * * xdman ui components * * * xdman util
+* * * convert files * * xdman ui components * * * xdman videoparser
+* * * convert files * * xdman ui components * * * xdman win32

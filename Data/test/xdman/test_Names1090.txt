@@ -1,22 +1,21 @@
-* * xdman downloaders metadata
-* * xdman network http
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * set ydl url * * xdman downloaders metadata * * xdman network http
+* * set ydl url * * xdman downloaders metadata * * * * xdman
+* * set ydl url * * xdman downloaders metadata * * * xdman downloaders
+* * set ydl url * * xdman downloaders metadata * * xdman downloaders dash
+* * set ydl url * * xdman downloaders metadata * * xdman downloaders ftp
+* * set ydl url * * xdman downloaders metadata * * xdman downloaders hds
+* * set ydl url * * xdman downloaders metadata * * xdman downloaders hls
+* * set ydl url * * xdman downloaders metadata * * xdman downloaders http
+* * set ydl url * * xdman downloaders metadata * xdman downloaders metadata manifests
+* * set ydl url * * xdman downloaders metadata * * * xdman mediaconversion
+* * set ydl url * * xdman downloaders metadata * * * xdman monitoring
+* * set ydl url * * xdman downloaders metadata * * * xdman network
+* * set ydl url * * xdman downloaders metadata * * xdman network ftp
+* * set ydl url * * xdman downloaders metadata * xdman network http proxy
+* * set ydl url * * xdman downloaders metadata * * * xdman preview
+* * set ydl url * * xdman downloaders metadata * * xdman ui components
+* * set ydl url * * xdman downloaders metadata * * xdman ui laf
+* * set ydl url * * xdman downloaders metadata * * xdman ui res
+* * set ydl url * * xdman downloaders metadata * * * xdman util
+* * set ydl url * * xdman downloaders metadata * * * xdman videoparser
+* * set ydl url * * xdman downloaders metadata * * * xdman win32

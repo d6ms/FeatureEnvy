@@ -1,22 +1,21 @@
-* * * * xdman
-* * xdman ui components
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * get entry * * * * xdman * * xdman ui components
+* * * get entry * * * * xdman * * * xdman downloaders
+* * * get entry * * * * xdman * * xdman downloaders dash
+* * * get entry * * * * xdman * * xdman downloaders ftp
+* * * get entry * * * * xdman * * xdman downloaders hds
+* * * get entry * * * * xdman * * xdman downloaders hls
+* * * get entry * * * * xdman * * xdman downloaders http
+* * * get entry * * * * xdman * * xdman downloaders metadata
+* * * get entry * * * * xdman * xdman downloaders metadata manifests
+* * * get entry * * * * xdman * * * xdman mediaconversion
+* * * get entry * * * * xdman * * * xdman monitoring
+* * * get entry * * * * xdman * * * xdman network
+* * * get entry * * * * xdman * * xdman network ftp
+* * * get entry * * * * xdman * * xdman network http
+* * * get entry * * * * xdman * xdman network http proxy
+* * * get entry * * * * xdman * * * xdman preview
+* * * get entry * * * * xdman * * xdman ui laf
+* * * get entry * * * * xdman * * xdman ui res
+* * * get entry * * * * xdman * * * xdman util
+* * * get entry * * * * xdman * * * xdman videoparser
+* * * get entry * * * * xdman * * * xdman win32

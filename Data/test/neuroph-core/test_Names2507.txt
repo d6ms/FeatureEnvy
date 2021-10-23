@@ -1,23 +1,22 @@
-* org neuroph nnet learning
-* * org neuroph core
-* org neuroph core data
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-* org neuroph core learning
-org neuroph core learning error
-org neuroph core learning stop
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-org neuroph nnet learning kmeans
-org neuroph nnet learning knn
-* * org neuroph util
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+* calculate hidden neuron error * org neuroph nnet learning * * org neuroph core
+* calculate hidden neuron error * org neuroph nnet learning * org neuroph core data
+* calculate hidden neuron error * org neuroph nnet learning * org neuroph core events
+* calculate hidden neuron error * org neuroph nnet learning * org neuroph core exceptions
+* calculate hidden neuron error * org neuroph nnet learning * org neuroph core input
+* calculate hidden neuron error * org neuroph nnet learning * org neuroph core learning
+* calculate hidden neuron error * org neuroph nnet learning org neuroph core learning error
+* calculate hidden neuron error * org neuroph nnet learning org neuroph core learning stop
+* calculate hidden neuron error * org neuroph nnet learning * org neuroph core transfer
+* calculate hidden neuron error * org neuroph nnet learning * * org neuroph nnet
+* calculate hidden neuron error * org neuroph nnet learning * org neuroph nnet comp
+* calculate hidden neuron error * org neuroph nnet learning org neuroph nnet comp layer
+* calculate hidden neuron error * org neuroph nnet learning org neuroph nnet comp neuron
+* calculate hidden neuron error * org neuroph nnet learning org neuroph nnet learning kmeans
+* calculate hidden neuron error * org neuroph nnet learning org neuroph nnet learning knn
+* calculate hidden neuron error * org neuroph nnet learning * * org neuroph util
+* calculate hidden neuron error * org neuroph nnet learning * org neuroph util benchmark
+* calculate hidden neuron error * org neuroph nnet learning org neuroph util data norm
+* calculate hidden neuron error * org neuroph nnet learning org neuroph util data sample
+* calculate hidden neuron error * org neuroph nnet learning * org neuroph util io
+* calculate hidden neuron error * org neuroph nnet learning * org neuroph util plugins
+* calculate hidden neuron error * org neuroph nnet learning * org neuroph util random

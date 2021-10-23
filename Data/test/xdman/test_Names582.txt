@@ -1,22 +1,21 @@
-* * * * xdman
-* * xdman ui components
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * exec cmd * * * * xdman * * xdman ui components
+* * * exec cmd * * * * xdman * * * xdman downloaders
+* * * exec cmd * * * * xdman * * xdman downloaders dash
+* * * exec cmd * * * * xdman * * xdman downloaders ftp
+* * * exec cmd * * * * xdman * * xdman downloaders hds
+* * * exec cmd * * * * xdman * * xdman downloaders hls
+* * * exec cmd * * * * xdman * * xdman downloaders http
+* * * exec cmd * * * * xdman * * xdman downloaders metadata
+* * * exec cmd * * * * xdman * xdman downloaders metadata manifests
+* * * exec cmd * * * * xdman * * * xdman mediaconversion
+* * * exec cmd * * * * xdman * * * xdman monitoring
+* * * exec cmd * * * * xdman * * * xdman network
+* * * exec cmd * * * * xdman * * xdman network ftp
+* * * exec cmd * * * * xdman * * xdman network http
+* * * exec cmd * * * * xdman * xdman network http proxy
+* * * exec cmd * * * * xdman * * * xdman preview
+* * * exec cmd * * * * xdman * * xdman ui laf
+* * * exec cmd * * * * xdman * * xdman ui res
+* * * exec cmd * * * * xdman * * * xdman util
+* * * exec cmd * * * * xdman * * * xdman videoparser
+* * * exec cmd * * * * xdman * * * xdman win32

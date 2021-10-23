@@ -1,14 +1,13 @@
-net charabia jsmoothgen application swtgui
-* net charabia jsmoothgen application
-* net charabia jsmoothgen application
-* net charabia jsmoothgen skeleton
-* * net charabia jsmoothgen
-net charabia jsmoothgen application cmdline
-net charabia jsmoothgen application gui
-charabia jsmoothgen application gui editors
-charabia jsmoothgen application gui util
-charabia jsmoothgen application swtgui resources
-* net charabia jsmoothgen pe
-net charabia jsmoothgen pe res
-* net charabia util codec
-* net charabia util io
+* * get model bean net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
+* * get model bean net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
+* * get model bean net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
+* * get model bean net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
+* * get model bean net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
+* * get model bean net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* * get model bean net charabia jsmoothgen application swtgui charabia jsmoothgen application gui editors
+* * get model bean net charabia jsmoothgen application swtgui charabia jsmoothgen application gui util
+* * get model bean net charabia jsmoothgen application swtgui charabia jsmoothgen application swtgui resources
+* * get model bean net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
+* * get model bean net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
+* * get model bean net charabia jsmoothgen application swtgui * net charabia util codec
+* * get model bean net charabia jsmoothgen application swtgui * net charabia util io

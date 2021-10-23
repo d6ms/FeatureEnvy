@@ -1,23 +1,22 @@
-* * * xdman util
-* * xdman ui components
-* * xdman downloaders http
-* * xdman ui components
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman videoparser
-* * * xdman win32
+* * get output file * * * xdman util * * xdman downloaders http
+* * get output file * * * xdman util * * xdman ui components
+* * get output file * * * xdman util * * xdman ui components
+* * get output file * * * xdman util * * * * xdman
+* * get output file * * * xdman util * * * xdman downloaders
+* * get output file * * * xdman util * * xdman downloaders dash
+* * get output file * * * xdman util * * xdman downloaders ftp
+* * get output file * * * xdman util * * xdman downloaders hds
+* * get output file * * * xdman util * * xdman downloaders hls
+* * get output file * * * xdman util * * xdman downloaders metadata
+* * get output file * * * xdman util * xdman downloaders metadata manifests
+* * get output file * * * xdman util * * * xdman mediaconversion
+* * get output file * * * xdman util * * * xdman monitoring
+* * get output file * * * xdman util * * * xdman network
+* * get output file * * * xdman util * * xdman network ftp
+* * get output file * * * xdman util * * xdman network http
+* * get output file * * * xdman util * xdman network http proxy
+* * get output file * * * xdman util * * * xdman preview
+* * get output file * * * xdman util * * xdman ui laf
+* * get output file * * * xdman util * * xdman ui res
+* * get output file * * * xdman util * * * xdman videoparser
+* * get output file * * * xdman util * * * xdman win32

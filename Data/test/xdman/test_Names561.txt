@@ -1,22 +1,21 @@
-* * * * xdman
-* * xdman ui components
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* get active download count * * * * xdman * * xdman ui components
+* get active download count * * * * xdman * * * xdman downloaders
+* get active download count * * * * xdman * * xdman downloaders dash
+* get active download count * * * * xdman * * xdman downloaders ftp
+* get active download count * * * * xdman * * xdman downloaders hds
+* get active download count * * * * xdman * * xdman downloaders hls
+* get active download count * * * * xdman * * xdman downloaders http
+* get active download count * * * * xdman * * xdman downloaders metadata
+* get active download count * * * * xdman * xdman downloaders metadata manifests
+* get active download count * * * * xdman * * * xdman mediaconversion
+* get active download count * * * * xdman * * * xdman monitoring
+* get active download count * * * * xdman * * * xdman network
+* get active download count * * * * xdman * * xdman network ftp
+* get active download count * * * * xdman * * xdman network http
+* get active download count * * * * xdman * xdman network http proxy
+* get active download count * * * * xdman * * * xdman preview
+* get active download count * * * * xdman * * xdman ui laf
+* get active download count * * * * xdman * * xdman ui res
+* get active download count * * * * xdman * * * xdman util
+* get active download count * * * * xdman * * * xdman videoparser
+* get active download count * * * * xdman * * * xdman win32

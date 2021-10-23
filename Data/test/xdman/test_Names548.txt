@@ -1,22 +1,21 @@
-* * * * xdman
-* * xdman ui components
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * notify listeners * * * * xdman * * xdman ui components
+* * * notify listeners * * * * xdman * * * xdman downloaders
+* * * notify listeners * * * * xdman * * xdman downloaders dash
+* * * notify listeners * * * * xdman * * xdman downloaders ftp
+* * * notify listeners * * * * xdman * * xdman downloaders hds
+* * * notify listeners * * * * xdman * * xdman downloaders hls
+* * * notify listeners * * * * xdman * * xdman downloaders http
+* * * notify listeners * * * * xdman * * xdman downloaders metadata
+* * * notify listeners * * * * xdman * xdman downloaders metadata manifests
+* * * notify listeners * * * * xdman * * * xdman mediaconversion
+* * * notify listeners * * * * xdman * * * xdman monitoring
+* * * notify listeners * * * * xdman * * * xdman network
+* * * notify listeners * * * * xdman * * xdman network ftp
+* * * notify listeners * * * * xdman * * xdman network http
+* * * notify listeners * * * * xdman * xdman network http proxy
+* * * notify listeners * * * * xdman * * * xdman preview
+* * * notify listeners * * * * xdman * * xdman ui laf
+* * * notify listeners * * * * xdman * * xdman ui res
+* * * notify listeners * * * * xdman * * * xdman util
+* * * notify listeners * * * * xdman * * * xdman videoparser
+* * * notify listeners * * * * xdman * * * xdman win32

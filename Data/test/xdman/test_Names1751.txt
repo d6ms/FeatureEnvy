@@ -1,23 +1,22 @@
-* * xdman ui components
-* * * xdman mediaconversion
-* * * xdman mediaconversion
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * apply style * * xdman ui components * * * xdman mediaconversion
+* * * apply style * * xdman ui components * * * xdman mediaconversion
+* * * apply style * * xdman ui components * * * * xdman
+* * * apply style * * xdman ui components * * * xdman downloaders
+* * * apply style * * xdman ui components * * xdman downloaders dash
+* * * apply style * * xdman ui components * * xdman downloaders ftp
+* * * apply style * * xdman ui components * * xdman downloaders hds
+* * * apply style * * xdman ui components * * xdman downloaders hls
+* * * apply style * * xdman ui components * * xdman downloaders http
+* * * apply style * * xdman ui components * * xdman downloaders metadata
+* * * apply style * * xdman ui components * xdman downloaders metadata manifests
+* * * apply style * * xdman ui components * * * xdman monitoring
+* * * apply style * * xdman ui components * * * xdman network
+* * * apply style * * xdman ui components * * xdman network ftp
+* * * apply style * * xdman ui components * * xdman network http
+* * * apply style * * xdman ui components * xdman network http proxy
+* * * apply style * * xdman ui components * * * xdman preview
+* * * apply style * * xdman ui components * * xdman ui laf
+* * * apply style * * xdman ui components * * xdman ui res
+* * * apply style * * xdman ui components * * * xdman util
+* * * apply style * * xdman ui components * * * xdman videoparser
+* * * apply style * * xdman ui components * * * xdman win32

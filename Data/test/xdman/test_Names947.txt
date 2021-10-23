@@ -1,22 +1,21 @@
-* * xdman downloaders dash
-* * xdman downloaders metadata
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * find max chunk * * xdman downloaders dash * * xdman downloaders metadata
+* * find max chunk * * xdman downloaders dash * * * * xdman
+* * find max chunk * * xdman downloaders dash * * * xdman downloaders
+* * find max chunk * * xdman downloaders dash * * xdman downloaders ftp
+* * find max chunk * * xdman downloaders dash * * xdman downloaders hds
+* * find max chunk * * xdman downloaders dash * * xdman downloaders hls
+* * find max chunk * * xdman downloaders dash * * xdman downloaders http
+* * find max chunk * * xdman downloaders dash * xdman downloaders metadata manifests
+* * find max chunk * * xdman downloaders dash * * * xdman mediaconversion
+* * find max chunk * * xdman downloaders dash * * * xdman monitoring
+* * find max chunk * * xdman downloaders dash * * * xdman network
+* * find max chunk * * xdman downloaders dash * * xdman network ftp
+* * find max chunk * * xdman downloaders dash * * xdman network http
+* * find max chunk * * xdman downloaders dash * xdman network http proxy
+* * find max chunk * * xdman downloaders dash * * * xdman preview
+* * find max chunk * * xdman downloaders dash * * xdman ui components
+* * find max chunk * * xdman downloaders dash * * xdman ui laf
+* * find max chunk * * xdman downloaders dash * * xdman ui res
+* * find max chunk * * xdman downloaders dash * * * xdman util
+* * find max chunk * * xdman downloaders dash * * * xdman videoparser
+* * find max chunk * * xdman downloaders dash * * * xdman win32

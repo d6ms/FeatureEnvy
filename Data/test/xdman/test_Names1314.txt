@@ -1,22 +1,21 @@
-* * * xdman monitoring
-* * xdman network http
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman network
-* * xdman network ftp
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * get message * * * xdman monitoring * * xdman network http
+* * * get message * * * xdman monitoring * * * * xdman
+* * * get message * * * xdman monitoring * * * xdman downloaders
+* * * get message * * * xdman monitoring * * xdman downloaders dash
+* * * get message * * * xdman monitoring * * xdman downloaders ftp
+* * * get message * * * xdman monitoring * * xdman downloaders hds
+* * * get message * * * xdman monitoring * * xdman downloaders hls
+* * * get message * * * xdman monitoring * * xdman downloaders http
+* * * get message * * * xdman monitoring * * xdman downloaders metadata
+* * * get message * * * xdman monitoring * xdman downloaders metadata manifests
+* * * get message * * * xdman monitoring * * * xdman mediaconversion
+* * * get message * * * xdman monitoring * * * xdman network
+* * * get message * * * xdman monitoring * * xdman network ftp
+* * * get message * * * xdman monitoring * xdman network http proxy
+* * * get message * * * xdman monitoring * * * xdman preview
+* * * get message * * * xdman monitoring * * xdman ui components
+* * * get message * * * xdman monitoring * * xdman ui laf
+* * * get message * * * xdman monitoring * * xdman ui res
+* * * get message * * * xdman monitoring * * * xdman util
+* * * get message * * * xdman monitoring * * * xdman videoparser
+* * * get message * * * xdman monitoring * * * xdman win32

@@ -1,22 +1,21 @@
-* * * xdman downloaders
-* * * * xdman
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * * transferring * * * xdman downloaders * * * * xdman
+* * * * transferring * * * xdman downloaders * * xdman downloaders dash
+* * * * transferring * * * xdman downloaders * * xdman downloaders ftp
+* * * * transferring * * * xdman downloaders * * xdman downloaders hds
+* * * * transferring * * * xdman downloaders * * xdman downloaders hls
+* * * * transferring * * * xdman downloaders * * xdman downloaders http
+* * * * transferring * * * xdman downloaders * * xdman downloaders metadata
+* * * * transferring * * * xdman downloaders * xdman downloaders metadata manifests
+* * * * transferring * * * xdman downloaders * * * xdman mediaconversion
+* * * * transferring * * * xdman downloaders * * * xdman monitoring
+* * * * transferring * * * xdman downloaders * * * xdman network
+* * * * transferring * * * xdman downloaders * * xdman network ftp
+* * * * transferring * * * xdman downloaders * * xdman network http
+* * * * transferring * * * xdman downloaders * xdman network http proxy
+* * * * transferring * * * xdman downloaders * * * xdman preview
+* * * * transferring * * * xdman downloaders * * xdman ui components
+* * * * transferring * * * xdman downloaders * * xdman ui laf
+* * * * transferring * * * xdman downloaders * * xdman ui res
+* * * * transferring * * * xdman downloaders * * * xdman util
+* * * * transferring * * * xdman downloaders * * * xdman videoparser
+* * * * transferring * * * xdman downloaders * * * xdman win32

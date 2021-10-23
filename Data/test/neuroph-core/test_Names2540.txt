@@ -1,23 +1,22 @@
-* org neuroph nnet learning
-* org neuroph core data
-* * org neuroph core
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-* org neuroph core learning
-org neuroph core learning error
-org neuroph core learning stop
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-org neuroph nnet learning kmeans
-org neuroph nnet learning knn
-* * org neuroph util
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+* * * determine error * org neuroph nnet learning * org neuroph core data
+* * * determine error * org neuroph nnet learning * * org neuroph core
+* * * determine error * org neuroph nnet learning * org neuroph core events
+* * * determine error * org neuroph nnet learning * org neuroph core exceptions
+* * * determine error * org neuroph nnet learning * org neuroph core input
+* * * determine error * org neuroph nnet learning * org neuroph core learning
+* * * determine error * org neuroph nnet learning org neuroph core learning error
+* * * determine error * org neuroph nnet learning org neuroph core learning stop
+* * * determine error * org neuroph nnet learning * org neuroph core transfer
+* * * determine error * org neuroph nnet learning * * org neuroph nnet
+* * * determine error * org neuroph nnet learning * org neuroph nnet comp
+* * * determine error * org neuroph nnet learning org neuroph nnet comp layer
+* * * determine error * org neuroph nnet learning org neuroph nnet comp neuron
+* * * determine error * org neuroph nnet learning org neuroph nnet learning kmeans
+* * * determine error * org neuroph nnet learning org neuroph nnet learning knn
+* * * determine error * org neuroph nnet learning * * org neuroph util
+* * * determine error * org neuroph nnet learning * org neuroph util benchmark
+* * * determine error * org neuroph nnet learning org neuroph util data norm
+* * * determine error * org neuroph nnet learning org neuroph util data sample
+* * * determine error * org neuroph nnet learning * org neuroph util io
+* * * determine error * org neuroph nnet learning * org neuroph util plugins
+* * * determine error * org neuroph nnet learning * org neuroph util random

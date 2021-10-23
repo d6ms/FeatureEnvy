@@ -1,22 +1,21 @@
-* * xdman ui components
-* * xdman downloaders http
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * extract f fmpeg * * xdman ui components * * xdman downloaders http
+* * extract f fmpeg * * xdman ui components * * * * xdman
+* * extract f fmpeg * * xdman ui components * * * xdman downloaders
+* * extract f fmpeg * * xdman ui components * * xdman downloaders dash
+* * extract f fmpeg * * xdman ui components * * xdman downloaders ftp
+* * extract f fmpeg * * xdman ui components * * xdman downloaders hds
+* * extract f fmpeg * * xdman ui components * * xdman downloaders hls
+* * extract f fmpeg * * xdman ui components * * xdman downloaders metadata
+* * extract f fmpeg * * xdman ui components * xdman downloaders metadata manifests
+* * extract f fmpeg * * xdman ui components * * * xdman mediaconversion
+* * extract f fmpeg * * xdman ui components * * * xdman monitoring
+* * extract f fmpeg * * xdman ui components * * * xdman network
+* * extract f fmpeg * * xdman ui components * * xdman network ftp
+* * extract f fmpeg * * xdman ui components * * xdman network http
+* * extract f fmpeg * * xdman ui components * xdman network http proxy
+* * extract f fmpeg * * xdman ui components * * * xdman preview
+* * extract f fmpeg * * xdman ui components * * xdman ui laf
+* * extract f fmpeg * * xdman ui components * * xdman ui res
+* * extract f fmpeg * * xdman ui components * * * xdman util
+* * extract f fmpeg * * xdman ui components * * * xdman videoparser
+* * extract f fmpeg * * xdman ui components * * * xdman win32

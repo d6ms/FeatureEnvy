@@ -1,23 +1,22 @@
-* * * xdman util
-* * xdman downloaders http
-* * xdman ui components
-* * xdman ui components
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman videoparser
-* * * xdman win32
+* * * download stopped * * * xdman util * * xdman downloaders http
+* * * download stopped * * * xdman util * * xdman ui components
+* * * download stopped * * * xdman util * * xdman ui components
+* * * download stopped * * * xdman util * * * * xdman
+* * * download stopped * * * xdman util * * * xdman downloaders
+* * * download stopped * * * xdman util * * xdman downloaders dash
+* * * download stopped * * * xdman util * * xdman downloaders ftp
+* * * download stopped * * * xdman util * * xdman downloaders hds
+* * * download stopped * * * xdman util * * xdman downloaders hls
+* * * download stopped * * * xdman util * * xdman downloaders metadata
+* * * download stopped * * * xdman util * xdman downloaders metadata manifests
+* * * download stopped * * * xdman util * * * xdman mediaconversion
+* * * download stopped * * * xdman util * * * xdman monitoring
+* * * download stopped * * * xdman util * * * xdman network
+* * * download stopped * * * xdman util * * xdman network ftp
+* * * download stopped * * * xdman util * * xdman network http
+* * * download stopped * * * xdman util * xdman network http proxy
+* * * download stopped * * * xdman util * * * xdman preview
+* * * download stopped * * * xdman util * * xdman ui laf
+* * * download stopped * * * xdman util * * xdman ui res
+* * * download stopped * * * xdman util * * * xdman videoparser
+* * * download stopped * * * xdman util * * * xdman win32

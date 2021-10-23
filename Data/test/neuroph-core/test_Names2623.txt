@@ -1,23 +1,22 @@
-* * org neuroph util
-* * org neuroph core
-* org neuroph core data
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-* org neuroph core learning
-org neuroph core learning error
-org neuroph core learning stop
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-* org neuroph nnet learning
-org neuroph nnet learning kmeans
-org neuroph nnet learning knn
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+* * determine array size * * org neuroph util * * org neuroph core
+* * determine array size * * org neuroph util * org neuroph core data
+* * determine array size * * org neuroph util * org neuroph core events
+* * determine array size * * org neuroph util * org neuroph core exceptions
+* * determine array size * * org neuroph util * org neuroph core input
+* * determine array size * * org neuroph util * org neuroph core learning
+* * determine array size * * org neuroph util org neuroph core learning error
+* * determine array size * * org neuroph util org neuroph core learning stop
+* * determine array size * * org neuroph util * org neuroph core transfer
+* * determine array size * * org neuroph util * * org neuroph nnet
+* * determine array size * * org neuroph util * org neuroph nnet comp
+* * determine array size * * org neuroph util org neuroph nnet comp layer
+* * determine array size * * org neuroph util org neuroph nnet comp neuron
+* * determine array size * * org neuroph util * org neuroph nnet learning
+* * determine array size * * org neuroph util org neuroph nnet learning kmeans
+* * determine array size * * org neuroph util org neuroph nnet learning knn
+* * determine array size * * org neuroph util * org neuroph util benchmark
+* * determine array size * * org neuroph util org neuroph util data norm
+* * determine array size * * org neuroph util org neuroph util data sample
+* * determine array size * * org neuroph util * org neuroph util io
+* * determine array size * * org neuroph util * org neuroph util plugins
+* * determine array size * * org neuroph util * org neuroph util random

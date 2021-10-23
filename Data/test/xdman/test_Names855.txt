@@ -1,22 +1,21 @@
-* * * xdman downloaders
-* * * xdman mediaconversion
-* * * * xdman
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * get id * * * xdman downloaders * * * xdman mediaconversion
+* * * get id * * * xdman downloaders * * * * xdman
+* * * get id * * * xdman downloaders * * xdman downloaders dash
+* * * get id * * * xdman downloaders * * xdman downloaders ftp
+* * * get id * * * xdman downloaders * * xdman downloaders hds
+* * * get id * * * xdman downloaders * * xdman downloaders hls
+* * * get id * * * xdman downloaders * * xdman downloaders http
+* * * get id * * * xdman downloaders * * xdman downloaders metadata
+* * * get id * * * xdman downloaders * xdman downloaders metadata manifests
+* * * get id * * * xdman downloaders * * * xdman monitoring
+* * * get id * * * xdman downloaders * * * xdman network
+* * * get id * * * xdman downloaders * * xdman network ftp
+* * * get id * * * xdman downloaders * * xdman network http
+* * * get id * * * xdman downloaders * xdman network http proxy
+* * * get id * * * xdman downloaders * * * xdman preview
+* * * get id * * * xdman downloaders * * xdman ui components
+* * * get id * * * xdman downloaders * * xdman ui laf
+* * * get id * * * xdman downloaders * * xdman ui res
+* * * get id * * * xdman downloaders * * * xdman util
+* * * get id * * * xdman downloaders * * * xdman videoparser
+* * * get id * * * xdman downloaders * * * xdman win32

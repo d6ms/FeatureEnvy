@@ -1,22 +1,21 @@
-* * xdman downloaders hls
-* * xdman downloaders metadata
-* * * xdman mediaconversion
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * restore state * * xdman downloaders hls * * xdman downloaders metadata
+* * * restore state * * xdman downloaders hls * * * xdman mediaconversion
+* * * restore state * * xdman downloaders hls * * * * xdman
+* * * restore state * * xdman downloaders hls * * * xdman downloaders
+* * * restore state * * xdman downloaders hls * * xdman downloaders dash
+* * * restore state * * xdman downloaders hls * * xdman downloaders ftp
+* * * restore state * * xdman downloaders hls * * xdman downloaders hds
+* * * restore state * * xdman downloaders hls * * xdman downloaders http
+* * * restore state * * xdman downloaders hls * xdman downloaders metadata manifests
+* * * restore state * * xdman downloaders hls * * * xdman monitoring
+* * * restore state * * xdman downloaders hls * * * xdman network
+* * * restore state * * xdman downloaders hls * * xdman network ftp
+* * * restore state * * xdman downloaders hls * * xdman network http
+* * * restore state * * xdman downloaders hls * xdman network http proxy
+* * * restore state * * xdman downloaders hls * * * xdman preview
+* * * restore state * * xdman downloaders hls * * xdman ui components
+* * * restore state * * xdman downloaders hls * * xdman ui laf
+* * * restore state * * xdman downloaders hls * * xdman ui res
+* * * restore state * * xdman downloaders hls * * * xdman util
+* * * restore state * * xdman downloaders hls * * * xdman videoparser
+* * * restore state * * xdman downloaders hls * * * xdman win32

@@ -1,22 +1,21 @@
-* * * * xdman
-* * xdman ui components
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * open temp folder * * * * xdman * * xdman ui components
+* * open temp folder * * * * xdman * * * xdman downloaders
+* * open temp folder * * * * xdman * * xdman downloaders dash
+* * open temp folder * * * * xdman * * xdman downloaders ftp
+* * open temp folder * * * * xdman * * xdman downloaders hds
+* * open temp folder * * * * xdman * * xdman downloaders hls
+* * open temp folder * * * * xdman * * xdman downloaders http
+* * open temp folder * * * * xdman * * xdman downloaders metadata
+* * open temp folder * * * * xdman * xdman downloaders metadata manifests
+* * open temp folder * * * * xdman * * * xdman mediaconversion
+* * open temp folder * * * * xdman * * * xdman monitoring
+* * open temp folder * * * * xdman * * * xdman network
+* * open temp folder * * * * xdman * * xdman network ftp
+* * open temp folder * * * * xdman * * xdman network http
+* * open temp folder * * * * xdman * xdman network http proxy
+* * open temp folder * * * * xdman * * * xdman preview
+* * open temp folder * * * * xdman * * xdman ui laf
+* * open temp folder * * * * xdman * * xdman ui res
+* * open temp folder * * * * xdman * * * xdman util
+* * open temp folder * * * * xdman * * * xdman videoparser
+* * open temp folder * * * * xdman * * * xdman win32

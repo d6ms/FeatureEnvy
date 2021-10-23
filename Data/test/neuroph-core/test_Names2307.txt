@@ -1,23 +1,22 @@
-* org neuroph core learning
-* * org neuroph core
-* org neuroph core data
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-org neuroph core learning error
-org neuroph core learning stop
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-* org neuroph nnet learning
-org neuroph nnet learning kmeans
-org neuroph nnet learning knn
-* * org neuroph util
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+* * get training set * org neuroph core learning * * org neuroph core
+* * get training set * org neuroph core learning * org neuroph core data
+* * get training set * org neuroph core learning * org neuroph core events
+* * get training set * org neuroph core learning * org neuroph core exceptions
+* * get training set * org neuroph core learning * org neuroph core input
+* * get training set * org neuroph core learning org neuroph core learning error
+* * get training set * org neuroph core learning org neuroph core learning stop
+* * get training set * org neuroph core learning * org neuroph core transfer
+* * get training set * org neuroph core learning * * org neuroph nnet
+* * get training set * org neuroph core learning * org neuroph nnet comp
+* * get training set * org neuroph core learning org neuroph nnet comp layer
+* * get training set * org neuroph core learning org neuroph nnet comp neuron
+* * get training set * org neuroph core learning * org neuroph nnet learning
+* * get training set * org neuroph core learning org neuroph nnet learning kmeans
+* * get training set * org neuroph core learning org neuroph nnet learning knn
+* * get training set * org neuroph core learning * * org neuroph util
+* * get training set * org neuroph core learning * org neuroph util benchmark
+* * get training set * org neuroph core learning org neuroph util data norm
+* * get training set * org neuroph core learning org neuroph util data sample
+* * get training set * org neuroph core learning * org neuroph util io
+* * get training set * org neuroph core learning * org neuroph util plugins
+* * get training set * org neuroph core learning * org neuroph util random

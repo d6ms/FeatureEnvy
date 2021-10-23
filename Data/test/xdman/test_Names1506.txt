@@ -1,22 +1,21 @@
-* * xdman ui components
-* * xdman downloaders metadata
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * changed update * * xdman ui components * * xdman downloaders metadata
+* * * changed update * * xdman ui components * * * * xdman
+* * * changed update * * xdman ui components * * * xdman downloaders
+* * * changed update * * xdman ui components * * xdman downloaders dash
+* * * changed update * * xdman ui components * * xdman downloaders ftp
+* * * changed update * * xdman ui components * * xdman downloaders hds
+* * * changed update * * xdman ui components * * xdman downloaders hls
+* * * changed update * * xdman ui components * * xdman downloaders http
+* * * changed update * * xdman ui components * xdman downloaders metadata manifests
+* * * changed update * * xdman ui components * * * xdman mediaconversion
+* * * changed update * * xdman ui components * * * xdman monitoring
+* * * changed update * * xdman ui components * * * xdman network
+* * * changed update * * xdman ui components * * xdman network ftp
+* * * changed update * * xdman ui components * * xdman network http
+* * * changed update * * xdman ui components * xdman network http proxy
+* * * changed update * * xdman ui components * * * xdman preview
+* * * changed update * * xdman ui components * * xdman ui laf
+* * * changed update * * xdman ui components * * xdman ui res
+* * * changed update * * xdman ui components * * * xdman util
+* * * changed update * * xdman ui components * * * xdman videoparser
+* * * changed update * * xdman ui components * * * xdman win32

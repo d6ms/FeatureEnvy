@@ -1,13 +1,12 @@
-charabia jsmoothgen application gui util
-* net charabia jsmoothgen application
-* * net charabia jsmoothgen
-net charabia jsmoothgen application cmdline
-net charabia jsmoothgen application gui
-charabia jsmoothgen application gui editors
-net charabia jsmoothgen application swtgui
-charabia jsmoothgen application swtgui resources
-* net charabia jsmoothgen pe
-net charabia jsmoothgen pe res
-* net charabia jsmoothgen skeleton
-* net charabia util codec
-* net charabia util io
+* * get minimum size charabia jsmoothgen application gui util * net charabia jsmoothgen application
+* * get minimum size charabia jsmoothgen application gui util * * net charabia jsmoothgen
+* * get minimum size charabia jsmoothgen application gui util net charabia jsmoothgen application cmdline
+* * get minimum size charabia jsmoothgen application gui util net charabia jsmoothgen application gui
+* * get minimum size charabia jsmoothgen application gui util charabia jsmoothgen application gui editors
+* * get minimum size charabia jsmoothgen application gui util net charabia jsmoothgen application swtgui
+* * get minimum size charabia jsmoothgen application gui util charabia jsmoothgen application swtgui resources
+* * get minimum size charabia jsmoothgen application gui util * net charabia jsmoothgen pe
+* * get minimum size charabia jsmoothgen application gui util net charabia jsmoothgen pe res
+* * get minimum size charabia jsmoothgen application gui util * net charabia jsmoothgen skeleton
+* * get minimum size charabia jsmoothgen application gui util * net charabia util codec
+* * get minimum size charabia jsmoothgen application gui util * net charabia util io

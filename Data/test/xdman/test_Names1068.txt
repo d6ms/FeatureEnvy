@@ -1,22 +1,21 @@
-* * xdman downloaders metadata
-* * xdman network http
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * get len 1 * * xdman downloaders metadata * * xdman network http
+* * get len 1 * * xdman downloaders metadata * * * * xdman
+* * get len 1 * * xdman downloaders metadata * * * xdman downloaders
+* * get len 1 * * xdman downloaders metadata * * xdman downloaders dash
+* * get len 1 * * xdman downloaders metadata * * xdman downloaders ftp
+* * get len 1 * * xdman downloaders metadata * * xdman downloaders hds
+* * get len 1 * * xdman downloaders metadata * * xdman downloaders hls
+* * get len 1 * * xdman downloaders metadata * * xdman downloaders http
+* * get len 1 * * xdman downloaders metadata * xdman downloaders metadata manifests
+* * get len 1 * * xdman downloaders metadata * * * xdman mediaconversion
+* * get len 1 * * xdman downloaders metadata * * * xdman monitoring
+* * get len 1 * * xdman downloaders metadata * * * xdman network
+* * get len 1 * * xdman downloaders metadata * * xdman network ftp
+* * get len 1 * * xdman downloaders metadata * xdman network http proxy
+* * get len 1 * * xdman downloaders metadata * * * xdman preview
+* * get len 1 * * xdman downloaders metadata * * xdman ui components
+* * get len 1 * * xdman downloaders metadata * * xdman ui laf
+* * get len 1 * * xdman downloaders metadata * * xdman ui res
+* * get len 1 * * xdman downloaders metadata * * * xdman util
+* * get len 1 * * xdman downloaders metadata * * * xdman videoparser
+* * get len 1 * * xdman downloaders metadata * * * xdman win32

@@ -1,22 +1,21 @@
-* * xdman downloaders ftp
-* * xdman network ftp
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * connect impl * * xdman downloaders ftp * * xdman network ftp
+* * * connect impl * * xdman downloaders ftp * * * * xdman
+* * * connect impl * * xdman downloaders ftp * * * xdman downloaders
+* * * connect impl * * xdman downloaders ftp * * xdman downloaders dash
+* * * connect impl * * xdman downloaders ftp * * xdman downloaders hds
+* * * connect impl * * xdman downloaders ftp * * xdman downloaders hls
+* * * connect impl * * xdman downloaders ftp * * xdman downloaders http
+* * * connect impl * * xdman downloaders ftp * * xdman downloaders metadata
+* * * connect impl * * xdman downloaders ftp * xdman downloaders metadata manifests
+* * * connect impl * * xdman downloaders ftp * * * xdman mediaconversion
+* * * connect impl * * xdman downloaders ftp * * * xdman monitoring
+* * * connect impl * * xdman downloaders ftp * * * xdman network
+* * * connect impl * * xdman downloaders ftp * * xdman network http
+* * * connect impl * * xdman downloaders ftp * xdman network http proxy
+* * * connect impl * * xdman downloaders ftp * * * xdman preview
+* * * connect impl * * xdman downloaders ftp * * xdman ui components
+* * * connect impl * * xdman downloaders ftp * * xdman ui laf
+* * * connect impl * * xdman downloaders ftp * * xdman ui res
+* * * connect impl * * xdman downloaders ftp * * * xdman util
+* * * connect impl * * xdman downloaders ftp * * * xdman videoparser
+* * * connect impl * * xdman downloaders ftp * * * xdman win32

@@ -1,23 +1,22 @@
-* * * xdman util
-* * xdman ui components
-* * xdman downloaders http
-* * xdman ui components
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman videoparser
-* * * xdman win32
+* * * download failed * * * xdman util * * xdman downloaders http
+* * * download failed * * * xdman util * * xdman ui components
+* * * download failed * * * xdman util * * xdman ui components
+* * * download failed * * * xdman util * * * * xdman
+* * * download failed * * * xdman util * * * xdman downloaders
+* * * download failed * * * xdman util * * xdman downloaders dash
+* * * download failed * * * xdman util * * xdman downloaders ftp
+* * * download failed * * * xdman util * * xdman downloaders hds
+* * * download failed * * * xdman util * * xdman downloaders hls
+* * * download failed * * * xdman util * * xdman downloaders metadata
+* * * download failed * * * xdman util * xdman downloaders metadata manifests
+* * * download failed * * * xdman util * * * xdman mediaconversion
+* * * download failed * * * xdman util * * * xdman monitoring
+* * * download failed * * * xdman util * * * xdman network
+* * * download failed * * * xdman util * * xdman network ftp
+* * * download failed * * * xdman util * * xdman network http
+* * * download failed * * * xdman util * xdman network http proxy
+* * * download failed * * * xdman util * * * xdman preview
+* * * download failed * * * xdman util * * xdman ui laf
+* * * download failed * * * xdman util * * xdman ui res
+* * * download failed * * * xdman util * * * xdman videoparser
+* * * download failed * * * xdman util * * * xdman win32

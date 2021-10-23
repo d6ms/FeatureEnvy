@@ -1,23 +1,22 @@
-org neuroph core learning stop
-* org neuroph core learning
-* * org neuroph core
-* org neuroph core data
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-org neuroph core learning error
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-* org neuroph nnet learning
-org neuroph nnet learning kmeans
-org neuroph nnet learning knn
-* * org neuroph util
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+* * * is reached org neuroph core learning stop * org neuroph core learning
+* * * is reached org neuroph core learning stop * * org neuroph core
+* * * is reached org neuroph core learning stop * org neuroph core data
+* * * is reached org neuroph core learning stop * org neuroph core events
+* * * is reached org neuroph core learning stop * org neuroph core exceptions
+* * * is reached org neuroph core learning stop * org neuroph core input
+* * * is reached org neuroph core learning stop org neuroph core learning error
+* * * is reached org neuroph core learning stop * org neuroph core transfer
+* * * is reached org neuroph core learning stop * * org neuroph nnet
+* * * is reached org neuroph core learning stop * org neuroph nnet comp
+* * * is reached org neuroph core learning stop org neuroph nnet comp layer
+* * * is reached org neuroph core learning stop org neuroph nnet comp neuron
+* * * is reached org neuroph core learning stop * org neuroph nnet learning
+* * * is reached org neuroph core learning stop org neuroph nnet learning kmeans
+* * * is reached org neuroph core learning stop org neuroph nnet learning knn
+* * * is reached org neuroph core learning stop * * org neuroph util
+* * * is reached org neuroph core learning stop * org neuroph util benchmark
+* * * is reached org neuroph core learning stop org neuroph util data norm
+* * * is reached org neuroph core learning stop org neuroph util data sample
+* * * is reached org neuroph core learning stop * org neuroph util io
+* * * is reached org neuroph core learning stop * org neuroph util plugins
+* * * is reached org neuroph core learning stop * org neuroph util random

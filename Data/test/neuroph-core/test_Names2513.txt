@@ -1,23 +1,22 @@
-* org neuroph nnet learning
-* * org neuroph core
-* org neuroph core data
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-* org neuroph core learning
-org neuroph core learning error
-org neuroph core learning stop
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-org neuroph nnet learning kmeans
-org neuroph nnet learning knn
-* * org neuroph util
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+* * adjust cell weights * org neuroph nnet learning * * org neuroph core
+* * adjust cell weights * org neuroph nnet learning * org neuroph core data
+* * adjust cell weights * org neuroph nnet learning * org neuroph core events
+* * adjust cell weights * org neuroph nnet learning * org neuroph core exceptions
+* * adjust cell weights * org neuroph nnet learning * org neuroph core input
+* * adjust cell weights * org neuroph nnet learning * org neuroph core learning
+* * adjust cell weights * org neuroph nnet learning org neuroph core learning error
+* * adjust cell weights * org neuroph nnet learning org neuroph core learning stop
+* * adjust cell weights * org neuroph nnet learning * org neuroph core transfer
+* * adjust cell weights * org neuroph nnet learning * * org neuroph nnet
+* * adjust cell weights * org neuroph nnet learning * org neuroph nnet comp
+* * adjust cell weights * org neuroph nnet learning org neuroph nnet comp layer
+* * adjust cell weights * org neuroph nnet learning org neuroph nnet comp neuron
+* * adjust cell weights * org neuroph nnet learning org neuroph nnet learning kmeans
+* * adjust cell weights * org neuroph nnet learning org neuroph nnet learning knn
+* * adjust cell weights * org neuroph nnet learning * * org neuroph util
+* * adjust cell weights * org neuroph nnet learning * org neuroph util benchmark
+* * adjust cell weights * org neuroph nnet learning org neuroph util data norm
+* * adjust cell weights * org neuroph nnet learning org neuroph util data sample
+* * adjust cell weights * org neuroph nnet learning * org neuroph util io
+* * adjust cell weights * org neuroph nnet learning * org neuroph util plugins
+* * adjust cell weights * org neuroph nnet learning * org neuroph util random

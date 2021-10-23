@@ -1,14 +1,13 @@
-net charabia jsmoothgen application swtgui
-* net charabia jsmoothgen application
-* net charabia jsmoothgen application
-* net charabia jsmoothgen skeleton
-* * net charabia jsmoothgen
-net charabia jsmoothgen application cmdline
-net charabia jsmoothgen application gui
-charabia jsmoothgen application gui editors
-charabia jsmoothgen application gui util
-charabia jsmoothgen application swtgui resources
-* net charabia jsmoothgen pe
-net charabia jsmoothgen pe res
-* net charabia util codec
-* net charabia util io
+* * fill skeleton list net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
+* * fill skeleton list net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
+* * fill skeleton list net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
+* * fill skeleton list net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
+* * fill skeleton list net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
+* * fill skeleton list net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* * fill skeleton list net charabia jsmoothgen application swtgui charabia jsmoothgen application gui editors
+* * fill skeleton list net charabia jsmoothgen application swtgui charabia jsmoothgen application gui util
+* * fill skeleton list net charabia jsmoothgen application swtgui charabia jsmoothgen application swtgui resources
+* * fill skeleton list net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
+* * fill skeleton list net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
+* * fill skeleton list net charabia jsmoothgen application swtgui * net charabia util codec
+* * fill skeleton list net charabia jsmoothgen application swtgui * net charabia util io

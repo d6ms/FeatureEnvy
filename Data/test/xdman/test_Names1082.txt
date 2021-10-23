@@ -1,22 +1,21 @@
-* * xdman downloaders metadata
-* * xdman network http
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * get headers * * xdman downloaders metadata * * xdman network http
+* * * get headers * * xdman downloaders metadata * * * * xdman
+* * * get headers * * xdman downloaders metadata * * * xdman downloaders
+* * * get headers * * xdman downloaders metadata * * xdman downloaders dash
+* * * get headers * * xdman downloaders metadata * * xdman downloaders ftp
+* * * get headers * * xdman downloaders metadata * * xdman downloaders hds
+* * * get headers * * xdman downloaders metadata * * xdman downloaders hls
+* * * get headers * * xdman downloaders metadata * * xdman downloaders http
+* * * get headers * * xdman downloaders metadata * xdman downloaders metadata manifests
+* * * get headers * * xdman downloaders metadata * * * xdman mediaconversion
+* * * get headers * * xdman downloaders metadata * * * xdman monitoring
+* * * get headers * * xdman downloaders metadata * * * xdman network
+* * * get headers * * xdman downloaders metadata * * xdman network ftp
+* * * get headers * * xdman downloaders metadata * xdman network http proxy
+* * * get headers * * xdman downloaders metadata * * * xdman preview
+* * * get headers * * xdman downloaders metadata * * xdman ui components
+* * * get headers * * xdman downloaders metadata * * xdman ui laf
+* * * get headers * * xdman downloaders metadata * * xdman ui res
+* * * get headers * * xdman downloaders metadata * * * xdman util
+* * * get headers * * xdman downloaders metadata * * * xdman videoparser
+* * * get headers * * xdman downloaders metadata * * * xdman win32

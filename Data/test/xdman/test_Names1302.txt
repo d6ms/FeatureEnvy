@@ -1,22 +1,21 @@
-* * * xdman monitoring
-* * xdman network http
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman network
-* * xdman network ftp
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * * read * * * xdman monitoring * * xdman network http
+* * * * read * * * xdman monitoring * * * * xdman
+* * * * read * * * xdman monitoring * * * xdman downloaders
+* * * * read * * * xdman monitoring * * xdman downloaders dash
+* * * * read * * * xdman monitoring * * xdman downloaders ftp
+* * * * read * * * xdman monitoring * * xdman downloaders hds
+* * * * read * * * xdman monitoring * * xdman downloaders hls
+* * * * read * * * xdman monitoring * * xdman downloaders http
+* * * * read * * * xdman monitoring * * xdman downloaders metadata
+* * * * read * * * xdman monitoring * xdman downloaders metadata manifests
+* * * * read * * * xdman monitoring * * * xdman mediaconversion
+* * * * read * * * xdman monitoring * * * xdman network
+* * * * read * * * xdman monitoring * * xdman network ftp
+* * * * read * * * xdman monitoring * xdman network http proxy
+* * * * read * * * xdman monitoring * * * xdman preview
+* * * * read * * * xdman monitoring * * xdman ui components
+* * * * read * * * xdman monitoring * * xdman ui laf
+* * * * read * * * xdman monitoring * * xdman ui res
+* * * * read * * * xdman monitoring * * * xdman util
+* * * * read * * * xdman monitoring * * * xdman videoparser
+* * * * read * * * xdman monitoring * * * xdman win32

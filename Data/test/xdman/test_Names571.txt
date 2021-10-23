@@ -1,22 +1,21 @@
-* * * * xdman
-* * xdman ui components
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * is all finished * * * * xdman * * xdman ui components
+* * is all finished * * * * xdman * * * xdman downloaders
+* * is all finished * * * * xdman * * xdman downloaders dash
+* * is all finished * * * * xdman * * xdman downloaders ftp
+* * is all finished * * * * xdman * * xdman downloaders hds
+* * is all finished * * * * xdman * * xdman downloaders hls
+* * is all finished * * * * xdman * * xdman downloaders http
+* * is all finished * * * * xdman * * xdman downloaders metadata
+* * is all finished * * * * xdman * xdman downloaders metadata manifests
+* * is all finished * * * * xdman * * * xdman mediaconversion
+* * is all finished * * * * xdman * * * xdman monitoring
+* * is all finished * * * * xdman * * * xdman network
+* * is all finished * * * * xdman * * xdman network ftp
+* * is all finished * * * * xdman * * xdman network http
+* * is all finished * * * * xdman * xdman network http proxy
+* * is all finished * * * * xdman * * * xdman preview
+* * is all finished * * * * xdman * * xdman ui laf
+* * is all finished * * * * xdman * * xdman ui res
+* * is all finished * * * * xdman * * * xdman util
+* * is all finished * * * * xdman * * * xdman videoparser
+* * is all finished * * * * xdman * * * xdman win32

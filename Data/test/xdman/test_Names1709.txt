@@ -1,22 +1,21 @@
-* * xdman ui components
-* * xdman downloaders http
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * download confirmed * * xdman ui components * * xdman downloaders http
+* * * download confirmed * * xdman ui components * * * * xdman
+* * * download confirmed * * xdman ui components * * * xdman downloaders
+* * * download confirmed * * xdman ui components * * xdman downloaders dash
+* * * download confirmed * * xdman ui components * * xdman downloaders ftp
+* * * download confirmed * * xdman ui components * * xdman downloaders hds
+* * * download confirmed * * xdman ui components * * xdman downloaders hls
+* * * download confirmed * * xdman ui components * * xdman downloaders metadata
+* * * download confirmed * * xdman ui components * xdman downloaders metadata manifests
+* * * download confirmed * * xdman ui components * * * xdman mediaconversion
+* * * download confirmed * * xdman ui components * * * xdman monitoring
+* * * download confirmed * * xdman ui components * * * xdman network
+* * * download confirmed * * xdman ui components * * xdman network ftp
+* * * download confirmed * * xdman ui components * * xdman network http
+* * * download confirmed * * xdman ui components * xdman network http proxy
+* * * download confirmed * * xdman ui components * * * xdman preview
+* * * download confirmed * * xdman ui components * * xdman ui laf
+* * * download confirmed * * xdman ui components * * xdman ui res
+* * * download confirmed * * xdman ui components * * * xdman util
+* * * download confirmed * * xdman ui components * * * xdman videoparser
+* * * download confirmed * * xdman ui components * * * xdman win32

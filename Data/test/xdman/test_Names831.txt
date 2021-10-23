@@ -1,22 +1,21 @@
-* * * xdman downloaders
-* * * * xdman
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * to string * * * xdman downloaders * * * * xdman
+* * * to string * * * xdman downloaders * * xdman downloaders dash
+* * * to string * * * xdman downloaders * * xdman downloaders ftp
+* * * to string * * * xdman downloaders * * xdman downloaders hds
+* * * to string * * * xdman downloaders * * xdman downloaders hls
+* * * to string * * * xdman downloaders * * xdman downloaders http
+* * * to string * * * xdman downloaders * * xdman downloaders metadata
+* * * to string * * * xdman downloaders * xdman downloaders metadata manifests
+* * * to string * * * xdman downloaders * * * xdman mediaconversion
+* * * to string * * * xdman downloaders * * * xdman monitoring
+* * * to string * * * xdman downloaders * * * xdman network
+* * * to string * * * xdman downloaders * * xdman network ftp
+* * * to string * * * xdman downloaders * * xdman network http
+* * * to string * * * xdman downloaders * xdman network http proxy
+* * * to string * * * xdman downloaders * * * xdman preview
+* * * to string * * * xdman downloaders * * xdman ui components
+* * * to string * * * xdman downloaders * * xdman ui laf
+* * * to string * * * xdman downloaders * * xdman ui res
+* * * to string * * * xdman downloaders * * * xdman util
+* * * to string * * * xdman downloaders * * * xdman videoparser
+* * * to string * * * xdman downloaders * * * xdman win32

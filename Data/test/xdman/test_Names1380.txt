@@ -1,23 +1,22 @@
-* * xdman network http
-* * * xdman network
-* * * xdman network
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * xdman network ftp
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * get input stream * * xdman network http * * * xdman network
+* * get input stream * * xdman network http * * * xdman network
+* * get input stream * * xdman network http * * * * xdman
+* * get input stream * * xdman network http * * * xdman downloaders
+* * get input stream * * xdman network http * * xdman downloaders dash
+* * get input stream * * xdman network http * * xdman downloaders ftp
+* * get input stream * * xdman network http * * xdman downloaders hds
+* * get input stream * * xdman network http * * xdman downloaders hls
+* * get input stream * * xdman network http * * xdman downloaders http
+* * get input stream * * xdman network http * * xdman downloaders metadata
+* * get input stream * * xdman network http * xdman downloaders metadata manifests
+* * get input stream * * xdman network http * * * xdman mediaconversion
+* * get input stream * * xdman network http * * * xdman monitoring
+* * get input stream * * xdman network http * * xdman network ftp
+* * get input stream * * xdman network http * xdman network http proxy
+* * get input stream * * xdman network http * * * xdman preview
+* * get input stream * * xdman network http * * xdman ui components
+* * get input stream * * xdman network http * * xdman ui laf
+* * get input stream * * xdman network http * * xdman ui res
+* * get input stream * * xdman network http * * * xdman util
+* * get input stream * * xdman network http * * * xdman videoparser
+* * get input stream * * xdman network http * * * xdman win32

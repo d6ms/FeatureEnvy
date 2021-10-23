@@ -1,23 +1,22 @@
-* org neuroph core learning
-* * org neuroph core
-* org neuroph core data
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-org neuroph core learning error
-org neuroph core learning stop
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-* org neuroph nnet learning
-org neuroph nnet learning kmeans
-org neuroph nnet learning knn
-* * org neuroph util
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+* * * on start * org neuroph core learning * * org neuroph core
+* * * on start * org neuroph core learning * org neuroph core data
+* * * on start * org neuroph core learning * org neuroph core events
+* * * on start * org neuroph core learning * org neuroph core exceptions
+* * * on start * org neuroph core learning * org neuroph core input
+* * * on start * org neuroph core learning org neuroph core learning error
+* * * on start * org neuroph core learning org neuroph core learning stop
+* * * on start * org neuroph core learning * org neuroph core transfer
+* * * on start * org neuroph core learning * * org neuroph nnet
+* * * on start * org neuroph core learning * org neuroph nnet comp
+* * * on start * org neuroph core learning org neuroph nnet comp layer
+* * * on start * org neuroph core learning org neuroph nnet comp neuron
+* * * on start * org neuroph core learning * org neuroph nnet learning
+* * * on start * org neuroph core learning org neuroph nnet learning kmeans
+* * * on start * org neuroph core learning org neuroph nnet learning knn
+* * * on start * org neuroph core learning * * org neuroph util
+* * * on start * org neuroph core learning * org neuroph util benchmark
+* * * on start * org neuroph core learning org neuroph util data norm
+* * * on start * org neuroph core learning org neuroph util data sample
+* * * on start * org neuroph core learning * org neuroph util io
+* * * on start * org neuroph core learning * org neuroph util plugins
+* * * on start * org neuroph core learning * org neuroph util random

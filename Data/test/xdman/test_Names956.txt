@@ -1,22 +1,21 @@
-* * xdman downloaders ftp
-* * xdman downloaders metadata
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * chunk confirmed * * xdman downloaders ftp * * xdman downloaders metadata
+* * * chunk confirmed * * xdman downloaders ftp * * * * xdman
+* * * chunk confirmed * * xdman downloaders ftp * * * xdman downloaders
+* * * chunk confirmed * * xdman downloaders ftp * * xdman downloaders dash
+* * * chunk confirmed * * xdman downloaders ftp * * xdman downloaders hds
+* * * chunk confirmed * * xdman downloaders ftp * * xdman downloaders hls
+* * * chunk confirmed * * xdman downloaders ftp * * xdman downloaders http
+* * * chunk confirmed * * xdman downloaders ftp * xdman downloaders metadata manifests
+* * * chunk confirmed * * xdman downloaders ftp * * * xdman mediaconversion
+* * * chunk confirmed * * xdman downloaders ftp * * * xdman monitoring
+* * * chunk confirmed * * xdman downloaders ftp * * * xdman network
+* * * chunk confirmed * * xdman downloaders ftp * * xdman network ftp
+* * * chunk confirmed * * xdman downloaders ftp * * xdman network http
+* * * chunk confirmed * * xdman downloaders ftp * xdman network http proxy
+* * * chunk confirmed * * xdman downloaders ftp * * * xdman preview
+* * * chunk confirmed * * xdman downloaders ftp * * xdman ui components
+* * * chunk confirmed * * xdman downloaders ftp * * xdman ui laf
+* * * chunk confirmed * * xdman downloaders ftp * * xdman ui res
+* * * chunk confirmed * * xdman downloaders ftp * * * xdman util
+* * * chunk confirmed * * xdman downloaders ftp * * * xdman videoparser
+* * * chunk confirmed * * xdman downloaders ftp * * * xdman win32

@@ -1,22 +1,21 @@
-* * xdman downloaders hds
-* * * xdman mediaconversion
-* * xdman downloaders metadata
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * should cleanup * * xdman downloaders hds * * xdman downloaders metadata
+* * * should cleanup * * xdman downloaders hds * * * xdman mediaconversion
+* * * should cleanup * * xdman downloaders hds * * * * xdman
+* * * should cleanup * * xdman downloaders hds * * * xdman downloaders
+* * * should cleanup * * xdman downloaders hds * * xdman downloaders dash
+* * * should cleanup * * xdman downloaders hds * * xdman downloaders ftp
+* * * should cleanup * * xdman downloaders hds * * xdman downloaders hls
+* * * should cleanup * * xdman downloaders hds * * xdman downloaders http
+* * * should cleanup * * xdman downloaders hds * xdman downloaders metadata manifests
+* * * should cleanup * * xdman downloaders hds * * * xdman monitoring
+* * * should cleanup * * xdman downloaders hds * * * xdman network
+* * * should cleanup * * xdman downloaders hds * * xdman network ftp
+* * * should cleanup * * xdman downloaders hds * * xdman network http
+* * * should cleanup * * xdman downloaders hds * xdman network http proxy
+* * * should cleanup * * xdman downloaders hds * * * xdman preview
+* * * should cleanup * * xdman downloaders hds * * xdman ui components
+* * * should cleanup * * xdman downloaders hds * * xdman ui laf
+* * * should cleanup * * xdman downloaders hds * * xdman ui res
+* * * should cleanup * * xdman downloaders hds * * * xdman util
+* * * should cleanup * * xdman downloaders hds * * * xdman videoparser
+* * * should cleanup * * xdman downloaders hds * * * xdman win32

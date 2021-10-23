@@ -1,23 +1,22 @@
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-* * org neuroph core
-* org neuroph core data
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-* org neuroph core learning
-org neuroph core learning error
-org neuroph core learning stop
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-* org neuroph nnet learning
-org neuroph nnet learning kmeans
-org neuroph nnet learning knn
-* * org neuroph util
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+* * get max iterations org neuroph nnet comp layer org neuroph nnet comp neuron
+* * get max iterations org neuroph nnet comp layer * * org neuroph core
+* * get max iterations org neuroph nnet comp layer * org neuroph core data
+* * get max iterations org neuroph nnet comp layer * org neuroph core events
+* * get max iterations org neuroph nnet comp layer * org neuroph core exceptions
+* * get max iterations org neuroph nnet comp layer * org neuroph core input
+* * get max iterations org neuroph nnet comp layer * org neuroph core learning
+* * get max iterations org neuroph nnet comp layer org neuroph core learning error
+* * get max iterations org neuroph nnet comp layer org neuroph core learning stop
+* * get max iterations org neuroph nnet comp layer * org neuroph core transfer
+* * get max iterations org neuroph nnet comp layer * * org neuroph nnet
+* * get max iterations org neuroph nnet comp layer * org neuroph nnet comp
+* * get max iterations org neuroph nnet comp layer * org neuroph nnet learning
+* * get max iterations org neuroph nnet comp layer org neuroph nnet learning kmeans
+* * get max iterations org neuroph nnet comp layer org neuroph nnet learning knn
+* * get max iterations org neuroph nnet comp layer * * org neuroph util
+* * get max iterations org neuroph nnet comp layer * org neuroph util benchmark
+* * get max iterations org neuroph nnet comp layer org neuroph util data norm
+* * get max iterations org neuroph nnet comp layer org neuroph util data sample
+* * get max iterations org neuroph nnet comp layer * org neuroph util io
+* * get max iterations org neuroph nnet comp layer * org neuroph util plugins
+* * get max iterations org neuroph nnet comp layer * org neuroph util random

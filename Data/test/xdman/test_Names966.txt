@@ -1,22 +1,21 @@
-* * xdman downloaders hds
-* * * xdman mediaconversion
-* * xdman downloaders metadata
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * chunk initiated * * xdman downloaders hds * * xdman downloaders metadata
+* * * chunk initiated * * xdman downloaders hds * * * xdman mediaconversion
+* * * chunk initiated * * xdman downloaders hds * * * * xdman
+* * * chunk initiated * * xdman downloaders hds * * * xdman downloaders
+* * * chunk initiated * * xdman downloaders hds * * xdman downloaders dash
+* * * chunk initiated * * xdman downloaders hds * * xdman downloaders ftp
+* * * chunk initiated * * xdman downloaders hds * * xdman downloaders hls
+* * * chunk initiated * * xdman downloaders hds * * xdman downloaders http
+* * * chunk initiated * * xdman downloaders hds * xdman downloaders metadata manifests
+* * * chunk initiated * * xdman downloaders hds * * * xdman monitoring
+* * * chunk initiated * * xdman downloaders hds * * * xdman network
+* * * chunk initiated * * xdman downloaders hds * * xdman network ftp
+* * * chunk initiated * * xdman downloaders hds * * xdman network http
+* * * chunk initiated * * xdman downloaders hds * xdman network http proxy
+* * * chunk initiated * * xdman downloaders hds * * * xdman preview
+* * * chunk initiated * * xdman downloaders hds * * xdman ui components
+* * * chunk initiated * * xdman downloaders hds * * xdman ui laf
+* * * chunk initiated * * xdman downloaders hds * * xdman ui res
+* * * chunk initiated * * xdman downloaders hds * * * xdman util
+* * * chunk initiated * * xdman downloaders hds * * * xdman videoparser
+* * * chunk initiated * * xdman downloaders hds * * * xdman win32

@@ -1,22 +1,21 @@
-* * * xdman monitoring
-* * xdman network http
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman network
-* * xdman network ftp
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * get content type * * * xdman monitoring * * xdman network http
+* * get content type * * * xdman monitoring * * * * xdman
+* * get content type * * * xdman monitoring * * * xdman downloaders
+* * get content type * * * xdman monitoring * * xdman downloaders dash
+* * get content type * * * xdman monitoring * * xdman downloaders ftp
+* * get content type * * * xdman monitoring * * xdman downloaders hds
+* * get content type * * * xdman monitoring * * xdman downloaders hls
+* * get content type * * * xdman monitoring * * xdman downloaders http
+* * get content type * * * xdman monitoring * * xdman downloaders metadata
+* * get content type * * * xdman monitoring * xdman downloaders metadata manifests
+* * get content type * * * xdman monitoring * * * xdman mediaconversion
+* * get content type * * * xdman monitoring * * * xdman network
+* * get content type * * * xdman monitoring * * xdman network ftp
+* * get content type * * * xdman monitoring * xdman network http proxy
+* * get content type * * * xdman monitoring * * * xdman preview
+* * get content type * * * xdman monitoring * * xdman ui components
+* * get content type * * * xdman monitoring * * xdman ui laf
+* * get content type * * * xdman monitoring * * xdman ui res
+* * get content type * * * xdman monitoring * * * xdman util
+* * get content type * * * xdman monitoring * * * xdman videoparser
+* * get content type * * * xdman monitoring * * * xdman win32

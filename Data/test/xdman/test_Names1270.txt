@@ -1,22 +1,21 @@
-* * * xdman monitoring
-* * xdman network http
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman network
-* * xdman network ftp
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * is blocked header * * * xdman monitoring * * xdman network http
+* * is blocked header * * * xdman monitoring * * * * xdman
+* * is blocked header * * * xdman monitoring * * * xdman downloaders
+* * is blocked header * * * xdman monitoring * * xdman downloaders dash
+* * is blocked header * * * xdman monitoring * * xdman downloaders ftp
+* * is blocked header * * * xdman monitoring * * xdman downloaders hds
+* * is blocked header * * * xdman monitoring * * xdman downloaders hls
+* * is blocked header * * * xdman monitoring * * xdman downloaders http
+* * is blocked header * * * xdman monitoring * * xdman downloaders metadata
+* * is blocked header * * * xdman monitoring * xdman downloaders metadata manifests
+* * is blocked header * * * xdman monitoring * * * xdman mediaconversion
+* * is blocked header * * * xdman monitoring * * * xdman network
+* * is blocked header * * * xdman monitoring * * xdman network ftp
+* * is blocked header * * * xdman monitoring * xdman network http proxy
+* * is blocked header * * * xdman monitoring * * * xdman preview
+* * is blocked header * * * xdman monitoring * * xdman ui components
+* * is blocked header * * * xdman monitoring * * xdman ui laf
+* * is blocked header * * * xdman monitoring * * xdman ui res
+* * is blocked header * * * xdman monitoring * * * xdman util
+* * is blocked header * * * xdman monitoring * * * xdman videoparser
+* * is blocked header * * * xdman monitoring * * * xdman win32

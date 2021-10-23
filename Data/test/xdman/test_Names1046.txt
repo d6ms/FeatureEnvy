@@ -1,23 +1,22 @@
-* * xdman downloaders http
-* * xdman network http
-* * xdman network http
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * connect impl * * xdman downloaders http * * xdman network http
+* * * connect impl * * xdman downloaders http * * xdman network http
+* * * connect impl * * xdman downloaders http * * * * xdman
+* * * connect impl * * xdman downloaders http * * * xdman downloaders
+* * * connect impl * * xdman downloaders http * * xdman downloaders dash
+* * * connect impl * * xdman downloaders http * * xdman downloaders ftp
+* * * connect impl * * xdman downloaders http * * xdman downloaders hds
+* * * connect impl * * xdman downloaders http * * xdman downloaders hls
+* * * connect impl * * xdman downloaders http * * xdman downloaders metadata
+* * * connect impl * * xdman downloaders http * xdman downloaders metadata manifests
+* * * connect impl * * xdman downloaders http * * * xdman mediaconversion
+* * * connect impl * * xdman downloaders http * * * xdman monitoring
+* * * connect impl * * xdman downloaders http * * * xdman network
+* * * connect impl * * xdman downloaders http * * xdman network ftp
+* * * connect impl * * xdman downloaders http * xdman network http proxy
+* * * connect impl * * xdman downloaders http * * * xdman preview
+* * * connect impl * * xdman downloaders http * * xdman ui components
+* * * connect impl * * xdman downloaders http * * xdman ui laf
+* * * connect impl * * xdman downloaders http * * xdman ui res
+* * * connect impl * * xdman downloaders http * * * xdman util
+* * * connect impl * * xdman downloaders http * * * xdman videoparser
+* * * connect impl * * xdman downloaders http * * * xdman win32

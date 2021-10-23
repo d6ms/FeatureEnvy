@@ -1,22 +1,21 @@
-* * * xdman monitoring
-* * xdman network http
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman network
-* * xdman network ftp
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * set partial response * * * xdman monitoring * * xdman network http
+* * set partial response * * * xdman monitoring * * * * xdman
+* * set partial response * * * xdman monitoring * * * xdman downloaders
+* * set partial response * * * xdman monitoring * * xdman downloaders dash
+* * set partial response * * * xdman monitoring * * xdman downloaders ftp
+* * set partial response * * * xdman monitoring * * xdman downloaders hds
+* * set partial response * * * xdman monitoring * * xdman downloaders hls
+* * set partial response * * * xdman monitoring * * xdman downloaders http
+* * set partial response * * * xdman monitoring * * xdman downloaders metadata
+* * set partial response * * * xdman monitoring * xdman downloaders metadata manifests
+* * set partial response * * * xdman monitoring * * * xdman mediaconversion
+* * set partial response * * * xdman monitoring * * * xdman network
+* * set partial response * * * xdman monitoring * * xdman network ftp
+* * set partial response * * * xdman monitoring * xdman network http proxy
+* * set partial response * * * xdman monitoring * * * xdman preview
+* * set partial response * * * xdman monitoring * * xdman ui components
+* * set partial response * * * xdman monitoring * * xdman ui laf
+* * set partial response * * * xdman monitoring * * xdman ui res
+* * set partial response * * * xdman monitoring * * * xdman util
+* * set partial response * * * xdman monitoring * * * xdman videoparser
+* * set partial response * * * xdman monitoring * * * xdman win32

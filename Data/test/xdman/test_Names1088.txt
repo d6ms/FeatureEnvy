@@ -1,22 +1,21 @@
-* * xdman downloaders metadata
-* * xdman network http
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * set size * * xdman downloaders metadata * * xdman network http
+* * * set size * * xdman downloaders metadata * * * * xdman
+* * * set size * * xdman downloaders metadata * * * xdman downloaders
+* * * set size * * xdman downloaders metadata * * xdman downloaders dash
+* * * set size * * xdman downloaders metadata * * xdman downloaders ftp
+* * * set size * * xdman downloaders metadata * * xdman downloaders hds
+* * * set size * * xdman downloaders metadata * * xdman downloaders hls
+* * * set size * * xdman downloaders metadata * * xdman downloaders http
+* * * set size * * xdman downloaders metadata * xdman downloaders metadata manifests
+* * * set size * * xdman downloaders metadata * * * xdman mediaconversion
+* * * set size * * xdman downloaders metadata * * * xdman monitoring
+* * * set size * * xdman downloaders metadata * * * xdman network
+* * * set size * * xdman downloaders metadata * * xdman network ftp
+* * * set size * * xdman downloaders metadata * xdman network http proxy
+* * * set size * * xdman downloaders metadata * * * xdman preview
+* * * set size * * xdman downloaders metadata * * xdman ui components
+* * * set size * * xdman downloaders metadata * * xdman ui laf
+* * * set size * * xdman downloaders metadata * * xdman ui res
+* * * set size * * xdman downloaders metadata * * * xdman util
+* * * set size * * xdman downloaders metadata * * * xdman videoparser
+* * * set size * * xdman downloaders metadata * * * xdman win32

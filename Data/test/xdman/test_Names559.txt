@@ -1,22 +1,21 @@
-* * * * xdman
-* * xdman ui components
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * save download list * * * * xdman * * xdman ui components
+* * save download list * * * * xdman * * * xdman downloaders
+* * save download list * * * * xdman * * xdman downloaders dash
+* * save download list * * * * xdman * * xdman downloaders ftp
+* * save download list * * * * xdman * * xdman downloaders hds
+* * save download list * * * * xdman * * xdman downloaders hls
+* * save download list * * * * xdman * * xdman downloaders http
+* * save download list * * * * xdman * * xdman downloaders metadata
+* * save download list * * * * xdman * xdman downloaders metadata manifests
+* * save download list * * * * xdman * * * xdman mediaconversion
+* * save download list * * * * xdman * * * xdman monitoring
+* * save download list * * * * xdman * * * xdman network
+* * save download list * * * * xdman * * xdman network ftp
+* * save download list * * * * xdman * * xdman network http
+* * save download list * * * * xdman * xdman network http proxy
+* * save download list * * * * xdman * * * xdman preview
+* * save download list * * * * xdman * * xdman ui laf
+* * save download list * * * * xdman * * xdman ui res
+* * save download list * * * * xdman * * * xdman util
+* * save download list * * * * xdman * * * xdman videoparser
+* * save download list * * * * xdman * * * xdman win32

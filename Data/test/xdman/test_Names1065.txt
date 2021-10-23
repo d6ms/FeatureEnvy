@@ -1,22 +1,21 @@
-* * xdman downloaders metadata
-* * xdman network http
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * set url 2 * * xdman downloaders metadata * * xdman network http
+* * set url 2 * * xdman downloaders metadata * * * * xdman
+* * set url 2 * * xdman downloaders metadata * * * xdman downloaders
+* * set url 2 * * xdman downloaders metadata * * xdman downloaders dash
+* * set url 2 * * xdman downloaders metadata * * xdman downloaders ftp
+* * set url 2 * * xdman downloaders metadata * * xdman downloaders hds
+* * set url 2 * * xdman downloaders metadata * * xdman downloaders hls
+* * set url 2 * * xdman downloaders metadata * * xdman downloaders http
+* * set url 2 * * xdman downloaders metadata * xdman downloaders metadata manifests
+* * set url 2 * * xdman downloaders metadata * * * xdman mediaconversion
+* * set url 2 * * xdman downloaders metadata * * * xdman monitoring
+* * set url 2 * * xdman downloaders metadata * * * xdman network
+* * set url 2 * * xdman downloaders metadata * * xdman network ftp
+* * set url 2 * * xdman downloaders metadata * xdman network http proxy
+* * set url 2 * * xdman downloaders metadata * * * xdman preview
+* * set url 2 * * xdman downloaders metadata * * xdman ui components
+* * set url 2 * * xdman downloaders metadata * * xdman ui laf
+* * set url 2 * * xdman downloaders metadata * * xdman ui res
+* * set url 2 * * xdman downloaders metadata * * * xdman util
+* * set url 2 * * xdman downloaders metadata * * * xdman videoparser
+* * set url 2 * * xdman downloaders metadata * * * xdman win32

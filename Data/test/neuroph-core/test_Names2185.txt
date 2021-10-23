@@ -1,23 +1,22 @@
-* * org neuroph core
-* org neuroph util random
-* org neuroph core data
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-* org neuroph core learning
-org neuroph core learning error
-org neuroph core learning stop
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-* org neuroph nnet learning
-org neuroph nnet learning kmeans
-org neuroph nnet learning knn
-* * org neuroph util
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
+* * * randomize weights * * org neuroph core * org neuroph util random
+* * * randomize weights * * org neuroph core * org neuroph core data
+* * * randomize weights * * org neuroph core * org neuroph core events
+* * * randomize weights * * org neuroph core * org neuroph core exceptions
+* * * randomize weights * * org neuroph core * org neuroph core input
+* * * randomize weights * * org neuroph core * org neuroph core learning
+* * * randomize weights * * org neuroph core org neuroph core learning error
+* * * randomize weights * * org neuroph core org neuroph core learning stop
+* * * randomize weights * * org neuroph core * org neuroph core transfer
+* * * randomize weights * * org neuroph core * * org neuroph nnet
+* * * randomize weights * * org neuroph core * org neuroph nnet comp
+* * * randomize weights * * org neuroph core org neuroph nnet comp layer
+* * * randomize weights * * org neuroph core org neuroph nnet comp neuron
+* * * randomize weights * * org neuroph core * org neuroph nnet learning
+* * * randomize weights * * org neuroph core org neuroph nnet learning kmeans
+* * * randomize weights * * org neuroph core org neuroph nnet learning knn
+* * * randomize weights * * org neuroph core * * org neuroph util
+* * * randomize weights * * org neuroph core * org neuroph util benchmark
+* * * randomize weights * * org neuroph core org neuroph util data norm
+* * * randomize weights * * org neuroph core org neuroph util data sample
+* * * randomize weights * * org neuroph core * org neuroph util io
+* * * randomize weights * * org neuroph core * org neuroph util plugins

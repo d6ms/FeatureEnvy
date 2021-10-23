@@ -1,22 +1,21 @@
-* * xdman ui components
-* * xdman downloaders metadata
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * set metadata * * xdman ui components * * xdman downloaders metadata
+* * * set metadata * * xdman ui components * * * * xdman
+* * * set metadata * * xdman ui components * * * xdman downloaders
+* * * set metadata * * xdman ui components * * xdman downloaders dash
+* * * set metadata * * xdman ui components * * xdman downloaders ftp
+* * * set metadata * * xdman ui components * * xdman downloaders hds
+* * * set metadata * * xdman ui components * * xdman downloaders hls
+* * * set metadata * * xdman ui components * * xdman downloaders http
+* * * set metadata * * xdman ui components * xdman downloaders metadata manifests
+* * * set metadata * * xdman ui components * * * xdman mediaconversion
+* * * set metadata * * xdman ui components * * * xdman monitoring
+* * * set metadata * * xdman ui components * * * xdman network
+* * * set metadata * * xdman ui components * * xdman network ftp
+* * * set metadata * * xdman ui components * * xdman network http
+* * * set metadata * * xdman ui components * xdman network http proxy
+* * * set metadata * * xdman ui components * * * xdman preview
+* * * set metadata * * xdman ui components * * xdman ui laf
+* * * set metadata * * xdman ui components * * xdman ui res
+* * * set metadata * * xdman ui components * * * xdman util
+* * * set metadata * * xdman ui components * * * xdman videoparser
+* * * set metadata * * xdman ui components * * * xdman win32

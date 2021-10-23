@@ -1,22 +1,21 @@
-* * * xdman downloaders
-* * * * xdman
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * transfer initiated * * * xdman downloaders * * * * xdman
+* * * transfer initiated * * * xdman downloaders * * xdman downloaders dash
+* * * transfer initiated * * * xdman downloaders * * xdman downloaders ftp
+* * * transfer initiated * * * xdman downloaders * * xdman downloaders hds
+* * * transfer initiated * * * xdman downloaders * * xdman downloaders hls
+* * * transfer initiated * * * xdman downloaders * * xdman downloaders http
+* * * transfer initiated * * * xdman downloaders * * xdman downloaders metadata
+* * * transfer initiated * * * xdman downloaders * xdman downloaders metadata manifests
+* * * transfer initiated * * * xdman downloaders * * * xdman mediaconversion
+* * * transfer initiated * * * xdman downloaders * * * xdman monitoring
+* * * transfer initiated * * * xdman downloaders * * * xdman network
+* * * transfer initiated * * * xdman downloaders * * xdman network ftp
+* * * transfer initiated * * * xdman downloaders * * xdman network http
+* * * transfer initiated * * * xdman downloaders * xdman network http proxy
+* * * transfer initiated * * * xdman downloaders * * * xdman preview
+* * * transfer initiated * * * xdman downloaders * * xdman ui components
+* * * transfer initiated * * * xdman downloaders * * xdman ui laf
+* * * transfer initiated * * * xdman downloaders * * xdman ui res
+* * * transfer initiated * * * xdman downloaders * * * xdman util
+* * * transfer initiated * * * xdman downloaders * * * xdman videoparser
+* * * transfer initiated * * * xdman downloaders * * * xdman win32

@@ -1,23 +1,22 @@
-* * org neuroph util
-* * org neuroph core
-* org neuroph core data
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-* org neuroph core learning
-org neuroph core learning error
-org neuroph core learning stop
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-* org neuroph nnet learning
-org neuroph nnet learning kmeans
-org neuroph nnet learning knn
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+* set default i o * * org neuroph util * * org neuroph core
+* set default i o * * org neuroph util * org neuroph core data
+* set default i o * * org neuroph util * org neuroph core events
+* set default i o * * org neuroph util * org neuroph core exceptions
+* set default i o * * org neuroph util * org neuroph core input
+* set default i o * * org neuroph util * org neuroph core learning
+* set default i o * * org neuroph util org neuroph core learning error
+* set default i o * * org neuroph util org neuroph core learning stop
+* set default i o * * org neuroph util * org neuroph core transfer
+* set default i o * * org neuroph util * * org neuroph nnet
+* set default i o * * org neuroph util * org neuroph nnet comp
+* set default i o * * org neuroph util org neuroph nnet comp layer
+* set default i o * * org neuroph util org neuroph nnet comp neuron
+* set default i o * * org neuroph util * org neuroph nnet learning
+* set default i o * * org neuroph util org neuroph nnet learning kmeans
+* set default i o * * org neuroph util org neuroph nnet learning knn
+* set default i o * * org neuroph util * org neuroph util benchmark
+* set default i o * * org neuroph util org neuroph util data norm
+* set default i o * * org neuroph util org neuroph util data sample
+* set default i o * * org neuroph util * org neuroph util io
+* set default i o * * org neuroph util * org neuroph util plugins
+* set default i o * * org neuroph util * org neuroph util random

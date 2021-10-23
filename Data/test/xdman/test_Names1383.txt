@@ -1,23 +1,22 @@
-* * xdman network http
-* * * xdman network
-* * * xdman network
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * xdman network ftp
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * create socket * * xdman network http * * * xdman network
+* * * create socket * * xdman network http * * * xdman network
+* * * create socket * * xdman network http * * * * xdman
+* * * create socket * * xdman network http * * * xdman downloaders
+* * * create socket * * xdman network http * * xdman downloaders dash
+* * * create socket * * xdman network http * * xdman downloaders ftp
+* * * create socket * * xdman network http * * xdman downloaders hds
+* * * create socket * * xdman network http * * xdman downloaders hls
+* * * create socket * * xdman network http * * xdman downloaders http
+* * * create socket * * xdman network http * * xdman downloaders metadata
+* * * create socket * * xdman network http * xdman downloaders metadata manifests
+* * * create socket * * xdman network http * * * xdman mediaconversion
+* * * create socket * * xdman network http * * * xdman monitoring
+* * * create socket * * xdman network http * * xdman network ftp
+* * * create socket * * xdman network http * xdman network http proxy
+* * * create socket * * xdman network http * * * xdman preview
+* * * create socket * * xdman network http * * xdman ui components
+* * * create socket * * xdman network http * * xdman ui laf
+* * * create socket * * xdman network http * * xdman ui res
+* * * create socket * * xdman network http * * * xdman util
+* * * create socket * * xdman network http * * * xdman videoparser
+* * * create socket * * xdman network http * * * xdman win32

@@ -1,23 +1,22 @@
-* org neuroph nnet learning
-* org neuroph core data
-* * org neuroph core
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-* org neuroph core learning
-org neuroph core learning error
-org neuroph core learning stop
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-org neuroph nnet learning kmeans
-org neuroph nnet learning knn
-* * org neuroph util
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+* * do learning epoch * org neuroph nnet learning * org neuroph core data
+* * do learning epoch * org neuroph nnet learning * * org neuroph core
+* * do learning epoch * org neuroph nnet learning * org neuroph core events
+* * do learning epoch * org neuroph nnet learning * org neuroph core exceptions
+* * do learning epoch * org neuroph nnet learning * org neuroph core input
+* * do learning epoch * org neuroph nnet learning * org neuroph core learning
+* * do learning epoch * org neuroph nnet learning org neuroph core learning error
+* * do learning epoch * org neuroph nnet learning org neuroph core learning stop
+* * do learning epoch * org neuroph nnet learning * org neuroph core transfer
+* * do learning epoch * org neuroph nnet learning * * org neuroph nnet
+* * do learning epoch * org neuroph nnet learning * org neuroph nnet comp
+* * do learning epoch * org neuroph nnet learning org neuroph nnet comp layer
+* * do learning epoch * org neuroph nnet learning org neuroph nnet comp neuron
+* * do learning epoch * org neuroph nnet learning org neuroph nnet learning kmeans
+* * do learning epoch * org neuroph nnet learning org neuroph nnet learning knn
+* * do learning epoch * org neuroph nnet learning * * org neuroph util
+* * do learning epoch * org neuroph nnet learning * org neuroph util benchmark
+* * do learning epoch * org neuroph nnet learning org neuroph util data norm
+* * do learning epoch * org neuroph nnet learning org neuroph util data sample
+* * do learning epoch * org neuroph nnet learning * org neuroph util io
+* * do learning epoch * org neuroph nnet learning * org neuroph util plugins
+* * do learning epoch * org neuroph nnet learning * org neuroph util random

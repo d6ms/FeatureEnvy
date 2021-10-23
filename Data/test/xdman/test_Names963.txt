@@ -1,22 +1,21 @@
-* * xdman downloaders ftp
-* * xdman network ftp
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * is redirected * * xdman downloaders ftp * * xdman network ftp
+* * * is redirected * * xdman downloaders ftp * * * * xdman
+* * * is redirected * * xdman downloaders ftp * * * xdman downloaders
+* * * is redirected * * xdman downloaders ftp * * xdman downloaders dash
+* * * is redirected * * xdman downloaders ftp * * xdman downloaders hds
+* * * is redirected * * xdman downloaders ftp * * xdman downloaders hls
+* * * is redirected * * xdman downloaders ftp * * xdman downloaders http
+* * * is redirected * * xdman downloaders ftp * * xdman downloaders metadata
+* * * is redirected * * xdman downloaders ftp * xdman downloaders metadata manifests
+* * * is redirected * * xdman downloaders ftp * * * xdman mediaconversion
+* * * is redirected * * xdman downloaders ftp * * * xdman monitoring
+* * * is redirected * * xdman downloaders ftp * * * xdman network
+* * * is redirected * * xdman downloaders ftp * * xdman network http
+* * * is redirected * * xdman downloaders ftp * xdman network http proxy
+* * * is redirected * * xdman downloaders ftp * * * xdman preview
+* * * is redirected * * xdman downloaders ftp * * xdman ui components
+* * * is redirected * * xdman downloaders ftp * * xdman ui laf
+* * * is redirected * * xdman downloaders ftp * * xdman ui res
+* * * is redirected * * xdman downloaders ftp * * * xdman util
+* * * is redirected * * xdman downloaders ftp * * * xdman videoparser
+* * * is redirected * * xdman downloaders ftp * * * xdman win32

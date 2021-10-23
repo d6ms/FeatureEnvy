@@ -1,22 +1,21 @@
-* * xdman downloaders hls
-* * xdman downloaders metadata
-* * * xdman mediaconversion
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* init or update segments * * xdman downloaders hls * * xdman downloaders metadata
+* init or update segments * * xdman downloaders hls * * * xdman mediaconversion
+* init or update segments * * xdman downloaders hls * * * * xdman
+* init or update segments * * xdman downloaders hls * * * xdman downloaders
+* init or update segments * * xdman downloaders hls * * xdman downloaders dash
+* init or update segments * * xdman downloaders hls * * xdman downloaders ftp
+* init or update segments * * xdman downloaders hls * * xdman downloaders hds
+* init or update segments * * xdman downloaders hls * * xdman downloaders http
+* init or update segments * * xdman downloaders hls * xdman downloaders metadata manifests
+* init or update segments * * xdman downloaders hls * * * xdman monitoring
+* init or update segments * * xdman downloaders hls * * * xdman network
+* init or update segments * * xdman downloaders hls * * xdman network ftp
+* init or update segments * * xdman downloaders hls * * xdman network http
+* init or update segments * * xdman downloaders hls * xdman network http proxy
+* init or update segments * * xdman downloaders hls * * * xdman preview
+* init or update segments * * xdman downloaders hls * * xdman ui components
+* init or update segments * * xdman downloaders hls * * xdman ui laf
+* init or update segments * * xdman downloaders hls * * xdman ui res
+* init or update segments * * xdman downloaders hls * * * xdman util
+* init or update segments * * xdman downloaders hls * * * xdman videoparser
+* init or update segments * * xdman downloaders hls * * * xdman win32

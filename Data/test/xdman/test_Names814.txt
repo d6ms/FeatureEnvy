@@ -1,22 +1,21 @@
-* * * xdman downloaders
-* * * * xdman
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * get start offset * * * xdman downloaders * * * * xdman
+* * get start offset * * * xdman downloaders * * xdman downloaders dash
+* * get start offset * * * xdman downloaders * * xdman downloaders ftp
+* * get start offset * * * xdman downloaders * * xdman downloaders hds
+* * get start offset * * * xdman downloaders * * xdman downloaders hls
+* * get start offset * * * xdman downloaders * * xdman downloaders http
+* * get start offset * * * xdman downloaders * * xdman downloaders metadata
+* * get start offset * * * xdman downloaders * xdman downloaders metadata manifests
+* * get start offset * * * xdman downloaders * * * xdman mediaconversion
+* * get start offset * * * xdman downloaders * * * xdman monitoring
+* * get start offset * * * xdman downloaders * * * xdman network
+* * get start offset * * * xdman downloaders * * xdman network ftp
+* * get start offset * * * xdman downloaders * * xdman network http
+* * get start offset * * * xdman downloaders * xdman network http proxy
+* * get start offset * * * xdman downloaders * * * xdman preview
+* * get start offset * * * xdman downloaders * * xdman ui components
+* * get start offset * * * xdman downloaders * * xdman ui laf
+* * get start offset * * * xdman downloaders * * xdman ui res
+* * get start offset * * * xdman downloaders * * * xdman util
+* * get start offset * * * xdman downloaders * * * xdman videoparser
+* * get start offset * * * xdman downloaders * * * xdman win32

@@ -1,22 +1,21 @@
-* * xdman ui components
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+get list cell renderer component * * xdman ui components * * * * xdman
+get list cell renderer component * * xdman ui components * * * xdman downloaders
+get list cell renderer component * * xdman ui components * * xdman downloaders dash
+get list cell renderer component * * xdman ui components * * xdman downloaders ftp
+get list cell renderer component * * xdman ui components * * xdman downloaders hds
+get list cell renderer component * * xdman ui components * * xdman downloaders hls
+get list cell renderer component * * xdman ui components * * xdman downloaders http
+get list cell renderer component * * xdman ui components * * xdman downloaders metadata
+get list cell renderer component * * xdman ui components * xdman downloaders metadata manifests
+get list cell renderer component * * xdman ui components * * * xdman mediaconversion
+get list cell renderer component * * xdman ui components * * * xdman monitoring
+get list cell renderer component * * xdman ui components * * * xdman network
+get list cell renderer component * * xdman ui components * * xdman network ftp
+get list cell renderer component * * xdman ui components * * xdman network http
+get list cell renderer component * * xdman ui components * xdman network http proxy
+get list cell renderer component * * xdman ui components * * * xdman preview
+get list cell renderer component * * xdman ui components * * xdman ui laf
+get list cell renderer component * * xdman ui components * * xdman ui res
+get list cell renderer component * * xdman ui components * * * xdman util
+get list cell renderer component * * xdman ui components * * * xdman videoparser
+get list cell renderer component * * xdman ui components * * * xdman win32

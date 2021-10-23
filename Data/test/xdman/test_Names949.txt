@@ -1,22 +1,21 @@
-* * xdman downloaders dash
-* * xdman downloaders metadata
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * split chunk * * xdman downloaders dash * * xdman downloaders metadata
+* * * split chunk * * xdman downloaders dash * * * * xdman
+* * * split chunk * * xdman downloaders dash * * * xdman downloaders
+* * * split chunk * * xdman downloaders dash * * xdman downloaders ftp
+* * * split chunk * * xdman downloaders dash * * xdman downloaders hds
+* * * split chunk * * xdman downloaders dash * * xdman downloaders hls
+* * * split chunk * * xdman downloaders dash * * xdman downloaders http
+* * * split chunk * * xdman downloaders dash * xdman downloaders metadata manifests
+* * * split chunk * * xdman downloaders dash * * * xdman mediaconversion
+* * * split chunk * * xdman downloaders dash * * * xdman monitoring
+* * * split chunk * * xdman downloaders dash * * * xdman network
+* * * split chunk * * xdman downloaders dash * * xdman network ftp
+* * * split chunk * * xdman downloaders dash * * xdman network http
+* * * split chunk * * xdman downloaders dash * xdman network http proxy
+* * * split chunk * * xdman downloaders dash * * * xdman preview
+* * * split chunk * * xdman downloaders dash * * xdman ui components
+* * * split chunk * * xdman downloaders dash * * xdman ui laf
+* * * split chunk * * xdman downloaders dash * * xdman ui res
+* * * split chunk * * xdman downloaders dash * * * xdman util
+* * * split chunk * * xdman downloaders dash * * * xdman videoparser
+* * * split chunk * * xdman downloaders dash * * * xdman win32

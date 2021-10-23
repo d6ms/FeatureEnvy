@@ -1,23 +1,22 @@
-* * xdman ui components
-* * * xdman videoparser
-* * * xdman videoparser
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman win32
+* * create download data * * xdman ui components * * * xdman videoparser
+* * create download data * * xdman ui components * * * xdman videoparser
+* * create download data * * xdman ui components * * * * xdman
+* * create download data * * xdman ui components * * * xdman downloaders
+* * create download data * * xdman ui components * * xdman downloaders dash
+* * create download data * * xdman ui components * * xdman downloaders ftp
+* * create download data * * xdman ui components * * xdman downloaders hds
+* * create download data * * xdman ui components * * xdman downloaders hls
+* * create download data * * xdman ui components * * xdman downloaders http
+* * create download data * * xdman ui components * * xdman downloaders metadata
+* * create download data * * xdman ui components * xdman downloaders metadata manifests
+* * create download data * * xdman ui components * * * xdman mediaconversion
+* * create download data * * xdman ui components * * * xdman monitoring
+* * create download data * * xdman ui components * * * xdman network
+* * create download data * * xdman ui components * * xdman network ftp
+* * create download data * * xdman ui components * * xdman network http
+* * create download data * * xdman ui components * xdman network http proxy
+* * create download data * * xdman ui components * * * xdman preview
+* * create download data * * xdman ui components * * xdman ui laf
+* * create download data * * xdman ui components * * xdman ui res
+* * create download data * * xdman ui components * * * xdman util
+* * create download data * * xdman ui components * * * xdman win32

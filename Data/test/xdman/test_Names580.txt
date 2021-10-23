@@ -1,22 +1,21 @@
-* * * * xdman
-* * xdman ui components
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * prompt credential * * * * xdman * * xdman ui components
+* * * prompt credential * * * * xdman * * * xdman downloaders
+* * * prompt credential * * * * xdman * * xdman downloaders dash
+* * * prompt credential * * * * xdman * * xdman downloaders ftp
+* * * prompt credential * * * * xdman * * xdman downloaders hds
+* * * prompt credential * * * * xdman * * xdman downloaders hls
+* * * prompt credential * * * * xdman * * xdman downloaders http
+* * * prompt credential * * * * xdman * * xdman downloaders metadata
+* * * prompt credential * * * * xdman * xdman downloaders metadata manifests
+* * * prompt credential * * * * xdman * * * xdman mediaconversion
+* * * prompt credential * * * * xdman * * * xdman monitoring
+* * * prompt credential * * * * xdman * * * xdman network
+* * * prompt credential * * * * xdman * * xdman network ftp
+* * * prompt credential * * * * xdman * * xdman network http
+* * * prompt credential * * * * xdman * xdman network http proxy
+* * * prompt credential * * * * xdman * * * xdman preview
+* * * prompt credential * * * * xdman * * xdman ui laf
+* * * prompt credential * * * * xdman * * xdman ui res
+* * * prompt credential * * * * xdman * * * xdman util
+* * * prompt credential * * * * xdman * * * xdman videoparser
+* * * prompt credential * * * * xdman * * * xdman win32

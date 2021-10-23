@@ -1,15 +1,14 @@
-net charabia jsmoothgen application swtgui
-* net charabia jsmoothgen application
-* net charabia jsmoothgen application
-* net charabia jsmoothgen skeleton
-* net charabia jsmoothgen skeleton
-* * net charabia jsmoothgen
-net charabia jsmoothgen application cmdline
-net charabia jsmoothgen application gui
-charabia jsmoothgen application gui editors
-charabia jsmoothgen application gui util
-charabia jsmoothgen application swtgui resources
-* net charabia jsmoothgen pe
-net charabia jsmoothgen pe res
-* net charabia util codec
-* net charabia util io
+* * set skeleton property net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
+* * set skeleton property net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
+* * set skeleton property net charabia jsmoothgen application swtgui * net charabia jsmoothgen application
+* * set skeleton property net charabia jsmoothgen application swtgui * net charabia jsmoothgen skeleton
+* * set skeleton property net charabia jsmoothgen application swtgui * * net charabia jsmoothgen
+* * set skeleton property net charabia jsmoothgen application swtgui net charabia jsmoothgen application cmdline
+* * set skeleton property net charabia jsmoothgen application swtgui net charabia jsmoothgen application gui
+* * set skeleton property net charabia jsmoothgen application swtgui charabia jsmoothgen application gui editors
+* * set skeleton property net charabia jsmoothgen application swtgui charabia jsmoothgen application gui util
+* * set skeleton property net charabia jsmoothgen application swtgui charabia jsmoothgen application swtgui resources
+* * set skeleton property net charabia jsmoothgen application swtgui * net charabia jsmoothgen pe
+* * set skeleton property net charabia jsmoothgen application swtgui net charabia jsmoothgen pe res
+* * set skeleton property net charabia jsmoothgen application swtgui * net charabia util codec
+* * set skeleton property net charabia jsmoothgen application swtgui * net charabia util io

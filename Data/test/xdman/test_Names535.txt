@@ -1,22 +1,21 @@
-* * * * xdman
-* * xdman ui components
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * get instance * * * * xdman * * xdman ui components
+* * * get instance * * * * xdman * * * xdman downloaders
+* * * get instance * * * * xdman * * xdman downloaders dash
+* * * get instance * * * * xdman * * xdman downloaders ftp
+* * * get instance * * * * xdman * * xdman downloaders hds
+* * * get instance * * * * xdman * * xdman downloaders hls
+* * * get instance * * * * xdman * * xdman downloaders http
+* * * get instance * * * * xdman * * xdman downloaders metadata
+* * * get instance * * * * xdman * xdman downloaders metadata manifests
+* * * get instance * * * * xdman * * * xdman mediaconversion
+* * * get instance * * * * xdman * * * xdman monitoring
+* * * get instance * * * * xdman * * * xdman network
+* * * get instance * * * * xdman * * xdman network ftp
+* * * get instance * * * * xdman * * xdman network http
+* * * get instance * * * * xdman * xdman network http proxy
+* * * get instance * * * * xdman * * * xdman preview
+* * * get instance * * * * xdman * * xdman ui laf
+* * * get instance * * * * xdman * * xdman ui res
+* * * get instance * * * * xdman * * * xdman util
+* * * get instance * * * * xdman * * * xdman videoparser
+* * * get instance * * * * xdman * * * xdman win32

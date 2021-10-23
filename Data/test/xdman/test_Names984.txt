@@ -1,22 +1,21 @@
-* * xdman downloaders hds
-* * xdman downloaders metadata
-* * * xdman mediaconversion
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * * assemble * * xdman downloaders hds * * xdman downloaders metadata
+* * * * assemble * * xdman downloaders hds * * * xdman mediaconversion
+* * * * assemble * * xdman downloaders hds * * * * xdman
+* * * * assemble * * xdman downloaders hds * * * xdman downloaders
+* * * * assemble * * xdman downloaders hds * * xdman downloaders dash
+* * * * assemble * * xdman downloaders hds * * xdman downloaders ftp
+* * * * assemble * * xdman downloaders hds * * xdman downloaders hls
+* * * * assemble * * xdman downloaders hds * * xdman downloaders http
+* * * * assemble * * xdman downloaders hds * xdman downloaders metadata manifests
+* * * * assemble * * xdman downloaders hds * * * xdman monitoring
+* * * * assemble * * xdman downloaders hds * * * xdman network
+* * * * assemble * * xdman downloaders hds * * xdman network ftp
+* * * * assemble * * xdman downloaders hds * * xdman network http
+* * * * assemble * * xdman downloaders hds * xdman network http proxy
+* * * * assemble * * xdman downloaders hds * * * xdman preview
+* * * * assemble * * xdman downloaders hds * * xdman ui components
+* * * * assemble * * xdman downloaders hds * * xdman ui laf
+* * * * assemble * * xdman downloaders hds * * xdman ui res
+* * * * assemble * * xdman downloaders hds * * * xdman util
+* * * * assemble * * xdman downloaders hds * * * xdman videoparser
+* * * * assemble * * xdman downloaders hds * * * xdman win32

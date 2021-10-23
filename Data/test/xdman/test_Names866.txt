@@ -1,22 +1,21 @@
-* * * xdman downloaders
-* * * xdman mediaconversion
-* * * * xdman
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* get active chunk count * * * xdman downloaders * * * xdman mediaconversion
+* get active chunk count * * * xdman downloaders * * * * xdman
+* get active chunk count * * * xdman downloaders * * xdman downloaders dash
+* get active chunk count * * * xdman downloaders * * xdman downloaders ftp
+* get active chunk count * * * xdman downloaders * * xdman downloaders hds
+* get active chunk count * * * xdman downloaders * * xdman downloaders hls
+* get active chunk count * * * xdman downloaders * * xdman downloaders http
+* get active chunk count * * * xdman downloaders * * xdman downloaders metadata
+* get active chunk count * * * xdman downloaders * xdman downloaders metadata manifests
+* get active chunk count * * * xdman downloaders * * * xdman monitoring
+* get active chunk count * * * xdman downloaders * * * xdman network
+* get active chunk count * * * xdman downloaders * * xdman network ftp
+* get active chunk count * * * xdman downloaders * * xdman network http
+* get active chunk count * * * xdman downloaders * xdman network http proxy
+* get active chunk count * * * xdman downloaders * * * xdman preview
+* get active chunk count * * * xdman downloaders * * xdman ui components
+* get active chunk count * * * xdman downloaders * * xdman ui laf
+* get active chunk count * * * xdman downloaders * * xdman ui res
+* get active chunk count * * * xdman downloaders * * * xdman util
+* get active chunk count * * * xdman downloaders * * * xdman videoparser
+* get active chunk count * * * xdman downloaders * * * xdman win32

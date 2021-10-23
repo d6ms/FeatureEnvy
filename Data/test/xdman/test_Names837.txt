@@ -1,22 +1,21 @@
-* * * xdman downloaders
-* * * * xdman
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * get transfer rate * * * xdman downloaders * * * * xdman
+* * get transfer rate * * * xdman downloaders * * xdman downloaders dash
+* * get transfer rate * * * xdman downloaders * * xdman downloaders ftp
+* * get transfer rate * * * xdman downloaders * * xdman downloaders hds
+* * get transfer rate * * * xdman downloaders * * xdman downloaders hls
+* * get transfer rate * * * xdman downloaders * * xdman downloaders http
+* * get transfer rate * * * xdman downloaders * * xdman downloaders metadata
+* * get transfer rate * * * xdman downloaders * xdman downloaders metadata manifests
+* * get transfer rate * * * xdman downloaders * * * xdman mediaconversion
+* * get transfer rate * * * xdman downloaders * * * xdman monitoring
+* * get transfer rate * * * xdman downloaders * * * xdman network
+* * get transfer rate * * * xdman downloaders * * xdman network ftp
+* * get transfer rate * * * xdman downloaders * * xdman network http
+* * get transfer rate * * * xdman downloaders * xdman network http proxy
+* * get transfer rate * * * xdman downloaders * * * xdman preview
+* * get transfer rate * * * xdman downloaders * * xdman ui components
+* * get transfer rate * * * xdman downloaders * * xdman ui laf
+* * get transfer rate * * * xdman downloaders * * xdman ui res
+* * get transfer rate * * * xdman downloaders * * * xdman util
+* * get transfer rate * * * xdman downloaders * * * xdman videoparser
+* * get transfer rate * * * xdman downloaders * * * xdman win32

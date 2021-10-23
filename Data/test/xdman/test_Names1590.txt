@@ -1,22 +1,21 @@
-* * xdman ui components
-* * xdman downloaders metadata
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * update file extension * * xdman ui components * * xdman downloaders metadata
+* * update file extension * * xdman ui components * * * * xdman
+* * update file extension * * xdman ui components * * * xdman downloaders
+* * update file extension * * xdman ui components * * xdman downloaders dash
+* * update file extension * * xdman ui components * * xdman downloaders ftp
+* * update file extension * * xdman ui components * * xdman downloaders hds
+* * update file extension * * xdman ui components * * xdman downloaders hls
+* * update file extension * * xdman ui components * * xdman downloaders http
+* * update file extension * * xdman ui components * xdman downloaders metadata manifests
+* * update file extension * * xdman ui components * * * xdman mediaconversion
+* * update file extension * * xdman ui components * * * xdman monitoring
+* * update file extension * * xdman ui components * * * xdman network
+* * update file extension * * xdman ui components * * xdman network ftp
+* * update file extension * * xdman ui components * * xdman network http
+* * update file extension * * xdman ui components * xdman network http proxy
+* * update file extension * * xdman ui components * * * xdman preview
+* * update file extension * * xdman ui components * * xdman ui laf
+* * update file extension * * xdman ui components * * xdman ui res
+* * update file extension * * xdman ui components * * * xdman util
+* * update file extension * * xdman ui components * * * xdman videoparser
+* * update file extension * * xdman ui components * * * xdman win32

@@ -1,22 +1,21 @@
-* * xdman ui components
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * filter queue * * xdman ui components * * * * xdman
+* * * filter queue * * xdman ui components * * * xdman downloaders
+* * * filter queue * * xdman ui components * * xdman downloaders dash
+* * * filter queue * * xdman ui components * * xdman downloaders ftp
+* * * filter queue * * xdman ui components * * xdman downloaders hds
+* * * filter queue * * xdman ui components * * xdman downloaders hls
+* * * filter queue * * xdman ui components * * xdman downloaders http
+* * * filter queue * * xdman ui components * * xdman downloaders metadata
+* * * filter queue * * xdman ui components * xdman downloaders metadata manifests
+* * * filter queue * * xdman ui components * * * xdman mediaconversion
+* * * filter queue * * xdman ui components * * * xdman monitoring
+* * * filter queue * * xdman ui components * * * xdman network
+* * * filter queue * * xdman ui components * * xdman network ftp
+* * * filter queue * * xdman ui components * * xdman network http
+* * * filter queue * * xdman ui components * xdman network http proxy
+* * * filter queue * * xdman ui components * * * xdman preview
+* * * filter queue * * xdman ui components * * xdman ui laf
+* * * filter queue * * xdman ui components * * xdman ui res
+* * * filter queue * * xdman ui components * * * xdman util
+* * * filter queue * * xdman ui components * * * xdman videoparser
+* * * filter queue * * xdman ui components * * * xdman win32

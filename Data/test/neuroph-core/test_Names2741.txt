@@ -1,23 +1,22 @@
-org neuroph util data norm
-* org neuroph core data
-* * org neuroph core
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-* org neuroph core learning
-org neuroph core learning error
-org neuroph core learning stop
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-* org neuroph nnet learning
-org neuroph nnet learning kmeans
-org neuroph nnet learning knn
-* * org neuroph util
-* org neuroph util benchmark
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+find max and min vectors org neuroph util data norm * org neuroph core data
+find max and min vectors org neuroph util data norm * * org neuroph core
+find max and min vectors org neuroph util data norm * org neuroph core events
+find max and min vectors org neuroph util data norm * org neuroph core exceptions
+find max and min vectors org neuroph util data norm * org neuroph core input
+find max and min vectors org neuroph util data norm * org neuroph core learning
+find max and min vectors org neuroph util data norm org neuroph core learning error
+find max and min vectors org neuroph util data norm org neuroph core learning stop
+find max and min vectors org neuroph util data norm * org neuroph core transfer
+find max and min vectors org neuroph util data norm * * org neuroph nnet
+find max and min vectors org neuroph util data norm * org neuroph nnet comp
+find max and min vectors org neuroph util data norm org neuroph nnet comp layer
+find max and min vectors org neuroph util data norm org neuroph nnet comp neuron
+find max and min vectors org neuroph util data norm * org neuroph nnet learning
+find max and min vectors org neuroph util data norm org neuroph nnet learning kmeans
+find max and min vectors org neuroph util data norm org neuroph nnet learning knn
+find max and min vectors org neuroph util data norm * * org neuroph util
+find max and min vectors org neuroph util data norm * org neuroph util benchmark
+find max and min vectors org neuroph util data norm org neuroph util data sample
+find max and min vectors org neuroph util data norm * org neuroph util io
+find max and min vectors org neuroph util data norm * org neuroph util plugins
+find max and min vectors org neuroph util data norm * org neuroph util random

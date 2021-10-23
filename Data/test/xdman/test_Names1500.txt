@@ -1,23 +1,22 @@
-* * xdman ui components
-* * * xdman videoparser
-* * * xdman videoparser
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman win32
+* load image 6 4 * * xdman ui components * * * xdman videoparser
+* load image 6 4 * * xdman ui components * * * xdman videoparser
+* load image 6 4 * * xdman ui components * * * * xdman
+* load image 6 4 * * xdman ui components * * * xdman downloaders
+* load image 6 4 * * xdman ui components * * xdman downloaders dash
+* load image 6 4 * * xdman ui components * * xdman downloaders ftp
+* load image 6 4 * * xdman ui components * * xdman downloaders hds
+* load image 6 4 * * xdman ui components * * xdman downloaders hls
+* load image 6 4 * * xdman ui components * * xdman downloaders http
+* load image 6 4 * * xdman ui components * * xdman downloaders metadata
+* load image 6 4 * * xdman ui components * xdman downloaders metadata manifests
+* load image 6 4 * * xdman ui components * * * xdman mediaconversion
+* load image 6 4 * * xdman ui components * * * xdman monitoring
+* load image 6 4 * * xdman ui components * * * xdman network
+* load image 6 4 * * xdman ui components * * xdman network ftp
+* load image 6 4 * * xdman ui components * * xdman network http
+* load image 6 4 * * xdman ui components * xdman network http proxy
+* load image 6 4 * * xdman ui components * * * xdman preview
+* load image 6 4 * * xdman ui components * * xdman ui laf
+* load image 6 4 * * xdman ui components * * xdman ui res
+* load image 6 4 * * xdman ui components * * * xdman util
+* load image 6 4 * * xdman ui components * * * xdman win32

@@ -1,22 +1,21 @@
-* * xdman downloaders dash
-* * xdman downloaders metadata
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* find next needy chunk * * xdman downloaders dash * * xdman downloaders metadata
+* find next needy chunk * * xdman downloaders dash * * * * xdman
+* find next needy chunk * * xdman downloaders dash * * * xdman downloaders
+* find next needy chunk * * xdman downloaders dash * * xdman downloaders ftp
+* find next needy chunk * * xdman downloaders dash * * xdman downloaders hds
+* find next needy chunk * * xdman downloaders dash * * xdman downloaders hls
+* find next needy chunk * * xdman downloaders dash * * xdman downloaders http
+* find next needy chunk * * xdman downloaders dash * xdman downloaders metadata manifests
+* find next needy chunk * * xdman downloaders dash * * * xdman mediaconversion
+* find next needy chunk * * xdman downloaders dash * * * xdman monitoring
+* find next needy chunk * * xdman downloaders dash * * * xdman network
+* find next needy chunk * * xdman downloaders dash * * xdman network ftp
+* find next needy chunk * * xdman downloaders dash * * xdman network http
+* find next needy chunk * * xdman downloaders dash * xdman network http proxy
+* find next needy chunk * * xdman downloaders dash * * * xdman preview
+* find next needy chunk * * xdman downloaders dash * * xdman ui components
+* find next needy chunk * * xdman downloaders dash * * xdman ui laf
+* find next needy chunk * * xdman downloaders dash * * xdman ui res
+* find next needy chunk * * xdman downloaders dash * * * xdman util
+* find next needy chunk * * xdman downloaders dash * * * xdman videoparser
+* find next needy chunk * * xdman downloaders dash * * * xdman win32

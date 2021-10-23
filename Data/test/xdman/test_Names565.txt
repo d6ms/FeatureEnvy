@@ -1,22 +1,21 @@
-* * * * xdman
-* * xdman ui components
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * queue item pending * * * * xdman * * xdman ui components
+* * queue item pending * * * * xdman * * * xdman downloaders
+* * queue item pending * * * * xdman * * xdman downloaders dash
+* * queue item pending * * * * xdman * * xdman downloaders ftp
+* * queue item pending * * * * xdman * * xdman downloaders hds
+* * queue item pending * * * * xdman * * xdman downloaders hls
+* * queue item pending * * * * xdman * * xdman downloaders http
+* * queue item pending * * * * xdman * * xdman downloaders metadata
+* * queue item pending * * * * xdman * xdman downloaders metadata manifests
+* * queue item pending * * * * xdman * * * xdman mediaconversion
+* * queue item pending * * * * xdman * * * xdman monitoring
+* * queue item pending * * * * xdman * * * xdman network
+* * queue item pending * * * * xdman * * xdman network ftp
+* * queue item pending * * * * xdman * * xdman network http
+* * queue item pending * * * * xdman * xdman network http proxy
+* * queue item pending * * * * xdman * * * xdman preview
+* * queue item pending * * * * xdman * * xdman ui laf
+* * queue item pending * * * * xdman * * xdman ui res
+* * queue item pending * * * * xdman * * * xdman util
+* * queue item pending * * * * xdman * * * xdman videoparser
+* * queue item pending * * * * xdman * * * xdman win32

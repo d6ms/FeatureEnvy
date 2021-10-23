@@ -1,23 +1,22 @@
-* * org neuroph util
-* * org neuroph core
-* org neuroph core data
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-* org neuroph core learning
-org neuroph core learning error
-org neuroph core learning stop
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-* org neuroph nnet learning
-org neuroph nnet learning kmeans
-org neuroph nnet learning knn
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+* * * array 2network * * org neuroph util * * org neuroph core
+* * * array 2network * * org neuroph util * org neuroph core data
+* * * array 2network * * org neuroph util * org neuroph core events
+* * * array 2network * * org neuroph util * org neuroph core exceptions
+* * * array 2network * * org neuroph util * org neuroph core input
+* * * array 2network * * org neuroph util * org neuroph core learning
+* * * array 2network * * org neuroph util org neuroph core learning error
+* * * array 2network * * org neuroph util org neuroph core learning stop
+* * * array 2network * * org neuroph util * org neuroph core transfer
+* * * array 2network * * org neuroph util * * org neuroph nnet
+* * * array 2network * * org neuroph util * org neuroph nnet comp
+* * * array 2network * * org neuroph util org neuroph nnet comp layer
+* * * array 2network * * org neuroph util org neuroph nnet comp neuron
+* * * array 2network * * org neuroph util * org neuroph nnet learning
+* * * array 2network * * org neuroph util org neuroph nnet learning kmeans
+* * * array 2network * * org neuroph util org neuroph nnet learning knn
+* * * array 2network * * org neuroph util * org neuroph util benchmark
+* * * array 2network * * org neuroph util org neuroph util data norm
+* * * array 2network * * org neuroph util org neuroph util data sample
+* * * array 2network * * org neuroph util * org neuroph util io
+* * * array 2network * * org neuroph util * org neuroph util plugins
+* * * array 2network * * org neuroph util * org neuroph util random

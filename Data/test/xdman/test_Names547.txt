@@ -1,22 +1,21 @@
-* * * * xdman
-* * xdman ui components
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * remove listener * * * * xdman * * xdman ui components
+* * * remove listener * * * * xdman * * * xdman downloaders
+* * * remove listener * * * * xdman * * xdman downloaders dash
+* * * remove listener * * * * xdman * * xdman downloaders ftp
+* * * remove listener * * * * xdman * * xdman downloaders hds
+* * * remove listener * * * * xdman * * xdman downloaders hls
+* * * remove listener * * * * xdman * * xdman downloaders http
+* * * remove listener * * * * xdman * * xdman downloaders metadata
+* * * remove listener * * * * xdman * xdman downloaders metadata manifests
+* * * remove listener * * * * xdman * * * xdman mediaconversion
+* * * remove listener * * * * xdman * * * xdman monitoring
+* * * remove listener * * * * xdman * * * xdman network
+* * * remove listener * * * * xdman * * xdman network ftp
+* * * remove listener * * * * xdman * * xdman network http
+* * * remove listener * * * * xdman * xdman network http proxy
+* * * remove listener * * * * xdman * * * xdman preview
+* * * remove listener * * * * xdman * * xdman ui laf
+* * * remove listener * * * * xdman * * xdman ui res
+* * * remove listener * * * * xdman * * * xdman util
+* * * remove listener * * * * xdman * * * xdman videoparser
+* * * remove listener * * * * xdman * * * xdman win32

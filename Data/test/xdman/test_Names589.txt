@@ -1,22 +1,21 @@
-* * * * xdman
-* * xdman ui components
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * notify app update * * * * xdman * * xdman ui components
+* * notify app update * * * * xdman * * * xdman downloaders
+* * notify app update * * * * xdman * * xdman downloaders dash
+* * notify app update * * * * xdman * * xdman downloaders ftp
+* * notify app update * * * * xdman * * xdman downloaders hds
+* * notify app update * * * * xdman * * xdman downloaders hls
+* * notify app update * * * * xdman * * xdman downloaders http
+* * notify app update * * * * xdman * * xdman downloaders metadata
+* * notify app update * * * * xdman * xdman downloaders metadata manifests
+* * notify app update * * * * xdman * * * xdman mediaconversion
+* * notify app update * * * * xdman * * * xdman monitoring
+* * notify app update * * * * xdman * * * xdman network
+* * notify app update * * * * xdman * * xdman network ftp
+* * notify app update * * * * xdman * * xdman network http
+* * notify app update * * * * xdman * xdman network http proxy
+* * notify app update * * * * xdman * * * xdman preview
+* * notify app update * * * * xdman * * xdman ui laf
+* * notify app update * * * * xdman * * xdman ui res
+* * notify app update * * * * xdman * * * xdman util
+* * notify app update * * * * xdman * * * xdman videoparser
+* * notify app update * * * * xdman * * * xdman win32

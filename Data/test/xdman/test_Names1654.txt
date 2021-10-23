@@ -1,23 +1,22 @@
-* * xdman ui components
-* * * xdman mediaconversion
-* * * xdman mediaconversion
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * show format panel * * xdman ui components * * * xdman mediaconversion
+* * show format panel * * xdman ui components * * * xdman mediaconversion
+* * show format panel * * xdman ui components * * * * xdman
+* * show format panel * * xdman ui components * * * xdman downloaders
+* * show format panel * * xdman ui components * * xdman downloaders dash
+* * show format panel * * xdman ui components * * xdman downloaders ftp
+* * show format panel * * xdman ui components * * xdman downloaders hds
+* * show format panel * * xdman ui components * * xdman downloaders hls
+* * show format panel * * xdman ui components * * xdman downloaders http
+* * show format panel * * xdman ui components * * xdman downloaders metadata
+* * show format panel * * xdman ui components * xdman downloaders metadata manifests
+* * show format panel * * xdman ui components * * * xdman monitoring
+* * show format panel * * xdman ui components * * * xdman network
+* * show format panel * * xdman ui components * * xdman network ftp
+* * show format panel * * xdman ui components * * xdman network http
+* * show format panel * * xdman ui components * xdman network http proxy
+* * show format panel * * xdman ui components * * * xdman preview
+* * show format panel * * xdman ui components * * xdman ui laf
+* * show format panel * * xdman ui components * * xdman ui res
+* * show format panel * * xdman ui components * * * xdman util
+* * show format panel * * xdman ui components * * * xdman videoparser
+* * show format panel * * xdman ui components * * * xdman win32

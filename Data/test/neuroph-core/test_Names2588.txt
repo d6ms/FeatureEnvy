@@ -1,23 +1,22 @@
-org neuroph nnet learning kmeans
-* org neuroph core data
-* * org neuroph core
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-* org neuroph core learning
-org neuroph core learning error
-org neuroph core learning stop
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-* org neuroph nnet learning
-org neuroph nnet learning knn
-* * org neuroph util
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+* * get data set org neuroph nnet learning kmeans * org neuroph core data
+* * get data set org neuroph nnet learning kmeans * * org neuroph core
+* * get data set org neuroph nnet learning kmeans * org neuroph core events
+* * get data set org neuroph nnet learning kmeans * org neuroph core exceptions
+* * get data set org neuroph nnet learning kmeans * org neuroph core input
+* * get data set org neuroph nnet learning kmeans * org neuroph core learning
+* * get data set org neuroph nnet learning kmeans org neuroph core learning error
+* * get data set org neuroph nnet learning kmeans org neuroph core learning stop
+* * get data set org neuroph nnet learning kmeans * org neuroph core transfer
+* * get data set org neuroph nnet learning kmeans * * org neuroph nnet
+* * get data set org neuroph nnet learning kmeans * org neuroph nnet comp
+* * get data set org neuroph nnet learning kmeans org neuroph nnet comp layer
+* * get data set org neuroph nnet learning kmeans org neuroph nnet comp neuron
+* * get data set org neuroph nnet learning kmeans * org neuroph nnet learning
+* * get data set org neuroph nnet learning kmeans org neuroph nnet learning knn
+* * get data set org neuroph nnet learning kmeans * * org neuroph util
+* * get data set org neuroph nnet learning kmeans * org neuroph util benchmark
+* * get data set org neuroph nnet learning kmeans org neuroph util data norm
+* * get data set org neuroph nnet learning kmeans org neuroph util data sample
+* * get data set org neuroph nnet learning kmeans * org neuroph util io
+* * get data set org neuroph nnet learning kmeans * org neuroph util plugins
+* * get data set org neuroph nnet learning kmeans * org neuroph util random

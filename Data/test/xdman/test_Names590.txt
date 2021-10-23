@@ -1,22 +1,21 @@
-* * * * xdman
-* * xdman ui components
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* * xdman downloaders metadata
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * clear notifications * * * * xdman * * xdman ui components
+* * * clear notifications * * * * xdman * * * xdman downloaders
+* * * clear notifications * * * * xdman * * xdman downloaders dash
+* * * clear notifications * * * * xdman * * xdman downloaders ftp
+* * * clear notifications * * * * xdman * * xdman downloaders hds
+* * * clear notifications * * * * xdman * * xdman downloaders hls
+* * * clear notifications * * * * xdman * * xdman downloaders http
+* * * clear notifications * * * * xdman * * xdman downloaders metadata
+* * * clear notifications * * * * xdman * xdman downloaders metadata manifests
+* * * clear notifications * * * * xdman * * * xdman mediaconversion
+* * * clear notifications * * * * xdman * * * xdman monitoring
+* * * clear notifications * * * * xdman * * * xdman network
+* * * clear notifications * * * * xdman * * xdman network ftp
+* * * clear notifications * * * * xdman * * xdman network http
+* * * clear notifications * * * * xdman * xdman network http proxy
+* * * clear notifications * * * * xdman * * * xdman preview
+* * * clear notifications * * * * xdman * * xdman ui laf
+* * * clear notifications * * * * xdman * * xdman ui res
+* * * clear notifications * * * * xdman * * * xdman util
+* * * clear notifications * * * * xdman * * * xdman videoparser
+* * * clear notifications * * * * xdman * * * xdman win32

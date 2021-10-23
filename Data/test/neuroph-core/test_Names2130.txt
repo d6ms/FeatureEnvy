@@ -1,23 +1,22 @@
-* * org neuroph core
-* org neuroph core input
-* org neuroph core transfer
-* org neuroph core data
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core learning
-org neuroph core learning error
-org neuroph core learning stop
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-* org neuroph nnet learning
-org neuroph nnet learning kmeans
-org neuroph nnet learning knn
-* * org neuroph util
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+* * add input connection * * org neuroph core * org neuroph core transfer
+* * add input connection * * org neuroph core * org neuroph core input
+* * add input connection * * org neuroph core * org neuroph core data
+* * add input connection * * org neuroph core * org neuroph core events
+* * add input connection * * org neuroph core * org neuroph core exceptions
+* * add input connection * * org neuroph core * org neuroph core learning
+* * add input connection * * org neuroph core org neuroph core learning error
+* * add input connection * * org neuroph core org neuroph core learning stop
+* * add input connection * * org neuroph core * * org neuroph nnet
+* * add input connection * * org neuroph core * org neuroph nnet comp
+* * add input connection * * org neuroph core org neuroph nnet comp layer
+* * add input connection * * org neuroph core org neuroph nnet comp neuron
+* * add input connection * * org neuroph core * org neuroph nnet learning
+* * add input connection * * org neuroph core org neuroph nnet learning kmeans
+* * add input connection * * org neuroph core org neuroph nnet learning knn
+* * add input connection * * org neuroph core * * org neuroph util
+* * add input connection * * org neuroph core * org neuroph util benchmark
+* * add input connection * * org neuroph core org neuroph util data norm
+* * add input connection * * org neuroph core org neuroph util data sample
+* * add input connection * * org neuroph core * org neuroph util io
+* * add input connection * * org neuroph core * org neuroph util plugins
+* * add input connection * * org neuroph core * org neuroph util random

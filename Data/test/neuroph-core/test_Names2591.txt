@@ -1,23 +1,22 @@
-org neuroph nnet learning kmeans
-* org neuroph core data
-* * org neuroph core
-* org neuroph core events
-* org neuroph core exceptions
-* org neuroph core input
-* org neuroph core learning
-org neuroph core learning error
-org neuroph core learning stop
-* org neuroph core transfer
-* * org neuroph nnet
-* org neuroph nnet comp
-org neuroph nnet comp layer
-org neuroph nnet comp neuron
-* org neuroph nnet learning
-org neuroph nnet learning knn
-* * org neuroph util
-* org neuroph util benchmark
-org neuroph util data norm
-org neuroph util data sample
-* org neuroph util io
-* org neuroph util plugins
-* org neuroph util random
+* * * get clusters org neuroph nnet learning kmeans * org neuroph core data
+* * * get clusters org neuroph nnet learning kmeans * * org neuroph core
+* * * get clusters org neuroph nnet learning kmeans * org neuroph core events
+* * * get clusters org neuroph nnet learning kmeans * org neuroph core exceptions
+* * * get clusters org neuroph nnet learning kmeans * org neuroph core input
+* * * get clusters org neuroph nnet learning kmeans * org neuroph core learning
+* * * get clusters org neuroph nnet learning kmeans org neuroph core learning error
+* * * get clusters org neuroph nnet learning kmeans org neuroph core learning stop
+* * * get clusters org neuroph nnet learning kmeans * org neuroph core transfer
+* * * get clusters org neuroph nnet learning kmeans * * org neuroph nnet
+* * * get clusters org neuroph nnet learning kmeans * org neuroph nnet comp
+* * * get clusters org neuroph nnet learning kmeans org neuroph nnet comp layer
+* * * get clusters org neuroph nnet learning kmeans org neuroph nnet comp neuron
+* * * get clusters org neuroph nnet learning kmeans * org neuroph nnet learning
+* * * get clusters org neuroph nnet learning kmeans org neuroph nnet learning knn
+* * * get clusters org neuroph nnet learning kmeans * * org neuroph util
+* * * get clusters org neuroph nnet learning kmeans * org neuroph util benchmark
+* * * get clusters org neuroph nnet learning kmeans org neuroph util data norm
+* * * get clusters org neuroph nnet learning kmeans org neuroph util data sample
+* * * get clusters org neuroph nnet learning kmeans * org neuroph util io
+* * * get clusters org neuroph nnet learning kmeans * org neuroph util plugins
+* * * get clusters org neuroph nnet learning kmeans * org neuroph util random

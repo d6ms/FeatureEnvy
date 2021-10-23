@@ -1,22 +1,21 @@
-* * xdman ui components
-* * xdman downloaders metadata
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * set timestamp * * xdman ui components * * xdman downloaders metadata
+* * * set timestamp * * xdman ui components * * * * xdman
+* * * set timestamp * * xdman ui components * * * xdman downloaders
+* * * set timestamp * * xdman ui components * * xdman downloaders dash
+* * * set timestamp * * xdman ui components * * xdman downloaders ftp
+* * * set timestamp * * xdman ui components * * xdman downloaders hds
+* * * set timestamp * * xdman ui components * * xdman downloaders hls
+* * * set timestamp * * xdman ui components * * xdman downloaders http
+* * * set timestamp * * xdman ui components * xdman downloaders metadata manifests
+* * * set timestamp * * xdman ui components * * * xdman mediaconversion
+* * * set timestamp * * xdman ui components * * * xdman monitoring
+* * * set timestamp * * xdman ui components * * * xdman network
+* * * set timestamp * * xdman ui components * * xdman network ftp
+* * * set timestamp * * xdman ui components * * xdman network http
+* * * set timestamp * * xdman ui components * xdman network http proxy
+* * * set timestamp * * xdman ui components * * * xdman preview
+* * * set timestamp * * xdman ui components * * xdman ui laf
+* * * set timestamp * * xdman ui components * * xdman ui res
+* * * set timestamp * * xdman ui components * * * xdman util
+* * * set timestamp * * xdman ui components * * * xdman videoparser
+* * * set timestamp * * xdman ui components * * * xdman win32

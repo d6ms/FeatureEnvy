@@ -1,22 +1,21 @@
-* * xdman ui components
-* * xdman downloaders metadata
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders hls
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman mediaconversion
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * get info * * xdman ui components * * xdman downloaders metadata
+* * * get info * * xdman ui components * * * * xdman
+* * * get info * * xdman ui components * * * xdman downloaders
+* * * get info * * xdman ui components * * xdman downloaders dash
+* * * get info * * xdman ui components * * xdman downloaders ftp
+* * * get info * * xdman ui components * * xdman downloaders hds
+* * * get info * * xdman ui components * * xdman downloaders hls
+* * * get info * * xdman ui components * * xdman downloaders http
+* * * get info * * xdman ui components * xdman downloaders metadata manifests
+* * * get info * * xdman ui components * * * xdman mediaconversion
+* * * get info * * xdman ui components * * * xdman monitoring
+* * * get info * * xdman ui components * * * xdman network
+* * * get info * * xdman ui components * * xdman network ftp
+* * * get info * * xdman ui components * * xdman network http
+* * * get info * * xdman ui components * xdman network http proxy
+* * * get info * * xdman ui components * * * xdman preview
+* * * get info * * xdman ui components * * xdman ui laf
+* * * get info * * xdman ui components * * xdman ui res
+* * * get info * * xdman ui components * * * xdman util
+* * * get info * * xdman ui components * * * xdman videoparser
+* * * get info * * xdman ui components * * * xdman win32

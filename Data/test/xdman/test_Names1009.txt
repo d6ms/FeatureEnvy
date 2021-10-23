@@ -1,22 +1,21 @@
-* * xdman downloaders hls
-* * xdman downloaders metadata
-* * * xdman mediaconversion
-* * * * xdman
-* * * xdman downloaders
-* * xdman downloaders dash
-* * xdman downloaders ftp
-* * xdman downloaders hds
-* * xdman downloaders http
-* xdman downloaders metadata manifests
-* * * xdman monitoring
-* * * xdman network
-* * xdman network ftp
-* * xdman network http
-* xdman network http proxy
-* * * xdman preview
-* * xdman ui components
-* * xdman ui laf
-* * xdman ui res
-* * * xdman util
-* * * xdman videoparser
-* * * xdman win32
+* * * process segments * * xdman downloaders hls * * xdman downloaders metadata
+* * * process segments * * xdman downloaders hls * * * xdman mediaconversion
+* * * process segments * * xdman downloaders hls * * * * xdman
+* * * process segments * * xdman downloaders hls * * * xdman downloaders
+* * * process segments * * xdman downloaders hls * * xdman downloaders dash
+* * * process segments * * xdman downloaders hls * * xdman downloaders ftp
+* * * process segments * * xdman downloaders hls * * xdman downloaders hds
+* * * process segments * * xdman downloaders hls * * xdman downloaders http
+* * * process segments * * xdman downloaders hls * xdman downloaders metadata manifests
+* * * process segments * * xdman downloaders hls * * * xdman monitoring
+* * * process segments * * xdman downloaders hls * * * xdman network
+* * * process segments * * xdman downloaders hls * * xdman network ftp
+* * * process segments * * xdman downloaders hls * * xdman network http
+* * * process segments * * xdman downloaders hls * xdman network http proxy
+* * * process segments * * xdman downloaders hls * * * xdman preview
+* * * process segments * * xdman downloaders hls * * xdman ui components
+* * * process segments * * xdman downloaders hls * * xdman ui laf
+* * * process segments * * xdman downloaders hls * * xdman ui res
+* * * process segments * * xdman downloaders hls * * * xdman util
+* * * process segments * * xdman downloaders hls * * * xdman videoparser
+* * * process segments * * xdman downloaders hls * * * xdman win32
